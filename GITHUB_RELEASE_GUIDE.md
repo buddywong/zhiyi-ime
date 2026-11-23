@@ -1,9 +1,9 @@
-# GitHub 发布操作清单
+﻿# GitHub 发布操作清单
 
 仓库：**<https://github.com/buddywong/zhiyi-ime>**  
 仓库名：**`zhiyi-ime`**  
 公开源码：是（MIT）  
-首个版本：`v1.0.0-beta.1`（无签名开发者预览）  
+首个版本：`v1.0.0-beta.2`（无签名开发者预览）  
 反馈主入口：腾讯问卷 / 问卷星（国内），GitHub Issues 作为开发者补充。
 
 ## 一、创建仓库
@@ -25,7 +25,7 @@ Topics 建议：
 ```bash
 git init
 git add .
-git commit -m "chore: 知意 1.0.0-beta.1"
+git commit -m "chore: 知意 1.0.0-beta.2"
 git branch -M main
 git remote add origin https://github.com/buddywong/zhiyi-ime.git
 git push -u origin main
@@ -42,7 +42,7 @@ powershell -ExecutionPolicy Bypass -File tools/push-to-github.ps1
 
 ## 三、创建 Beta Release
 
-Tag：`v1.0.0-beta.1`  
+Tag：`v1.0.0-beta.2`  
 标题：`知意 1.0.0 Beta 1 · 开发者预览`
 
 Release 说明可直接使用 `RELEASE_NOTES-1.0.0.md`，并加一段：
@@ -52,9 +52,9 @@ Release 说明可直接使用 `RELEASE_NOTES-1.0.0.md`，并加一段：
 
 上传资产：
 
-- `zhiyi-ime-v1.0.0-beta.1-Setup.exe`
-- `zhiyi-ime-v1.0.0-beta.1-Portable.zip`
-- `zhiyi-ime-v1.0.0-beta.1-Rime.zip`
+- `zhiyi-ime-v1.0.0-beta.2-Setup.exe`
+- `zhiyi-ime-v1.0.0-beta.2-Portable.zip`
+- `zhiyi-ime-v1.0.0-beta.2-Rime.zip`
 - `SHA256SUMS.txt`
 
 `release/` 目录已经准备好这些 Beta 命名副本。
