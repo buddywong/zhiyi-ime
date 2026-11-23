@@ -50,16 +50,27 @@ jobs:
             dist/安装说明.txt
           if-no-files-found: error
 
+      - name: Clean previous release
+        if: startsWith(github.ref, 'refs/tags/')
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release delete "${{ github.ref_name }}" --yes 2>$null
+          exit 0
+
       - name: Prepare beta release assets
         if: startsWith(github.ref, 'refs/tags/')
         shell: pwsh
         run: |
           $tag = "${{ github.ref_name }}"
+          $base = "zhiyi-ime-$tag"
           $out = Join-Path "release" $tag
           New-Item -ItemType Directory -Path $out -Force | Out-Null
-          Copy-Item "dist\知意输入法-1.0.0-Setup.exe" (Join-Path $out "知意输入法-$tag-Setup.exe")
-          Copy-Item "dist\知意输入法-1.0.0-Portable.zip" (Join-Path $out "知意输入法-$tag-Portable.zip")
-          Copy-Item "dist\知意输入法-Rime-1.0.0.zip" (Join-Path $out "知意输入法-$tag-Rime.zip")
+          Copy-Item "dist\知意输入法-1.0.0-Setup.exe" (Join-Path $out "$base-Setup.exe")
+          Copy-Item "dist\知意输入法-1.0.0-Portable.zip" (Join-Path $out "$base-Portable.zip")
+          Copy-Item "dist\知意输入法-Rime-1.0.0.zip" (Join-Path $out "$base-Rime.zip")
           Get-ChildItem $out -File | Where-Object { $_.Extension -in '.exe', '.zip' } |
             ForEach-Object {
               $hash = (Get-FileHash $_.FullName -Algorithm SHA256).Hash.ToLower()
