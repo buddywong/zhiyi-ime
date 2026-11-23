@@ -5,7 +5,8 @@
 
 > **当前发布：`v1.0.0-beta.1` 开发者预览（无签名）**  
 > 公开源码、MIT；安装包未签名，SmartScreen 可能提示。使用 Rime 方案前需先安装小狼毫。  
-> 反馈问卷 / Issue 入口见 [FEEDBACK.md](FEEDBACK.md) 和 [RELEASE.md](RELEASE.md)。
+> 反馈问卷：<https://wj.qq.com/s2/28788718/3ozy/>  
+> 也可以提交 GitHub Issues；问卷题目草稿见 [FEEDBACK.md](FEEDBACK.md)。
 
 ![知意桌面预览](preview/desktop.jpg)
 
@@ -269,7 +270,8 @@ powershell -ExecutionPolicy Bypass -File installer/build-rime-package.ps1
 - 发布节奏、平台优先级和所需资质见 [RELEASE.md](RELEASE.md)；
 - 隐私说明见 [PRIVACY.md](PRIVACY.md)；
 - 版本变更见 [CHANGELOG.md](CHANGELOG.md)；
-- 问题反馈请使用仓库 Issues，并先移除地址、电话、税号等敏感信息。
+- 国内匿名反馈问卷：<https://wj.qq.com/s2/28788718/3ozy/>；
+- 也可以使用仓库 Issues；请先移除地址、电话、税号等敏感信息。
 
 当前安装包**没有数字签名**，适合作为开发者预览 / Beta 发布；正式公开下载前建议先做代码签名。
 

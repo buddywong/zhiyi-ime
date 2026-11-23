@@ -31,5 +31,6 @@
 
 ## 反馈
 
-请提交 GitHub Issue；国内匿名问卷即将补充到仓库 README。  
+请填写国内匿名问卷：<https://wj.qq.com/s2/28788718/3ozy/>  
+也可以提交 GitHub Issue。请勿填写真实地址、电话、税号、账号等敏感信息；详见 `PRIVACY.md`。  
 请勿填写真实地址、电话、税号、账号等敏感信息；详见 `PRIVACY.md`。

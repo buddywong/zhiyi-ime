@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 国内匿名反馈问卷
+    url: https://wj.qq.com/s2/28788718/3ozy/
+    about: Beta 体验反馈，约 2 分钟；请勿填写真实个人信息
   - name: 使用说明与常见问题
     url: https://github.com/buddywong/zhiyi-ime/blob/main/README.md
     about: 安装、Rime 部署和常见问题先看这里
