@@ -121,7 +121,11 @@
     const last = h.last || 0;
     const days = last ? Math.max(0, (Date.now() - last) / 86400000) : 30;
     const recency = 0.58 + 0.42 * Math.exp(-days / 45);
-    return 1 + Math.min(4.8, Math.log1p(h.count) * 1.38) * recency;
+    // 让“刚选过一次”的词就有明显提升：第二次输入时，用户偏好的候选更容易排到第一。
+    const boost = 1 + Math.min(6.5, Math.log1p(h.count) * 2.15) * recency;
+    const recent = days < 2 ? 1.15 : 1;
+    const oneShot = h.count === 1 && days < 7 ? 6 : 1;
+    return Math.min(12, boost * recent * oneShot);
   }
 
   function contextBoost(text, lastToken, bigrams) {

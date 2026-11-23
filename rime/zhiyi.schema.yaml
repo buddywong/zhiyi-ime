@@ -74,8 +74,9 @@ translator:
 # 它排在知意候选之后，不参与知意用户词典学习。
 luna:
   dictionary: luna_pinyin
-  enable_user_dict: false
-  initial_quality: -2
+  enable_user_dict: true
+  user_dict: luna_pinyin.userdb
+  initial_quality: -1
   spelling_hints: 0
 
 # 默认把候选里的繁体/异体转成简体，优先显示简笔字。
