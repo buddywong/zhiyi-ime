@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>知意 · 越用越懂你的中文输入法</title>
+  <meta name="description" content="知意是一款会记忆、会联想、能收藏常用段落的中文输入法。">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <svg class="svg-sprite" aria-hidden="true" focusable="false">
+    <symbol id="i-keyboard" viewBox="0 0 24 24"><rect x="3" y="6" width="18" height="12" rx="3"/><path d="M7 10h.01M11 10h.01M15 10h.01M7 14h7M17 14h.01"/></symbol>
+    <symbol id="i-layers" viewBox="0 0 24 24"><path d="m12 3 8 4.5-8 4.5-8-4.5L12 3Z"/><path d="m4 12 8 4.5 8-4.5"/><path d="m4 16.5 8 4.5 8-4.5"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3.5c.6 4.2 2.8 6.4 7 7-4.2.6-6.4 2.8-7 7-.6-4.2-2.8-6.4-7-7 4.2-.6 6.4-2.8 7-7Z"/><path d="M19 15.5c.2 1.4 1 2.2 2.5 2.5-1.5.3-2.3 1.1-2.5 2.5-.2-1.4-1-2.2-2.5-2.5 1.5-.3 2.3-1.1 2.5-2.5Z"/></symbol>
+    <symbol id="i-settings" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></symbol>
+    <symbol id="i-edit" viewBox="0 0 24 24"><path d="M4 20h4l10.5-10.5a2.1 2.1 0 0 0-3-3L5 17v3Z"/><path d="m14 7 3 3"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V5h6v2M6 7l1 13h10l1-13M10 11v5M14 11v5"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12.5 4.5 4.5L19 7.5"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M9 4h6l-1 5 3 3H7l3-3-1-5Z"/><path d="M12 12v8"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></symbol>
+    <symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 2 4.5 13.5H11L9.5 22 19 9.5h-6.5L13 2Z"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M4 20h16"/></symbol>
+    <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 16V4M7 9l5-5 5 5M4 20h16"/></symbol>
+    <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M6.1 8.5A7.5 7.5 0 0 1 19.5 12M18 15.5A7.5 7.5 0 0 1 4.5 12"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3 5 6v5c0 4.5 2.8 8 7 10 4.2-2 7-5.5 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-4"/></symbol>
+    <symbol id="i-hash" viewBox="0 0 24 24"><path d="M9 3 7 21M17 3l-2 18M4 9h16M3 15h16"/></symbol>
+    <symbol id="i-type" viewBox="0 0 24 24"><path d="M5 6V4h14v2M12 4v16M8 20h8"/></symbol>
+    <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m8 10 4 4 4-4"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v5M12 8h.01"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M14 7l5 5-5 5"/></symbol>
+    <symbol id="i-command" viewBox="0 0 24 24"><path d="M9 6a3 3 0 1 0-3 3h12a3 3 0 1 0-3-3v12a3 3 0 1 0 3-3H6a3 3 0 1 0 3 3V6Z"/></symbol>
+  </svg>
+
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#/input" aria-label="知意输入法首页">
+        <span class="brand-seal">知</span>
+        <span class="brand-text"><strong>知意</strong><small>中文输入法</small></span>
+      </a>
+
+      <nav class="side-nav" aria-label="主导航">
+        <a href="#/input" data-route="input" class="nav-item"><svg class="icon"><use href="#i-keyboard"/></svg><span>输入</span><kbd>1</kbd></a>
+        <a href="#/snippets" data-route="snippets" class="nav-item"><svg class="icon"><use href="#i-layers"/></svg><span class="nav-full">常用段落</span><span class="nav-short">段落</span><kbd>2</kbd></a>
+        <a href="#/habit" data-route="habit" class="nav-item"><svg class="icon"><use href="#i-spark"/></svg><span>习惯</span><kbd>3</kbd></a>
+        <a href="#/settings" data-route="settings" class="nav-item"><svg class="icon"><use href="#i-settings"/></svg><span>设置</span><kbd>4</kbd></a>
+      </nav>
+
+      <div class="side-note">
+        <div class="side-note-line"><span class="pulse-dot"></span><span id="side-learning">习惯学习已开启</span></div>
+        <p>所有数据只保存在这台电脑的浏览器里。</p>
+      </div>
+
+      <div class="side-foot">
+        <div class="side-version"><span>知意</span><span>v1.0 · 本地版</span></div>
+        <button class="side-theme" id="btn-theme-side" type="button" aria-label="切换深浅色">
+          <svg class="icon icon-sun"><use href="#i-sun"/></svg>
+          <span>纸白 / 墨夜</span>
+        </button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <span class="eyebrow">知意工作台</span>
+          <h2 id="page-title">输入</h2>
+        </div>
+        <div class="topbar-actions">
+          <span class="save-chip" id="save-chip"><span class="save-dot"></span>已自动保存</span>
+          <button class="btn btn-ghost hide-sm" id="btn-demo" type="button">
+            <svg class="icon"><use href="#i-bolt"/></svg>载入示例
+          </button>
+          <button class="icon-btn" id="btn-theme" type="button" aria-label="切换深浅色" title="切换深浅色">
+            <svg class="icon icon-theme-light"><use href="#i-sun"/></svg>
+            <svg class="icon icon-theme-dark"><use href="#i-moon"/></svg>
+          </button>
+        </div>
+      </header>
+
+      <!-- ── 输入 ─────────────────────────────────────────── -->
+      <section class="view is-active" data-view="input" aria-labelledby="page-title">
+        <div class="hero">
+          <div class="hero-copy">
+            <span class="eyebrow accent">越用越懂你</span>
+            <h1>把想说的话，<br><em>轻轻写下来</em>。</h1>
+            <p>输入拼音，空格上屏。知意会记住你的用词、联想和常用段落，下一次，快一点。</p>
+            <div class="hero-shortcuts">
+              <span><kbd>nihao</kbd> 你好</span>
+              <span><kbd>dz</kbd> 收件地址</span>
+              <span><kbd>Shift</kbd> 中英切换</span>
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="orbit orbit-1"></div>
+            <div class="orbit orbit-2"></div>
+            <div class="orbit orbit-3"></div>
+            <div class="seal">知<br>意</div>
+            <span class="orbit-word w1">记</span>
+            <span class="orbit-word w2">忆</span>
+            <span class="orbit-word w3">联</span>
+            <span class="orbit-word w4">想</span>
+            <p class="hero-verse">知你所想<br>写你所愿</p>
+          </div>
+        </div>
+
+        <div class="workspace">
+          <section class="editor-card">
+            <div class="editor-head">
+              <div class="doc-title">
+                <span class="doc-mark"></span>
+                <span id="doc-title">未命名文稿</span>
+                <span class="save-state" id="save-state">草稿</span>
+              </div>
+              <div class="editor-actions">
+                <button class="icon-text-btn" id="btn-clear" type="button"><svg class="icon"><use href="#i-trash"/></svg>清空</button>
+                <button class="icon-text-btn" id="btn-copy" type="button"><svg class="icon"><use href="#i-copy"/></svg>复制</button>
+              </div>
+            </div>
+
+            <div class="editor-body" id="editor-body">
+              <textarea id="editor" spellcheck="false" autocomplete="off" autocapitalize="off" aria-label="写作区"></textarea>
+              <div class="editor-placeholder" id="editor-placeholder">开始写点什么…<small>直接输入拼音，例如 nihao</small></div>
+              <div class="compose-badge" id="compose-badge" hidden>
+                <span class="compose-dot"></span><span id="compose-mode">拼音</span>
+              </div>
+            </div>
+
+            <div class="suggest-strip" id="suggest-strip" hidden>
+              <div class="suggest-label"><svg class="icon"><use href="#i-spark"/></svg><span>联想</span></div>
+              <div class="suggest-list" id="suggest-list"></div>
+              <span class="suggest-tip"><kbd>Tab</kbd> 采纳</span>
+            </div>
+
+            <div class="editor-status">
+              <div class="status-left">
+                <button class="status-pill" id="btn-mode" type="button" title="切换中英输入">中</button>
+                <button class="status-pill subtle" id="btn-punct" type="button" title="切换中文标点">中文标点</button>
+                <span class="status-item" id="status-learning"><span class="tiny-dot"></span>习惯学习 · 开</span>
+              </div>
+              <div class="status-right">
+                <span id="char-count">0 字</span>
+                <span class="status-sep"></span>
+                <span id="status-code">就绪</span>
+              </div>
+            </div>
+          </section>
+
+          <aside class="right-rail">
+            <section class="rail-card today-card">
+              <div class="rail-head"><span>今日</span><span class="rail-date" id="today-date"></span></div>
+              <div class="today-number"><strong id="today-count">0</strong><span>字</span></div>
+              <div class="mini-chart" id="mini-chart" aria-label="最近七天输入量"></div>
+              <div class="today-foot"><span>已记住 <b id="rail-learned">0</b> 个词</span><span id="rail-saved">省下 0 次按键</span></div>
+            </section>
+
+            <section class="rail-card quick-card">
+              <div class="rail-head"><span>常用段落</span><a class="rail-link" href="#/snippets">管理全部<svg class="icon"><use href="#i-arrow"/></svg></a></div>
+              <div class="quick-list" id="quick-list"></div>
+            </section>
+
+            <section class="rail-card tip-card">
+              <div class="tip-icon"><svg class="icon"><use href="#i-command"/></svg></div>
+              <div>
+                <h3>一个小习惯</h3>
+                <p id="tip-text">用 <kbd>空格</kbd> 上屏第一个候选，用 <kbd>数字</kbd> 选择其他候选。知意会记住你的选择。</p>
+              </div>
+            </section>
+          </aside>
+        </div>
+      </section>
+
+      <!-- ── 常用段落 ─────────────────────────────────────── -->
+      <section class="view" data-view="snippets" aria-labelledby="snippets-title">
+        <div class="page-head">
+          <div>
+            <span class="eyebrow">常用段落</span>
+            <h1 id="snippets-title">把重复的话，收进一个抽屉。</h1>
+            <p>地址、开票信息、邮件落款，都可以变成一个两字母的触发码。</p>
+          </div>
+          <div class="head-actions">
+            <span class="rime-sync-status" data-rime-status><span class="rime-dot"></span><span class="rime-sync-text">检查中…</span></span>
+            <button class="btn btn-ghost" id="btn-sync-rime" type="button"><svg class="icon"><use href="#i-refresh"/></svg>同步到小狼毫</button>
+            <button class="btn btn-primary" id="btn-new-snippet" type="button"><svg class="icon"><use href="#i-plus"/></svg>新建段落</button>
+          </div>
+        </div>
+
+        <div class="list-toolbar">
+          <div class="filter-chips" id="snippet-filters"></div>
+          <label class="search-box">
+            <svg class="icon"><use href="#i-search"/></svg>
+            <input id="snippet-search" type="search" placeholder="搜索标题、内容或触发码" autocomplete="off">
+          </label>
+        </div>
+
+        <div class="snippet-grid" id="snippet-grid"></div>
+        <div class="empty-state" id="snippets-empty" hidden>
+          <div class="empty-seal">段</div>
+          <h3>这里还没有段落</h3>
+          <p>新建一个常用段落，或换个筛选条件试试。</p>
+          <button class="btn btn-primary" id="btn-empty-new" type="button"><svg class="icon"><use href="#i-plus"/></svg>新建段落</button>
+        </div>
+        <p class="list-hint">小提示：在输入框里直接输入触发码，例如 <kbd>dz</kbd>，就可以把整个段落叫出来。</p>
+      </section>
+
+      <!-- ── 习惯 ─────────────────────────────────────────── -->
+      <section class="view" data-view="habit" aria-labelledby="habit-title">
+        <div class="page-head">
+          <div>
+            <span class="eyebrow">你的习惯</span>
+            <h1 id="habit-title">你的用词，正在长成一片森林。</h1>
+            <p>这些数字只来自你自己的输入，留在本地，不会上传。</p>
+          </div>
+          <button class="btn btn-ghost" id="btn-habit-clear" type="button"><svg class="icon"><use href="#i-refresh"/></svg>清空习惯</button>
+        </div>
+
+        <div class="metric-grid">
+          <div class="metric-card"><span class="metric-label">累计输入</span><strong id="m-chars">0</strong><span class="metric-suffix">字</span><p>每一个字都算数</p></div>
+          <div class="metric-card"><span class="metric-label">已记住的词</span><strong id="m-words">0</strong><span class="metric-suffix">个</span><p>越多越懂你</p></div>
+          <div class="metric-card"><span class="metric-label">段落调用</span><strong id="m-snippets">0</strong><span class="metric-suffix">次</span><p>少写了很多重复</p></div>
+          <div class="metric-card accent-card"><span class="metric-label">省下的按键</span><strong id="m-saved">0</strong><span class="metric-suffix">次</span><p>用联想和段落换来的</p></div>
+        </div>
+
+        <div class="habit-grid">
+          <section class="panel span-2">
+            <div class="panel-head"><h3>最近七天</h3><span class="panel-sub" id="week-total">共 0 字</span></div>
+            <div class="bar-chart" id="bar-chart"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-head"><h3>最常输入</h3><span class="panel-sub">词频</span></div>
+            <ol class="top-words" id="top-words"></ol>
+            <div class="panel-empty" id="top-words-empty" hidden>开始输入后，这里会出现你最常用的词。</div>
+          </section>
+          <section class="panel span-2">
+            <div class="panel-head"><h3>最近学会</h3><span class="panel-sub">按最近使用排序</span></div>
+            <div class="learned-chips" id="learned-chips"></div>
+            <div class="panel-empty" id="learned-empty" hidden>还没有学习记录。选一个候选词，知意就会记住它。</div>
+          </section>
+          <section class="panel">
+            <div class="panel-head"><h3>记忆控制</h3><span class="panel-sub">随时可以反悔</span></div>
+            <div class="setting-line compact">
+              <div><label for="habit-toggle">习惯学习</label><small>记录你的用词与选择</small></div>
+              <label class="switch"><input type="checkbox" id="habit-toggle"><span></span></label>
+            </div>
+            <div class="setting-line compact">
+              <div><label for="habit-predict-toggle">智能联想</label><small>在输入后给出下一句</small></div>
+              <label class="switch"><input type="checkbox" id="habit-predict-toggle"><span></span></label>
+            </div>
+            <button class="text-btn danger" id="btn-habit-reset" type="button">只清空学习记录</button>
+          </section>
+        </div>
+      </section>
+
+      <!-- ── 设置 ─────────────────────────────────────────── -->
+      <section class="view" data-view="settings" aria-labelledby="settings-title">
+        <div class="page-head">
+          <div>
+            <span class="eyebrow">设置</span>
+            <h1 id="settings-title">按你的方式，慢慢调。</h1>
+            <p>候选词数量、主题、字号与数据，都可以在这里调整。</p>
+          </div>
+        </div>
+
+        <div class="settings-grid">
+          <section class="panel">
+            <div class="panel-head"><h3>输入</h3><span class="panel-sub">手感</span></div>
+            <div class="setting-line">
+              <div><label for="set-candidates">候选词数量</label><small>一次显示多少个候选</small></div>
+              <div class="range-wrap"><input type="range" id="set-candidates" min="5" max="9" step="1"><output id="out-candidates">7</output></div>
+            </div>
+            <div class="setting-line">
+              <div><label for="set-learning">习惯学习</label><small>记住你选过的词与顺序</small></div>
+              <label class="switch"><input type="checkbox" id="set-learning"><span></span></label>
+            </div>
+            <div class="setting-line">
+              <div><label for="set-prediction">智能联想</label><small>上屏后推荐下一句</small></div>
+              <label class="switch"><input type="checkbox" id="set-prediction"><span></span></label>
+            </div>
+            <div class="setting-line">
+              <div><label for="set-punct">中文标点</label><small>逗号、句号自动变成全角</small></div>
+              <label class="switch"><input type="checkbox" id="set-punct"><span></span></label>
+            </div>
+            <div class="setting-line">
+              <div><label for="set-snippet-suggest">段落提示</label><small>输入触发码时优先显示段落</small></div>
+              <label class="switch"><input type="checkbox" id="set-snippet-suggest"><span></span></label>
+            </div>
+            <div class="setting-line">
+              <div><label for="set-auto-sync-rime">段落后自动同步</label><small>修改段落时自动写入小狼毫并重新部署</small></div>
+              <label class="switch"><input type="checkbox" id="set-auto-sync-rime"><span></span></label>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-head"><h3>外观</h3><span class="panel-sub">纸与墨</span></div>
+            <div class="setting-line">
+              <div><label>主题</label><small>柔和纸白，或沉静墨夜</small></div>
+              <div class="segmented" id="theme-segmented">
+                <button type="button" data-theme-btn="light">纸白</button>
+                <button type="button" data-theme-btn="dark">墨夜</button>
+              </div>
+            </div>
+            <div class="setting-line">
+              <div><label for="set-fontsize">正文字号</label><small>写作区的文字大小</small></div>
+              <div class="range-wrap"><input type="range" id="set-fontsize" min="15" max="24" step="1"><output id="out-fontsize">18</output></div>
+            </div>
+            <div class="setting-line">
+              <div><label>输入方式</label><small>全拼，支持简拼与多音组合</small></div>
+              <span class="static-chip">全拼</span>
+            </div>
+            <div class="keyboard-help">
+              <h4>快捷键</h4>
+              <div><kbd>Shift</kbd><span>中 / 英切换</span></div>
+              <div><kbd>空格</kbd><span>上屏第一个候选</span></div>
+              <div><kbd>1–9</kbd><span>选择候选</span></div>
+              <div><kbd>← →</kbd><span>在候选间移动</span></div>
+              <div><kbd>Tab</kbd><span>采纳一个联想</span></div>
+              <div><kbd>Esc</kbd><span>取消当前输入</span></div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-head"><h3>自定义词</h3><span class="panel-sub" id="custom-count">0 个</span></div>
+            <p class="panel-desc">内置词库没有的词，可以自己教给知意。拼音用空格分隔，例如 <code>zhi yi</code>。</p>
+            <form class="inline-form" id="custom-word-form">
+              <input type="text" id="custom-word" placeholder="词语，例如 知意" maxlength="12" autocomplete="off" required>
+              <input type="text" id="custom-pinyin" placeholder="拼音，例如 zhi yi" autocomplete="off" required>
+              <button class="btn btn-primary btn-sm" type="submit"><svg class="icon"><use href="#i-plus"/></svg>添加</button>
+            </form>
+            <div class="word-list" id="custom-word-list"></div>
+            <div class="panel-empty" id="custom-empty" hidden>还没有自定义词。添加一个试试。</div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-head"><h3>数据</h3><span class="panel-sub">只在本地</span></div>
+            <div class="data-row">
+              <div><strong>导出备份</strong><small>把词库、段落和习惯存成一个 JSON 文件</small></div>
+              <button class="btn btn-ghost btn-sm" id="btn-export" type="button"><svg class="icon"><use href="#i-download"/></svg>导出</button>
+            </div>
+            <div class="data-row">
+              <div><strong>导入备份</strong><small>从 JSON 文件恢复，会覆盖当前数据</small></div>
+              <button class="btn btn-ghost btn-sm" id="btn-import" type="button"><svg class="icon"><use href="#i-upload"/></svg>选择文件</button>
+              <input type="file" id="import-file" accept="application/json,.json" hidden>
+            </div>
+            <div class="data-row">
+              <div><strong>同步到小狼毫</strong><small class="rime-sync-text" data-rime-status>检查中…</small></div>
+              <button class="btn btn-ghost btn-sm" id="btn-sync-rime-settings" type="button"><svg class="icon"><use href="#i-refresh"/></svg>同步</button>
+            </div>
+            <div class="data-row">
+              <div><strong>恢复默认</strong><small>清空全部数据，回到刚安装的样子</small></div>
+              <button class="btn btn-ghost btn-sm danger-btn" id="btn-reset-all" type="button">恢复默认</button>
+            </div>
+            <div class="privacy-note"><svg class="icon"><use href="#i-shield"/></svg><span>知意没有远程服务器。你的文字、习惯与段落只存储在本机浏览器中。</span></div>
+          </section>
+
+          <section class="panel about-panel">
+            <div class="about-seal">知</div>
+            <div>
+              <h3>知意 · 中文输入法</h3>
+              <p>一个会记忆、会联想、能收藏常用段落的中文输入法实验。愿它越用越像你。</p>
+              <div class="about-meta"><span>版本 1.0</span><span>词库 <b id="about-words">0</b> 条</span><span>本地优先</span></div>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <footer class="page-foot">
+        <span>知意 · 写你所想</span>
+        <span>数据留在本地 · 不上传</span>
+      </footer>
+    </main>
+  </div>
+
+  <!-- 输入法候选浮窗 -->
+  <div class="ime-popover" id="ime-popover" hidden role="listbox" aria-label="候选词">
+    <div class="ime-head">
+      <div class="ime-code">
+        <span class="ime-preedit" id="ime-preedit"></span>
+        <span class="ime-seg" id="ime-seg"></span>
+      </div>
+      <span class="ime-esc">Esc 取消</span>
+    </div>
+    <div class="ime-list" id="ime-list"></div>
+    <div class="ime-foot">
+      <span><kbd>空格</kbd> 上屏</span>
+      <span><kbd>1–9</kbd> 选择</span>
+      <span><kbd>←</kbd><kbd>→</kbd> 移动</span>
+      <span id="ime-count-label">0 个候选</span>
+    </div>
+  </div>
+
+  <!-- 通用弹窗 -->
+  <div class="modal-backdrop" id="modal-backdrop" hidden>
+    <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-head">
+        <div><span class="eyebrow" id="modal-eyebrow">编辑</span><h3 id="modal-title">新建段落</h3></div>
+        <button class="icon-btn" id="modal-close" type="button" aria-label="关闭"><svg class="icon"><use href="#i-x"/></svg></button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+      <div class="modal-foot" id="modal-foot"></div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/data.js"></script>
+  <script src="assets/snippets.js"></script>
+  <script src="assets/seeds.js"></script>
+  <script src="assets/engine.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

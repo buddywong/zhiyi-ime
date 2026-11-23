@@ -1,0 +1,95 @@
+# Rime schema · 知意拼音
+# 安装后在小狼毫里选择「知意拼音」即可使用。
+---
+schema:
+  schema_id: zhiyi
+  name: 知意拼音
+  version: "1.0"
+  author:
+    - Zhiyi
+  description: |
+    知意拼音 · 会记忆的输入法
+    基于知意词库，启用 Rime 用户词典学习。
+    输入 dz / kp 可调出常用段落。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [中文, 西文]
+  - name: full_shape
+    reset: 0
+    states: [半角, 全角]
+  - name: ascii_punct
+    reset: 0
+    states: [中文标点, 英文标点]
+  - name: zh_simp
+    reset: 1
+    states: [繁体, 简体]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - lua_translator@*zhiyi_initials
+    - lua_translator@*zhiyi_snippets
+    - script_translator
+    - script_translator@luna
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - derive/^([jqxy])u$/$1v/
+    - derive/^([a-z]+)n$/$1ng/
+    - derive/^([a-z]+)ng$/$1n/
+    - derive/^([a-z]+)ou$/$1o/
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+
+translator:
+  dictionary: zhiyi
+  enable_user_dict: true
+  user_dict: zhiyi.userdb
+  enable_sentence: true
+  spelling_hints: 8
+
+# 兜底：借用小狼毫自带的明月拼音词库，补齐知意词库未收录的字。
+# 它排在知意候选之后，不参与知意用户词典学习。
+luna:
+  dictionary: luna_pinyin
+  enable_user_dict: false
+  initial_quality: -2
+  spelling_hints: 0
+
+# 默认把候选里的繁体/异体转成简体，优先显示简笔字。
+simplifier:
+  option_name: zh_simp
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+
+menu:
+  page_size: 9

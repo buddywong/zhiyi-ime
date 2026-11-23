@@ -1,0 +1,38 @@
+name: 功能建议
+description: 想要新的输入能力、平台或体验改进
+title: "[Feature] "
+labels: ["feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你想解决什么问题
+      description: 先描述场景，不用急着给方案。
+      placeholder: "例如：我经常输入收货地址，但每次都要翻候选..."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 你希望怎么用
+      placeholder: "例如：输入 dz 后，候选里直接出现..."
+  - type: dropdown
+    id: area
+    attributes:
+      label: 相关部分
+      options:
+        - 候选 / 词库
+        - 首字母 / 简拼
+        - 常用段落
+        - 小狼毫部署
+        - 界面 / 主题
+        - 其他
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 隐私确认
+      options:
+        - label: 我没有在内容里填写真实个人信息
+          required: true

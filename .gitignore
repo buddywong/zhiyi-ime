@@ -1,0 +1,23 @@
+# 发布产物
+dist/
+release/
+
+# 构建中间文件
+installer/build/
+_rimepkg/
+_rime-logs/
+_acl-recovery/
+_deployer-*.txt
+installer/_ImeTest*
+installer/src/_ImeTest*
+
+# 本地运行状态
+*.pid
+zhiyi-server.log
+*.log
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

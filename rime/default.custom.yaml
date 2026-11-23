@@ -1,0 +1,7 @@
+# Rime 默认配置补丁 · 知意
+# 安装脚本会先备份已有的 default.custom.yaml。
+patch:
+  schema_list:
+    - schema: zhiyi
+    - schema: luna_pinyin
+  menu/page_size: 9

@@ -1,0 +1,51 @@
+name: build
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: read
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build dictionary
+        shell: pwsh
+        run: |
+          node tools/build-dict.mjs
+          node tools/build-rime.mjs
+
+      - name: Build Windows packages
+        shell: pwsh
+        run: |
+          powershell -ExecutionPolicy Bypass -File installer/build.ps1
+          powershell -ExecutionPolicy Bypass -File installer/build-rime-package.ps1
+
+      - name: List artifacts
+        shell: pwsh
+        run: Get-ChildItem dist | Select-Object Name, Length
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: zhiyi-ime-${{ github.ref_name }}
+          path: |
+            dist/*.exe
+            dist/*.zip
+            dist/SHA256SUMS.txt
+            dist/安装说明.txt
+          if-no-files-found: error

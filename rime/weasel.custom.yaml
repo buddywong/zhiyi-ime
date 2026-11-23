@@ -1,0 +1,24 @@
+# 小狼毫外观 · 知意纸白
+# 安装脚本会备份已有的 weasel.custom.yaml，并在其不存在时启用本主题。
+patch:
+  "style/color_scheme": zhiyi_paper
+  "style/font_face": "Microsoft YaHei UI"
+  "style/font_point": 12
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/display_tray_icon": true
+  "preset_color_schemes/zhiyi_paper":
+    name: 知意·纸白
+    author: Zhiyi
+    back_color: 0xF4F0E7
+    border_color: 0xD9D1C2
+    text_color: 0x20251F
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0xB64E35
+    candidate_text_color: 0x20251F
+    comment_text_color: 0x8B9187
+    label_color: 0xB64E35
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xB64E35
+    hilited_comment_text_color: 0xFFF8EE
+    hilited_label_color: 0xFFF8EE
