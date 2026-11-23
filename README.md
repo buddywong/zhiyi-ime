@@ -42,8 +42,8 @@
 
 | 文件 | 适合谁 | 说明 |
 | --- | --- | --- |
-| `知意输入法-1.0.0-beta.1-Setup.exe` | 想正常安装 | 安装到 `%LOCALAPPDATA%\Programs\ZhiyiIME`，创建桌面 / 开始菜单快捷方式与卸载入口 |
-| `知意输入法-1.0.0-beta.1-Portable.zip` | 想解压即用 | 解压到任意目录，双击 `Zhiyi.exe`（或 `启动知意输入法.cmd`）即可 |
+| `zhiyi-ime-v1.0.0-beta.1-Setup.exe` | 想正常安装 | 安装到 `%LOCALAPPDATA%\Programs\ZhiyiIME`，创建桌面 / 开始菜单快捷方式与卸载入口 |
+| `zhiyi-ime-v1.0.0-beta.1-Portable.zip` | 想解压即用 | 解压到任意目录，双击 `Zhiyi.exe`（或 `启动知意输入法.cmd`）即可 |
 
 ![安装程序](preview/installer.jpg)
 
@@ -57,7 +57,7 @@
 
 如果希望知意**真正接管系统输入**，请使用 Rime 适配包：
 
-**`知意输入法-1.0.0-beta.1-Rime.zip`**（在 GitHub Releases 下载）
+**`zhiyi-ime-v1.0.0-beta.1-Rime.zip`**（在 GitHub Releases 下载）
 
 使用前需要先安装 **小狼毫 Weasel**（Rime 的 Windows 前端）：<https://rime.im/download/>
 

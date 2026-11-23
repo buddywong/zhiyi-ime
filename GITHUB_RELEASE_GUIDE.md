@@ -52,9 +52,9 @@ Release 说明可直接使用 `RELEASE_NOTES-1.0.0.md`，并加一段：
 
 上传资产：
 
-- `知意输入法-1.0.0-beta.1-Setup.exe`
-- `知意输入法-1.0.0-beta.1-Portable.zip`
-- `知意输入法-1.0.0-beta.1-Rime.zip`
+- `zhiyi-ime-v1.0.0-beta.1-Setup.exe`
+- `zhiyi-ime-v1.0.0-beta.1-Portable.zip`
+- `zhiyi-ime-v1.0.0-beta.1-Rime.zip`
 - `SHA256SUMS.txt`
 
 `release/` 目录已经准备好这些 Beta 命名副本。
