@@ -10,42 +10,45 @@ use_preset_vocabulary: false
 
 # text\tcode\tweight
 中国	zhong guo	92000
-生活	sheng huo	90650
-学习	xue xi	90030
-家庭	jia ting	89530
-账号	zhang hao	89110
-这样	zhe yang	88730
-那样	na yang	88390
-没有	mei you	88070
-你好吗	ni hao ma	87770
-谢谢你	xie xie ni	87490
-不客气	bu ke qi	87220
-对不起	dui bu qi	86960
-没关系	mei guan xi	86710
-再见	zai jian	86480
-请问	qing wen	86250
-为什么	wei shen me	86020
-什么时候	shen me shi hou	85810
-怎么回事	zen me hui shi	85600
-没问题	mei wen ti	85390
-辛苦了	xin ku le	85190
-好久不见	hao jiu bu jian	85000
-一路顺风	yi lu shun feng	84810
-生日快乐	sheng ri kuai le	84620
-万事如意	wan shi ru yi	84260
-心想事成	xin xiang shi cheng	84090
-身体健康	shen ti jian kang	83910
-工作顺利	gong zuo shun li	83740
-天天开心	tian tian kai xin	83410
-平平安安	ping pin ga nan	83250
-越来越好	yue lai yue hao	83090
-注意安全	zhu yi an quan	82930
-早点休息	zao dian xiu xi	82780
-保持联系	bao chi lian xi	82630
-我明白了	wo ming bai le	82480
-你说得对	ni shuo de dui	82330
-稍等一下	shao deng yi xia	82180
-马上就好	ma shang jiu hao	82040
+生活	sheng huo	90670
+学习	xue xi	90060
+家庭	jia ting	89570
+账号	zhang hao	89160
+这样	zhe yang	88790
+那样	na yang	88450
+没有	mei you	88140
+世界	shi jie	87840
+地球	di qiu	87560
+月球	yue qiu	87300
+太阳	tai yang	87040
+宇宙	yu zhou	86800
+国家	guo jia	86570
+城市	cheng shi	86340
+农村	nong cun	86120
+学校	xue xiao	85910
+医院	yi yuan	85700
+银行	yin hang	85500
+机场	ji chang	85310
+车站	che zhan	85120
+公园	gong yuan	84930
+广场	guang chang	84750
+汽车	qi che	84570
+火车	huo che	84390
+飞机	fei ji	84220
+电脑	dian nao	84050
+手机	shou ji	83880
+网络	wang luo	83720
+天气	tian qi	83550
+时间	shi jian	83400
+地方	di fang	83240
+东西	dong xi	83080
+事情	shi qing	82930
+工作	gong zuo	82780
+朋友	peng you	82630
+孩子	hai zi	82490
+父母	fu mu	82340
+家人	jia ren	82200
+老师	lao shi	82060
 不	bu	82000
 出	chu	82000
 大	da	82000
@@ -74,1763 +77,1788 @@ use_preset_vocabulary: false
 在	zai	82000
 这	zhe	82000
 中	zhong	82000
+学生	xue sheng	81920
 会	hui	81910
-有空吗	you kong ma	81890
+医生	yi sheng	81780
 可	ke	81750
-怎么样	zen me yang	81750
-大家好	da jia hao	81610
+警察	jing cha	81650
 也	ye	81600
-早上好	zao shang hao	81470
+法律	fa lu	81510
 你	ni	81440
-晚上好	wan shang hao	81340
+经济	jing ji	81380
 对	dui	81290
-晚安	wa nan	81200
+文化	wen hua	81250
 生	sheng	81150
-明天见	ming tian jian	81070
+历史	li shi	81120
 能	neng	81000
-下次见	xia ci jian	80930
+科学	ke xue	80990
+技术	ji shu	80860
 而	er	80850
-收到谢谢	shou dao xie xie	80800
+艺术	yi shu	80730
 子	zi	80710
-加油	jia you	80670
+音乐	yin yue	80600
 那	na	80570
+电影	dian ying	80480
 得	de	80430
+游戏	you xi	80360
 于	yu	80290
-她	ta	80160
+运动	yun dong	80230
 着	zhe	80160
-它	ta	80040
+健康	jian kang	80110
 下	xia	80020
-我们	wo men	79910
+食物	shi wu	79990
 自	zi	79890
-你们	ni men	79790
+水果	shui guo	79870
 之	zhi	79760
-他们	ta men	79670
+蔬菜	shu cai	79750
+动物	dong wu	79640
 年	nian	79630
-她们	ta men	79550
+植物	zhi wu	79520
 过	guo	79500
-自己	zi ji	79430
+你好吗	ni hao ma	79400
 发	fa	79370
-大家	da jia	79310
-没有	mo you	79260
+没有	mo you	79320
+谢谢你	xie xie ni	79290
 后	hou	79240
-别人	bie ren	79190
+不客气	bu ke qi	79170
 作	zuo	79120
-这个	zhe ge	79070
+对不起	dui bu qi	79060
 里	li	78990
-那个	na ge	78960
+没关系	mei guan xi	78950
 用	yong	78870
-哪个	na ge	78840
+再见	zai jian	78840
+地球	de qiu	78810
 道	dao	78750
-这些	zhe xie	78730
+请问	qing wen	78720
 行	xing	78630
-那些	na xie	78610
+为什么	wei shen me	78610
 所	suo	78510
-这里	zhe li	78500
+什么时候	shen me shi hou	78500
+怎么回事	zen me hui shi	78400
 然	ran	78390
-那里	na li	78390
-哪里	na li	78280
+没问题	mei wen ti	78290
 家	jia	78270
-什么	shen me	78170
+辛苦了	xin ku le	78180
 种	zhong	78160
-怎么	zen me	78060
+好久不见	hao jiu bu jian	78070
 事	shi	78040
-没关系	mei guan ji	78040
-因为	yin wei	77950
+一路顺风	yi lu shun feng	77970
 成	cheng	77930
-所以	suo yi	77840
-再见	zai xian	77830
+生日快乐	sheng ri kuai le	77860
 方	fang	77810
-但是	dan shi	77730
 多	duo	77700
-如果	ru guo	77620
+万事如意	wan shi ru yi	77650
 经	jing	77590
-虽然	sui ran	77520
+心想事成	xin xiang shi cheng	77550
 么	me	77470
-而且	er qie	77410
+身体健康	shen ti jian kang	77450
 去	qu	77360
-然后	ran hou	77310
+工作顺利	gong zuo shun li	77340
 法	fa	77250
-还是	hai shi	77200
 学	xue	77140
-或者	huo zhe	77100
+天天开心	tian tian kai xin	77140
 如	ru	77040
-可以	ke yi	76990
+平平安安	ping pin ga nan	77040
+银行	yin xing	76950
+越来越好	yue lai yue hao	76940
 都	dou	76930
-可能	ke neng	76890
-没问题	mo wen ti	76850
+注意安全	zhu yi an quan	76840
 同	tong	76820
-应该	ying gai	76790
+早点休息	zao dian xiu xi	76740
 现	xian	76710
-需要	xu yao	76690
-辛苦了	xin ku liao	76680
+保持联系	bao chi lian xi	76640
 当	dang	76610
-必须	bi xu	76590
+我明白了	wo ming bai le	76550
 没	mei	76500
-好久不见	hao jiu bu xian	76500
-已经	yi jing	76490
+你说得对	ni shuo de dui	76450
 动	dong	76400
-正在	zheng zai	76390
+稍等一下	shao deng yi xia	76350
 面	mian	76300
-马上	ma shang	76290
+马上就好	ma shang jiu hao	76260
 起	qi	76190
-刚刚	gang gang	76190
-生日快乐	sheng ri kuai yue	76160
+有空吗	you kong ma	76160
 看	kan	76090
-一直	yi zhi	76090
+怎么样	zen me yang	76060
 定	ding	75990
-一定	yi ding	75990
+大家好	da jia hao	75970
 天	tian	75890
-一起	yi qi	75890
-一样	yi yang	75800
+早上好	zao shang hao	75870
 分	fen	75790
-一些	yi xie	75700
+晚上好	wan shang hao	75780
 还	hai	75690
-一点	yi dian	75600
+晚安	wa nan	75690
 进	jin	75590
-一下	yi xia	75510
+明天见	ming tian jian	75590
+下次见	xia ci jian	75500
 好	hao	75490
-时候	shi hou	75410
+收到谢谢	shou dao xie xie	75410
 小	xiao	75390
-现在	xian zai	75320
+加油	jia you	75320
 部	bu	75290
-今天	jin tian	75220
 其	qi	75200
-明天	ming tian	75130
 些	xie	75100
-昨天	zuo tian	75040
 主	zhu	75000
-后天	hou tian	74940
+她	ta	74950
+地方	de fang	74920
 样	yang	74910
-前天	qian tian	74850
+它	ta	74860
 理	li	74810
-早上	zao shang	74760
+我们	wo men	74770
 心	xin	74720
-上午	shang wu	74670
-中午	zhong wu	74570
+你们	ni men	74680
+他们	ta men	74590
 本	ben	74530
-下午	xia wu	74480
+她们	ta men	74510
 前	qian	74440
-晚上	wan shang	74390
-保持联系	bao chi lian ji	74360
+自己	zi ji	74420
 开	kai	74340
-今年	jin nian	74300
+大家	da jia	74330
 但	dan	74250
-我明白了	wo ming bai liao	74230
-明年	ming nian	74210
+别人	bie ren	74240
 因	yin	74160
-去年	qu nian	74120
-你说得对	ni shuo dei dui	74100
+这个	zhe ge	74160
 只	zhi	74070
-最近	zui jin	74030
+那个	na ge	74070
 从	cong	73980
-以后	yi hou	73940
+哪个	na ge	73980
+这些	zhe xie	73900
 想	xiang	73890
-以前	yi qian	73860
+那些	na xie	73810
 实	shi	73800
-之前	zhi qian	73770
+这里	zhe li	73730
 日	ri	73710
-之后	zhi hou	73680
+那里	na li	73640
 军	jun	73620
-时间	shi jian	73590
+哪里	na li	73560
 者	zhe	73530
-地方	di fang	73510
-大家好	dai jia hao	73450
+什么	shen me	73470
 意	yi	73440
-东西	dong xi	73420
+怎么	zen me	73390
 无	wu	73350
-事情	shi qing	73330
+因为	yin wei	73300
 力	li	73260
-问题	wen ti	73250
-办法	ban fa	73160
+所以	suo yi	73220
+但是	dan shi	73140
 与	yu	73090
-方法	fang fa	73070
+如果	ru guo	73050
 长	zhang	73000
-样子	yang zi	72990
-明天见	ming tian xian	72960
+虽然	sui ran	72970
 把	ba	72920
-感觉	gan jue	72900
-下次见	xia ci xian	72840
+而且	er qie	72890
 机	ji	72830
-觉得	jue de	72820
+然后	ran hou	72810
 十	shi	72740
-知道	zhi dao	72740
+还是	hai shi	72730
 民	min	72660
-认识	ren shi	72650
+或者	huo zhe	72640
 第	di	72570
-明白	ming bai	72570
+可以	ke yi	72560
+音乐	yin le	72540
 公	gong	72490
-理解	li jie	72490
+可能	ke neng	72480
 此	ci	72410
-希望	xi wang	72400
+应该	ying gai	72400
 已	yi	72320
-喜欢	xi huan	72320
+需要	xu yao	72320
 工	gong	72240
-想要	xiang yao	72240
+必须	bi xu	72240
+已经	yi jing	72160
 使	shi	72150
-准备	zhun bei	72150
+正在	zheng zai	72080
 情	qing	72070
-开始	kai shi	72070
+马上	ma shang	72000
 明	ming	71990
-结束	jie shu	71990
+刚刚	gang gang	71920
 性	xing	71910
-继续	ji xu	71910
-完成	wan cheng	71830
+一直	yi zhi	71850
 知	zhi	71820
-发现	fa xian	71750
+一定	yi ding	71770
 全	quan	71740
-认为	ren wei	71670
+一起	yi qi	71690
 三	san	71660
-表示	biao shi	71590
+一样	yi yang	71610
 又	you	71580
-出现	chu xian	71510
+一些	yi xie	71530
 关	guan	71500
-发生	fa sheng	71430
+一点	yi dian	71460
 点	dian	71420
-大家	dai jia	71380
-存在	cun zai	71350
+一下	yi xia	71380
 正	zheng	71340
-成为	cheng wei	71270
+时候	shi hou	71300
 业	ye	71260
-作为	zuo wei	71190
+现在	xian zai	71220
 外	wai	71180
-使用	shi yong	71110
+今天	jin tian	71150
 将	jiang	71100
-进行	jin xing	71030
+明天	ming tian	71070
+没关系	mei guan ji	71050
 两	liang	71020
-提供	ti gong	70950
+昨天	zuo tian	71000
+再见	zai xian	70950
 高	gao	70940
-支持	zhi chi	70880
+后天	hou tian	70920
 间	jian	70860
-帮助	bang zhu	70800
+前天	qian tian	70840
 由	you	70780
-参加	can jia	70720
+早上	zao shang	70770
 问	wen	70700
-安排	an pai	70640
+上午	shang wu	70690
 很	hen	70630
-联系	lian xi	70570
+中午	zhong wu	70620
 最	zui	70550
-确认	que ren	70490
+下午	xia wu	70540
 重	zhong	70470
-回复	hui fu	70410
+晚上	wan shang	70470
+没问题	mo wen ti	70460
 并	bing	70390
-发送	fa song	70340
+今年	jin nian	70390
+辛苦了	xin ku liao	70360
 物	wu	70320
-收到	shou dao	70260
+明年	ming nian	70320
+好久不见	hao jiu bu xian	70270
+去年	qu nian	70250
 手	shou	70240
-没关系	mo guan xi	70240
-谢谢	xie xie	70180
+最近	zui jin	70170
 应	ying	70160
-你好	ni hao	70110
+以后	yi hou	70100
 战	zhan	70090
-麻烦	ma fan	70030
+生日快乐	sheng ri kuai yue	70080
+以前	yi qian	70030
 向	xiang	70010
-好的	hao de	69960
+之前	zhi qian	69950
 头	tou	69940
-稍等	shao deng	69880
+之后	zhi hou	69880
 文	wen	69860
-当然	dang ran	69810
+问题	wen ti	69810
 体	ti	69790
-真的	zhen de	69730
+办法	ban fa	69730
 政	zheng	69710
-非常	fei chang	69660
+方法	fang fa	69660
 美	mei	69640
-特别	te bie	69580
+样子	yang zi	69590
 相	xiang	69560
-比较	bi jiao	69510
+感觉	gan jue	69520
 见	jian	69490
-还是	huan shi	69480
-有点	you dian	69430
+觉得	jue de	69450
 被	bei	69410
-很多	hen duo	69360
+知道	zhi dao	69370
 利	li	69340
-不少	bu shao	69290
+认识	ren shi	69300
 什	shen	69270
-所有	suo you	69210
+明白	ming bai	69230
 二	er	69190
-每个	mei ge	69140
+理解	li jie	69160
 等	deng	69120
-其他	qi ta	69070
+希望	xi wang	69090
 产	chan	69050
-另外	ling wai	68990
+喜欢	xi huan	69020
+保持联系	bao chi lian ji	68980
 或	huo	68970
-其实	qi shi	68920
+想要	xiang yao	68950
 新	xin	68900
-也许	ye xu	68850
+我明白了	wo ming bai liao	68890
+准备	zhun bei	68880
 己	ji	68830
-大概	da gai	68780
+开始	kai shi	68810
+你说得对	ni shuo dei dui	68800
 制	zhi	68760
-左右	zuo you	68700
+结束	jie shu	68740
 身	shen	68680
-大约	da yue	68630
+继续	ji xu	68670
 果	guo	68610
-主要	zhu yao	68560
+完成	wan cheng	68600
 加	jia	68540
-重要	zhong yao	68490
+发现	fa xian	68530
 西	xi	68470
-简单	jian dan	68420
+认为	ren wei	68460
 斯	si	68400
-复杂	fu za	68350
+表示	biao shi	68390
+大家好	dai jia hao	68370
 月	yue	68330
-方便	fang bian	68280
+出现	chu xian	68320
 话	hua	68260
-清楚	qing chu	68210
+发生	fa sheng	68250
 合	he	68190
-详细	xiang xi	68130
+存在	cun zai	68180
+成为	cheng wei	68120
 回	hui	68110
-具体	ju ti	68060
+作为	zuo wei	68050
 特	te	68040
-正确	zheng que	67990
+明天见	ming tian xian	68030
+使用	shi yong	67980
 代	dai	67970
-错误	cuo wu	67920
+下次见	xia ci xian	67950
+进行	jin xing	67910
 内	nei	67900
-成功	cheng gong	67850
+提供	ti gong	67840
 信	xin	67830
-失败	shi bai	67780
+支持	zhi chi	67780
 表	biao	67770
-免费	mian fei	67710
+帮助	bang zhu	67710
 化	hua	67700
-收费	shou fei	67640
+参加	can jia	67640
 老	lao	67630
-安全	an quan	67580
+安排	an pai	67570
 给	gei	67560
-稳定	wen ding	67510
+联系	lian xi	67510
 世	shi	67490
-快速	kuai su	67440
+确认	que ren	67440
 位	wei	67420
-好看	hao kan	67370
+回复	hui fu	67370
 次	ci	67350
-好用	hao yong	67300
+发送	fa song	67310
 度	du	67280
 大	dai	67240
 地	di	67240
 的	di	67240
 和	huo	67240
 了	liao	67240
-好吃	hao chi	67230
+收到	shou dao	67240
 门	men	67220
 会	kuai	67170
-好玩	hao wan	67160
+谢谢	xie xie	67170
 任	ren	67150
-舒服	shu fu	67090
+你好	ni hao	67110
 常	chang	67080
-开心	kai xin	67030
+麻烦	ma fan	67040
 先	xian	67010
-高兴	gao xing	66960
+好的	hao de	66970
 海	hai	66940
-难过	nan guo	66890
+稍等	shao deng	66910
+大家	dai jia	66900
 通	tong	66880
-生气	sheng qi	66820
+当然	dang ran	66840
 教	jiao	66810
-担心	dan xin	66760
+真的	zhen de	66780
 儿	r	66740
-放心	fang xin	66690
+非常	fei chang	66710
 原	yuan	66680
-满意	man yi	66620
+特别	te bie	66650
 东	dong	66610
-失望	shi wang	66550
+比较	bi jiao	66580
 声	sheng	66540
-惊喜	jing xi	66490
+有点	you dian	66520
 提	ti	66480
-感谢	gan xie	66420
+很多	hen duo	66450
 立	li	66410
-抱歉	bao qian	66350
+不少	bu shao	66390
 及	ji	66340
-不好意思	bu hao yi si	66290
+所有	suo you	66320
 比	bi	66280
-知意	zhi yi	66220
+每个	mei ge	66260
 员	yuan	66210
-地方	de fang	66160
+其他	qi ta	66190
 解	jie	66150
-输入法	shu ru fa	66150
-输入	shu ru	66090
+另外	ling wai	66130
 水	shui	66080
-候选	hou xuan	66020
+其实	qi shi	66070
 名	ming	66010
-联想	lian xiang	65960
+也许	ye xu	66000
 得	dei	65950
 真	zhen	65950
-段落	duan luo	65890
+大概	da gai	65940
 论	lun	65880
-习惯	xi guan	65830
+左右	zuo you	65880
 处	chu	65820
-记忆	ji yi	65760
+大约	da yue	65810
 走	zou	65750
+主要	zhu yao	65750
 着	zhao	65730
-本地	ben de	65700
 义	yi	65690
+重要	zhong yao	65680
 各	ge	65630
-设置	she zhi	65630
-感觉	gan jiao	65610
-浩瀚	hao han	65570
+简单	jian dan	65620
 入	ru	65560
-觉得	jue dei	65540
-瀚	han	65500
+复杂	fu za	65560
 几	ji	65500
-北京	bei jing	65440
+方便	fang bian	65500
+还是	huan shi	65450
 口	kou	65430
+清楚	qing chu	65430
 认	ren	65370
-上海	shang hai	65370
+详细	xiang xi	65370
 条	tiao	65310
-广州	guang zhou	65310
+具体	ju ti	65310
+正确	zheng que	65250
 平	ping	65240
-深圳	shen zhen	65240
 系	xi	65180
-重庆	chong qing	65180
+错误	cuo wu	65180
+成功	cheng gong	65120
 气	qi	65110
-成都	cheng du	65110
+失败	shi bai	65060
 题	ti	65050
-杭州	hang zhou	65050
+免费	mian fei	65000
 活	huo	64990
-武汉	wu han	64990
+收费	shou fei	64940
 尔	er	64920
-西安	xian	64920
+安全	an quan	64870
 更	geng	64860
-南京	nan jing	64860
+稳定	wen ding	64810
 别	bie	64800
-天津	tian jin	64800
+快速	kuai su	64750
 打	da	64740
-苏州	su zhou	64730
+好看	hao kan	64690
 女	nu	64670
-重新	chong xin	64670
+好用	hao yong	64630
 变	bian	64610
-重复	chong fu	64610
+好吃	hao chi	64570
 四	si	64550
-重量	zhong liang	64540
+好玩	hao wan	64510
 神	shen	64490
 行	hang	64480
-数量	shu liang	64480
+舒服	shu fu	64440
 总	zong	64430
-质量	zhi liang	64420
+开心	kai xin	64380
 何	he	64360
-尽量	jin liang	64350
+高兴	gao xing	64320
 电	dian	64300
-行业	hang ye	64290
+难过	nan guo	64260
 数	shu	64240
-行长	hang zhang	64230
+生气	sheng qi	64200
 安	an	64180
-同行	tong hang	64170
+担心	dan xin	64140
 少	shao	64120
-银行	yin hang	64110
+放心	fang xin	64080
 报	bao	64060
-音乐	yin yue	64040
+满意	man yi	64020
 才	cai	63990
-快乐	kuai le	63980
+失望	shi wang	63960
+没关系	mo guan xi	63950
 结	jie	63930
-进行	jin hang	63930
-处理	chu li	63920
+惊喜	jing xi	63900
 反	fan	63870
-到处	dao chu	63860
+感谢	gan xie	63840
 受	shou	63810
-为了	wei le	63800
+抱歉	bao qian	63780
 目	mu	63750
-了解	liao jie	63730
+不好意思	bu hao yi si	63720
 太	tai	63690
-得到	de dao	63670
-参加	shen jia	63650
+知意	zhi yi	63660
 量	liang	63630
-目的	mu di	63610
+输入法	shu ru fa	63600
 再	zai	63570
-的确	di que	63550
+输入	shu ru	63540
 感	gan	63510
-联系	lian ji	63510
-归还	gui huan	63490
+候选	hou xuan	63480
 建	jian	63450
-还款	huan kuan	63430
+联想	lian xiang	63430
 务	wu	63390
-长江	chang jiang	63370
+段落	duan luo	63370
 做	zuo	63330
-长大	zhang da	63310
+习惯	xi guan	63310
 接	jie	63270
-校长	xiao zhang	63250
+记忆	ji yi	63250
 必	bi	63210
-没关系	mo guan ji	63210
-出差	chu chai	63190
+本地	ben de	63190
 场	chang	63150
+设置	she zhi	63130
 件	jian	63090
 都	du	63080
-参差	ce n ci	63070
+浩瀚	hao han	63070
 计	ji	63030
-便宜	pian yi	63000
+瀚	han	63010
 管	guan	62970
-好的	hao di	62960
-着急	zhao ji	62940
+北京	bei jing	62960
 期	qi	62910
-着火	zhao huo	62880
+上海	shang hai	62900
 市	shi	62850
-睡着	shui zhao	62820
+广州	guang zhou	62840
 直	zhi	62790
-看着	kan zhe	62770
-真的	zhen di	62760
+深圳	shen zhen	62780
 德	de	62740
 没	mo	62730
-空调	kong tiao	62710
+重庆	chong qing	62720
 资	zi	62680
-调查	diao cha	62650
+成都	cheng du	62670
 命	ming	62620
-调整	tiao zheng	62590
+杭州	hang zhou	62610
+感觉	gan jiao	62570
 山	shan	62560
-上班	shang ban	62530
+武汉	wu han	62550
 金	jin	62500
-下班	xia ban	62470
+觉得	jue dei	62500
+西安	xian	62490
 指	zhi	62440
-工作	gong zuo	62410
+南京	nan jing	62430
 克	ke	62380
-公司	gong si	62350
+天津	tian jin	62380
 许	xu	62330
-地址	di zhi	62290
+苏州	su zhou	62320
 统	tong	62270
-爸爸	ba ba	62230
+重新	chong xin	62260
 区	qu	62210
-妈妈	ma ma	62170
+重复	chong fu	62210
 保	bao	62150
-父母	fu mu	62110
+重量	zhong liang	62150
 至	zhi	62090
+数量	shu liang	62090
 还	huan	62060
-父亲	fu qin	62050
 队	dui	62040
-母亲	mu qin	62000
+质量	zhi liang	62030
 形	xing	61980
-儿子	r zi	61940
+尽量	jin liang	61980
 社	she	61920
-大概	dai gai	61900
-女儿	nu r	61880
+行业	hang ye	61920
 便	bian	61860
-孩子	hai zi	61820
+行长	hang zhang	61860
 空	kong	61810
-大约	dai yue	61770
-老公	lao gong	61760
+同行	tong hang	61810
 决	jue	61750
-老婆	lao po	61700
+快乐	kuai le	61750
+处理	chu li	61700
 治	zhi	61690
-丈夫	zhang fu	61650
 展	zhan	61640
-重要	chong yao	61640
-妻子	qi zi	61590
+到处	dao chu	61640
 马	ma	61580
-哥哥	ge ge	61530
+为了	wei le	61580
+了解	liao jie	61530
 科	ke	61520
 司	si	61470
-姐姐	jie jie	61470
-方便	fang pian	61450
-弟弟	di di	61420
+得到	de dao	61470
+目的	mu di	61420
 五	wu	61410
-妹妹	mei mei	61360
+的确	di que	61360
 基	ji	61350
 眼	yan	61300
-爷爷	ye ye	61300
+归还	gui huan	61300
+还款	huan kuan	61250
 书	shu	61240
-奶奶	nai nai	61240
-外公	wai gong	61190
+长江	chang jiang	61190
 非	fei	61180
+长大	zhang da	61140
 则	ze	61130
-外婆	wai po	61130
+进行	jin hang	61120
+校长	xiao zhang	61080
 听	ting	61070
-叔叔	shu shu	61070
+出差	chu chai	61030
 白	bai	61020
-阿姨	a yi	61010
 却	que	60960
-朋友	peng you	60960
+参差	ce n ci	60920
 界	jie	60900
-同事	tong shi	60900
+参加	shen jia	60880
+便宜	pian yi	60860
 达	da	60850
-领导	ling dao	60840
+着急	zhao ji	60810
 光	guang	60790
-老板	lao ban	60790
+联系	lian ji	60760
+着火	zhao huo	60750
 放	fang	60740
-客户	ke hu	60730
+睡着	shui zhao	60700
 强	qiang	60680
-用户	yong hu	60670
+看着	kan zhe	60640
 即	ji	60630
-同学	tong xue	60620
+空调	kong tiao	60590
 像	xiang	60570
-老师	lao shi	60560
+调查	diao cha	60530
 难	nan	60520
-学生	xue sheng	60510
+调整	tiao zheng	60480
 且	qie	60460
-医生	yi sheng	60450
+上班	shang ban	60420
 权	quan	60410
-司机	si ji	60390
+下班	xia ban	60370
 思	si	60350
-家人	jia ren	60340
+公司	gong si	60310
 王	wang	60300
-亲戚	qin qi	60280
+好的	hao di	60280
+地址	di zhi	60260
 象	xiang	60240
-男朋友	nan peng you	60220
+爸爸	ba ba	60210
 完	wan	60190
-女朋友	nu peng you	60170
+妈妈	ma ma	60150
 设	she	60130
+父亲	fu qin	60100
+真的	zhen di	60100
 式	shi	60080
+母亲	mu qin	60040
 色	se	60020
+儿子	r zi	59990
 路	lu	59970
+女儿	nu r	59940
 记	ji	59910
+老公	lao gong	59880
 南	nan	59860
 长	chang	59860
-六	liu	59840
+老婆	lao po	59830
 品	pin	59810
-七	qi	59780
+丈夫	zhang fu	59770
 住	zhu	59750
-八	ba	59730
+妻子	qi zi	59720
 告	gao	59700
-九	jiu	59670
+哥哥	ge ge	59670
 类	lei	59640
+姐姐	jie jie	59610
 求	qiu	59590
-百	bai	59560
+弟弟	di di	59560
 据	ju	59540
-千	qian	59510
+妹妹	mei mei	59510
 程	cheng	59480
-万	wan	59450
+爷爷	ye ye	59450
 北	bei	59430
-亿	yi	59400
+奶奶	nai nai	59400
 边	bian	59380
-零	ling	59340
+外公	wai gong	59350
+大概	dai gai	59340
 死	si	59320
-段落	duan la	59300
-第一	di yi	59290
+外婆	wai po	59300
 张	zhang	59270
-第二	di er	59230
+叔叔	shu shu	59240
+大约	dai yue	59230
 该	gai	59220
-一半	yi ban	59180
+阿姨	a yi	59190
 交	jiao	59160
-本地	ben di	59130
-两个	liang ge	59120
+同事	tong shi	59140
+重要	chong yao	59120
 规	gui	59110
-三个	san ge	59070
-几个	ji ge	59020
+领导	ling dao	59080
+万	wan	59060
+老板	lao ban	59030
 取	qu	59000
-觉得	jiao de	58980
-多少	duo shao	58960
+客户	ke hu	58980
 拉	la	58950
-几点	ji dian	58910
+方便	fang pian	58950
+用户	yong hu	58930
 格	ge	58900
-星期一	xing qi yi	58850
+同学	tong xue	58870
 望	wang	58840
-星期二	xing qi er	58800
+司机	si ji	58820
 觉	jue	58790
-星期三	xing qi san	58750
+亲戚	qin qi	58770
 术	shu	58740
+男朋友	nan peng you	58720
 领	ling	58690
-星期四	xing qi si	58690
-重庆	zhong qing	58660
-星期五	xing qi wu	58640
+女朋友	nu peng you	58670
 共	gong	58630
-成都	cheng dou	58600
 确	que	58580
-星期六	xing qi liu	58580
 传	chuan	58530
-星期日	xing qi ri	58530
 师	shi	58480
-周末	zhou mo	58480
 观	guan	58420
-工作日	gong zuo ri	58420
 清	qing	58370
-小时	xiao shi	58370
+六	liu	58350
 今	jin	58320
-分钟	fen zhong	58320
+七	qi	58300
 切	qie	58270
-秒钟	miao zhong	58260
+八	ba	58250
 院	yuan	58220
-半天	ban tian	58210
-重新	zhong xin	58200
+九	jiu	58200
 让	rang	58170
-每天	mei tian	58160
-重复	zhong fu	58150
 识	shi	58110
-每周	mei zhou	58100
-重量	chong liang	58090
+百	bai	58100
 候	hou	58060
-每月	mei yue	58050
+千	qian	58050
 带	dai	58010
-每年	mei nian	58000
 导	dao	57960
+亿	yi	57940
 争	zheng	57910
+零	ling	57890
 运	yun	57860
-行业	xing ye	57860
-行长	xing zhang	57810
+第一	di yi	57840
 笑	xiao	57800
 重	chong	57790
+第二	di er	57790
 飞	fei	57750
-同行	tong xing	57750
+一半	yi ban	57740
 风	feng	57700
-银行	yin xing	57690
+两个	liang ge	57690
 步	bu	57650
-音乐	yin le	57640
+三个	san ge	57640
 改	gai	57600
-快乐	kuai yue	57580
+几个	ji ge	57590
 收	shou	57550
+没关系	mo guan ji	57550
+多少	duo shao	57540
 根	gen	57500
-读	du	57470
+几点	ji dian	57480
 干	gan	57450
-写	xie	57420
-为了	wei liao	57420
+星期一	xing qi yi	57430
 造	zao	57400
-吃	chi	57370
-了解	le jie	57360
+星期二	xing qi er	57380
 言	yan	57340
-喝	he	57320
-得到	dei dao	57310
+星期三	xing qi san	57330
 联	lian	57290
-买	mai	57270
-目的	mu de	57250
+星期四	xing qi si	57280
 持	chi	57240
-卖	mai	57210
-的确	de que	57200
+星期五	xing qi wu	57230
 组	zu	57190
+星期六	xing qi liu	57180
 每	mei	57140
-归还	gui hai	57140
+星期日	xing qi ri	57130
 济	ji	57090
-还款	hai kuan	57090
-拿	na	57060
+周末	zhou mo	57080
 车	che	57040
-长江	zhang jiang	57030
+段落	duan la	57030
+工作日	gong zuo ri	57030
 亲	qin	56990
 见	xian	56980
-长大	zhang dai	56980
+小时	xiao shi	56980
 极	ji	56940
-校长	xiao chang	56920
-跑	pao	56900
+分钟	fen zhong	56930
 林	lin	56890
-出差	chu cha	56870
+秒钟	miao zhong	56880
+本地	ben di	56870
 服	fu	56840
-差旅	cha lu	56810
+半天	ban tian	56830
 快	kuai	56790
-参差	can cha	56760
-坐	zuo	56750
+每天	mei tian	56780
 办	ban	56740
-站	zhan	56700
-便宜	bian yi	56700
+每周	mei zhou	56730
 议	yi	56690
-睡	shui	56650
-着急	zhe ji	56650
+每月	mei yue	56680
 往	wang	56640
-着火	zhe huo	56600
+每年	mei nian	56630
 元	yuan	56590
 英	ying	56540
-睡着	shui zhe	56540
 士	shi	56490
-看着	kan zhao	56490
+重庆	zhong qing	56450
 证	zheng	56440
-空调	kong diao	56430
+成都	cheng dou	56400
 近	jin	56390
-调查	tiao cha	56380
-爱	ai	56340
 失	shi	56340
-调整	diao zheng	56330
 转	zhuan	56290
+觉得	jiao de	56250
 夫	fu	56240
-哭	ku	56240
 令	ling	56190
 准	zhun	56150
-找	zhao	56140
+读	du	56140
 布	bu	56100
-地址	de zhi	56060
+写	xie	56090
 始	shi	56050
-答	da	56040
+吃	chi	56040
+重新	zhong xin	56040
 怎	zen	56000
-叫	jiao	55990
+喝	he	55990
+重复	zhong fu	55990
 呢	ne	55950
+买	mai	55940
+重量	chong liang	55930
 存	cun	55900
+卖	mai	55890
 未	wei	55850
 远	yuan	55800
-儿子	er zi	55740
+叫	jiao	55750
+拿	na	55750
+行业	xing ye	55730
 台	tai	55700
-女儿	nu er	55690
+行长	xing zhang	55680
 单	dan	55660
+同行	tong xing	55630
 影	ying	55610
+跑	pao	55600
+快乐	kuai yue	55580
 具	ju	55560
 罗	luo	55510
 字	zi	55460
+坐	zuo	55460
+为了	wei liao	55420
+爱	ai	55410
+站	zhan	55410
 给	ji	55400
+了解	le jie	55370
 击	ji	55360
-送	song	55340
+睡	shui	55360
 流	liu	55320
+得到	dei dao	55320
 备	bei	55270
-付	fu	55240
+目的	mu de	55270
 兵	bing	55220
+的确	de que	55220
 连	lian	55170
+归还	gui hai	55170
 调	diao	55120
+还款	hai kuan	55120
 深	shen	55080
+长江	zhang jiang	55070
 商	shang	55030
-换	huan	54990
+长大	zhang dai	55020
+哭	ku	54980
 算	suan	54980
-选	xuan	54940
+校长	xiao chang	54970
 质	zhi	54930
+出差	chu cha	54920
 团	tuan	54880
+找	zhao	54880
+差旅	cha lu	54870
 集	ji	54840
-减	jian	54840
+参差	can cha	54820
+答	da	54790
+便宜	bian yi	54770
 需	xu	54740
 儿	er	54730
-画	hua	54700
+着急	zhe ji	54720
 价	jia	54690
-唱	chang	54650
+着火	zhe huo	54680
 花	hua	54650
+睡着	shui zhe	54630
 党	dang	54600
-跳	tiao	54600
+看着	kan zhao	54580
 华	hua	54550
-玩	wan	54550
+空调	kong diao	54530
 城	cheng	54500
+调查	tiao cha	54480
 石	shi	54460
+调整	diao zheng	54430
 级	ji	54410
-练	lian	54400
 整	zheng	54360
-试	shi	54350
-查	cha	54310
 府	fu	54310
 离	li	54270
+地址	de zhi	54230
 况	kuang	54220
-搞	gao	54210
 亚	ya	54170
-弄	nong	54160
-女朋友	nv peng you	54150
 请	qing	54130
-修	xiu	54110
+送	song	54120
 技	ji	54080
-装	zhuang	54060
+付	fu	54030
 际	ji	54030
-搬	ban	54020
+儿子	er zi	53990
 约	yue	53980
-借	jie	53970
 示	shi	53940
+女儿	nu er	53940
 着	zhuo	53900
 复	fu	53890
-租	zu	53870
 病	bing	53840
-退	tui	53820
+换	huan	53800
 息	xi	53800
-寄	ji	53770
 究	jiu	53750
-递	di	53730
+选	xuan	53750
 线	xian	53700
+减	jian	53660
 似	shi	53660
 官	guan	53610
 火	huo	53570
 断	duan	53520
-延	yan	53490
+画	hua	53520
+唱	chang	53470
 精	jing	53470
 系	ji	53450
-取消	qu xiao	53440
 满	man	53430
-提交	ti jiao	53390
+跳	tiao	53430
+玩	wan	53380
 支	zhi	53380
-审核	shen he	53340
 视	shi	53330
-通过	tong guo	53300
 消	xiao	53290
-拒绝	ju jue	53250
+练	lian	53240
 越	yue	53240
 器	qi	53200
-同意	tong yi	53200
+试	shi	53200
+查	cha	53150
 容	rong	53150
-反对	fan dui	53150
-建议	jian yi	53110
 照	zhao	53100
-觉得	jiao dei	53090
+搞	gao	53060
 须	xu	53060
-讨论	tao lun	53060
 女	nv	53030
-解决	jie jue	53010
+弄	nong	53010
+修	xiu	52970
 增	zeng	52970
-负责	fu ze	52970
 研	yan	52920
-管理	guan li	52920
-销售	xiao shou	52870
+装	zhuang	52920
+搬	ban	52870
 称	cheng	52830
-采购	cai gou	52820
+借	jie	52830
+女朋友	nv peng you	52800
 企	qi	52780
-招聘	zhao pin	52780
-面试	mian shi	52730
+租	zu	52740
 功	gong	52690
-入职	ru zhi	52680
+退	tui	52690
+寄	ji	52650
 吗	ma	52650
-离职	li zhi	52640
 包	bao	52600
-加班	jia ban	52590
+递	di	52600
 片	pian	52560
-开会	kai hui	52540
 史	shi	52510
-报告	bao gao	52500
 委	wei	52470
-汇报	hui bao	52450
 乎	hu	52420
-总结	zong jie	52400
-计划	ji hua	52360
+延	yan	52370
 轻	qing	52330
-执行	zhi xing	52310
+取消	qu xiao	52330
 易	yi	52280
-检查	jian cha	52260
+提交	ti jiao	52280
 早	zao	52240
-测试	ce shi	52220
+审核	shen he	52240
 曾	ceng	52190
-上线	shang xian	52170
+通过	tong guo	52190
 除	chu	52150
-发布	fa bu	52120
+拒绝	ju jue	52150
 农	nong	52100
-更新	geng xin	52080
-升级	sheng ji	52030
-行长	xing chang	52030
-备份	bei fen	51990
+同意	tong yi	52100
+反对	fan dui	52060
+建议	jian yi	52010
 广	guang	51970
-恢复	hui fu	51940
+讨论	tao lun	51970
 显	xian	51930
-下载	xia zai	51890
+解决	jie jue	51920
 吧	ba	51880
-上传	shang chuan	51850
+负责	fu ze	51880
 阿	a	51840
-安装	an zhuang	51800
+管理	guan li	51840
 李	li	51790
+销售	xiao shou	51790
 标	biao	51750
-登录	deng lu	51750
-注册	zhu ce	51710
+采购	cai gou	51750
 谈	tan	51700
-退出	tui chu	51660
-搜索	sou suo	51620
+招聘	zhao pin	51700
+面试	mian shi	51660
 图	tu	51610
+入职	ru zhi	51610
 念	nian	51570
-查询	cha xun	51570
-复制	fu zhi	51520
+离职	li zhi	51570
+加班	jia ban	51520
 引	yin	51480
-粘贴	zhan tie	51480
+开会	kai hui	51480
 历	li	51440
-删除	shan chu	51430
+报告	bao gao	51430
 首	shou	51390
-保存	bao cun	51390
+汇报	hui bao	51390
 医	yi	51350
-打开	da kai	51340
+总结	zong jie	51350
 局	ju	51300
-关闭	guan bi	51300
-长大	chang da	51280
+计划	ji hua	51300
 突	tu	51260
-重启	zhong qi	51250
+执行	zhi xing	51260
 专	zhuan	51210
-连接	lian jie	51210
+检查	jian cha	51210
 费	fei	51170
-断开	duan kai	51160
+测试	ce shi	51170
 号	hao	51130
-差旅	chai lu	51130
-充电	chong dian	51110
+上线	shang xian	51120
 尽	jin	51080
-参差	can chai	51080
-付款	fu kuan	51070
+发布	fa bu	51080
 另	ling	51040
-支付	zhi fu	51020
+更新	geng xin	51040
 周	zhou	51000
-着急	zhuo ji	50990
+升级	sheng ji	50990
 较	jiao	50950
-着火	zhuo huo	50940
-退款	tui kuan	50930
+备份	bei fen	50950
 注	zhu	50910
-睡着	shui zhuo	50890
-退货	tui huo	50890
+恢复	hui fu	50900
 语	yu	50860
-发货	fa huo	50840
-看着	kan zhuo	50840
+下载	xia zai	50860
 仅	jin	50820
-收货	shou huo	50800
+上传	shang chuan	50820
 考	kao	50780
-快递	kuai di	50750
+安装	an zhuang	50770
 便	pian	50730
 落	luo	50730
-物流	wu liu	50710
+登录	deng lu	50730
 青	qing	50690
-签收	qian shou	50660
+注册	zhu ce	50690
 随	sui	50650
-开票	kai piao	50620
-报销	bao xiao	50570
+退出	tui chu	50640
+觉得	jiao dei	50630
+搜索	sou suo	50600
 列	lie	50560
+查询	cha xun	50560
 武	wu	50510
+复制	fu zhi	50510
 红	hong	50470
+粘贴	zhan tie	50470
 响	xiang	50430
+删除	shan chu	50420
 虽	sui	50380
+保存	bao cun	50380
 推	tui	50340
+打开	da kai	50340
 势	shi	50300
-学校	xue xiao	50300
+关闭	guan bi	50290
 参	can	50260
-医院	yi yuan	50260
+重启	zhong qi	50250
 希	xi	50210
-酒店	jiu dian	50210
+连接	lian jie	50210
 古	gu	50170
-餐厅	can ting	50170
+断开	duan kai	50160
 众	zhong	50130
-女儿	nv r	50120
-商店	shang dian	50120
+充电	chong dian	50120
+行长	xing chang	50110
 构	gou	50080
-超市	chao shi	50080
+付款	fu kuan	50080
 房	fang	50040
-机场	ji chang	50040
+支付	zhi fu	50030
 半	ban	50000
-车站	che zhan	49990
 节	jie	49950
-地铁	de tie	49950
+退款	tui kuan	49950
 土	tu	49910
-公交	gong jiao	49900
+退货	tui huo	49910
 投	tou	49870
-出租车	chu zu che	49860
+发货	fa huo	49860
 某	mou	49820
-火车	huo che	49810
+收货	shou huo	49820
 案	an	49780
-飞机	fei ji	49770
+快递	kuai di	49780
 黑	hei	49740
-自行车	zi xing che	49730
+物流	wu liu	49730
 维	wei	49700
-手机	shou ji	49680
+签收	qian shou	49690
 革	ge	49650
-电脑	dian nao	49640
+开票	kai piao	49650
 划	hua	49610
-网络	wang luo	49590
+报销	bao xiao	49610
 敌	di	49570
-电话	dian hua	49550
 致	zhi	49530
-邮箱	you xiang	49500
+长大	chang da	49520
 陈	chen	49480
-名字	ming zi	49460
 律	lu	49440
-号码	hao ma	49420
 足	zu	49400
-身份证	shen fen zheng	49370
+差旅	chai lu	49390
 态	tai	49360
-护照	hu zhao	49330
+酒店	jiu dian	49350
+参差	can chai	49340
 护	hu	49310
-银行卡	yin xing ka	49290
-钱包	qian bao	49240
+餐厅	can ting	49310
+商店	shang dian	49260
+着急	zhuo ji	49250
 兴	xing	49230
-钥匙	yao shi	49200
+超市	chao shi	49220
+着火	zhuo huo	49210
 派	pai	49190
-衣服	yi fu	49150
+地铁	de tie	49180
+睡着	shui zhuo	49160
 孩	hai	49140
-鞋	xie	49110
+公交	gong jiao	49140
+看着	kan zhuo	49120
 验	yan	49100
+出租车	chu zu che	49090
 责	ze	49060
+自行车	zi xing che	49050
 营	ying	49020
-笔	bi	48980
+电话	dian hua	49010
 星	xing	48980
-纸	zhi	48940
+邮箱	you xiang	48970
 够	gou	48930
+名字	ming zi	48930
 章	zhang	48890
-文件	wen jian	48890
+号码	hao ma	48880
 音	yin	48850
-资料	zi liao	48850
+身份证	shen fen zheng	48840
 跟	gen	48810
-合同	he tong	48810
+护照	hu zhao	48800
 志	zhi	48770
-发票	fa piao	48760
+银行卡	yin xing ka	48760
 底	di	48720
-收据	shou ju	48720
-订单	ding dan	48680
+钱包	qian bao	48710
+钥匙	yao shi	48670
 严	yan	48640
-包裹	bao guo	48630
+衣服	yi fu	48630
 巴	ba	48600
-姓名	xing ming	48590
+鞋	xie	48590
 例	li	48560
-部门	bu men	48550
+女儿	nv r	48550
 防	fang	48510
-职位	zhi wei	48500
 族	zu	48470
-工资	gong zi	48460
+笔	bi	48460
 供	gong	48430
-奖金	jiang jin	48420
+纸	zhi	48420
 效	xiao	48390
-社保	she bao	48370
+文件	wen jian	48380
 续	xu	48350
-公积金	gong ji jin	48330
+资料	zi liao	48340
 施	shi	48310
-抬头	tai tou	48290
+合同	he tong	48300
 留	liu	48270
-税号	shui hao	48240
+发票	fa piao	48250
 讲	jiang	48220
 觉	jiao	48210
-开户行	kai hu hang	48200
+收据	shou ju	48210
 型	xing	48180
-金额	ji ne	48160
+订单	ding dan	48170
 料	liao	48140
-单价	dan jia	48110
+包裹	bao guo	48130
 终	zhong	48100
-总价	zong jia	48070
-折扣	zhe kou	48030
+姓名	xing ming	48090
+部门	bu men	48050
 紧	jin	48020
+职位	zhi wei	48000
 传	zhuan	47990
 黄	huang	47980
-运费	yun fei	47940
+工资	gong zi	47960
 绝	jue	47930
-税费	shui fei	47900
+奖金	jiang jin	47920
 奇	qi	47890
-合计	he ji	47860
+社保	she bao	47880
 察	cha	47850
-备注	bei zhu	47820
+公积金	gong ji jin	47840
 母	mu	47810
+抬头	tai tou	47800
 京	jing	47770
-日期	ri qi	47770
+税号	shui hao	47760
 段	duan	47730
-编号	bian hao	47730
+开户行	kai hu hang	47710
 依	yi	47690
-单号	dan hao	47690
+金额	ji ne	47670
 批	pi	47650
-条码	tiao ma	47650
+单价	dan jia	47630
 群	qun	47610
-二维码	er wei ma	47600
+总价	zong jia	47590
 项	xiang	47560
-密码	mi ma	47560
+折扣	zhe kou	47550
 故	gu	47520
-验证码	yan zheng ma	47520
 按	an	47480
-链接	lian jie	47480
+运费	yun fei	47470
 河	he	47440
-网站	wang zhan	47430
+税费	shui fei	47430
 米	mi	47400
-页面	ye mian	47390
+合计	he ji	47380
 围	wei	47360
-数据	shu ju	47350
+备注	bei zhu	47340
 江	jiang	47320
-信息	xin xi	47310
-开会	kai kuai	47290
+日期	ri qi	47300
 织	zhi	47280
-消息	xiao xi	47260
+编号	bian hao	47260
 害	hai	47240
-通知	tong zhi	47220
+单号	dan hao	47220
 斗	dou	47200
-邮件	you jian	47180
+条码	tiao ma	47180
 双	shuang	47160
-附件	fu jian	47140
+二维码	er wei ma	47140
 境	jing	47120
-图片	tu pian	47100
+密码	mi ma	47100
 客	ke	47080
-执行	zhi hang	47080
-视频	shi pin	47050
+验证码	yan zheng ma	47060
 纪	ji	47030
-电影	dian ying	47010
+链接	lian jie	47020
 采	cai	46990
-游戏	you xi	46970
+网站	wang zhan	46980
 举	ju	46950
-新闻	xin wen	46930
+页面	ye mian	46940
 杀	sha	46910
-文章	wen zhang	46890
+数据	shu ju	46890
 攻	gong	46870
-方案	fan gan	46840
+信息	xin xi	46850
 父	fu	46830
-行长	hang chang	46820
-项目	xiang mu	46800
+消息	xiao xi	46810
 苏	su	46790
-产品	chan pin	46760
+通知	tong zhi	46770
 密	mi	46750
-服务	fu wu	46720
+邮件	you jian	46730
 低	di	46710
-市场	shi chang	46680
+附件	fu jian	46690
 朝	chao	46670
-上传	shang zhuan	46660
+图片	tu pian	46650
 友	you	46630
-品牌	pin pai	46630
+视频	shi pin	46610
 诉	su	46590
-价格	jia ge	46590
+新闻	xin wen	46570
 止	zhi	46550
-库存	ku cun	46550
+文章	wen zhang	46530
 细	xi	46510
-售后	shou hou	46510
+方案	fan gan	46490
 愿	yuan	46470
-客服	ke fu	46470
-投诉	tou su	46430
+项目	xiang mu	46450
+产品	chan pin	46410
 值	zhi	46390
-意见	yi jian	46380
+服务	fu wu	46370
 仍	reng	46350
-需求	xu qiu	46340
+开会	kai kuai	46330
+市场	shi chang	46330
 男	nan	46310
-功能	gong neng	46300
+品牌	pin pai	46290
 钱	qian	46270
-版本	ban ben	46260
+价格	jia ge	46250
 破	po	46230
-系统	xi tong	46220
+库存	ku cun	46210
 网	wang	46190
-软件	ruan jian	46180
+售后	shou hou	46170
 热	re	46150
-长大	chang dai	46150
-硬件	ying jian	46140
-重启	chong qi	46130
+客服	ke fu	46130
+执行	zhi hang	46130
 助	zhu	46110
-设备	she bei	46090
+投诉	tou su	46090
 倒	dao	46070
-文件夹	wen jian jia	46050
+意见	yi jian	46050
 育	yu	46030
-桌面	zhuo mian	46010
+需求	xu qiu	46010
 属	shu	45990
-参差	shen cha	45970
-屏幕	ping mu	45970
-键盘	jian pan	45930
+功能	gong neng	45970
+版本	ban ben	45930
 帝	di	45910
-鼠标	shu biao	45890
+系统	xi tong	45890
 呢	ni	45880
 限	xian	45870
-耳机	er ji	45850
+软件	ruan jian	45850
 船	chuan	45830
-相机	xiang ji	45810
+硬件	ying jian	45810
 脸	lian	45790
-电池	dian chi	45770
+设备	she bei	45770
 职	zhi	45750
-充电器	chong dian qi	45720
+上传	shang zhuan	45740
+文件夹	wen jian jia	45730
 速	su	45710
-数据线	shu ju xian	45680
+桌面	zhuo mian	45690
 刻	ke	45670
-包装	bao zhuang	45640
+屏幕	ping mu	45650
 乐	le	45630
+键盘	jian pan	45610
 否	fou	45600
-说明书	shuo ming shu	45600
+鼠标	shu biao	45570
 刚	gang	45560
-保修卡	bao xiu ka	45560
+耳机	er ji	45530
 威	wei	45520
-配件	pei jian	45520
+相机	xiang ji	45490
 毛	mao	45480
-颜色	yan se	45480
+电池	dian chi	45450
 状	zhuang	45440
-尺寸	chi cun	45440
+充电器	chong dian qi	45410
 率	lu	45400
-型号	xing hao	45400
+数据线	shu ju xian	45370
 甚	shen	45360
-规格	gui ge	45360
+包装	bao zhuang	45330
 独	du	45320
-材质	cai zhi	45320
+说明书	shuo ming shu	45290
 球	qiu	45280
-产地	chan de	45270
+保修卡	bao xiu ka	45250
 般	ban	45240
-保质期	bao zhi qi	45230
+重启	chong qi	45230
+配件	pei jian	45210
 调	tiao	45200
 普	pu	45200
-生产日期	sheng chan ri qi	45190
+颜色	yan se	45170
 怕	pa	45160
-有效期	you xiao qi	45150
+尺寸	chi cun	45130
 弹	dan	45120
-女儿	nv er	45110
-我很好	wo hen hao	45110
+行长	hang chang	45100
+型号	xing hao	45090
 校	xiao	45080
-你呢	ni ne	45070
 苦	ku	45050
-我在	wo zai	45030
+规格	gui ge	45050
+材质	cai zhi	45020
 创	chuang	45010
-我在忙	wo zai mang	44990
+产地	chan de	44980
 假	jia	44970
-地铁	di tie	44950
-我在开会	wo zai kai hui	44950
+保质期	bao zhi qi	44940
 久	jiu	44930
-我在路上	wo zai lu shang	44910
+生产日期	sheng chan ri qi	44900
 错	cuo	44890
-马上到	ma shang dao	44870
+有效期	you xiao qi	44860
 承	cheng	44850
-谢谢大家	xie xie da jia	44830
+我很好	wo hen hao	44820
 印	yin	44810
-麻烦你	ma fan ni	44790
+你呢	ni ne	44780
 晚	wan	44770
-自行车	zi hang che	44750
-请问一下	qing wen yi xia	44750
+我在	wo zai	44740
 兰	lan	44730
-帮我看看	bang wo kan kan	44710
-可以吗	ke yi ma	44670
+我在忙	wo zai mang	44700
 股	gu	44660
-行不行	xing bu xing	44630
-好不好	hao bu hao	44590
+我在开会	wo zai kai hui	44660
+我在路上	wo zai lu shang	44620
 脑	nao	44580
-是不是	shi bu shi	44550
+马上到	ma shang dao	44580
+长大	chang dai	44570
+谢谢大家	xie xie da jia	44550
 预	yu	44540
-有没有	you mei you	44510
+麻烦你	ma fan ni	44510
 谁	shui	44500
-要不要	yao bu yao	44470
+请问一下	qing wen yi xia	44470
 益	yi	44460
-能不能	neng bu neng	44430
+帮我看看	bang wo kan kan	44430
 阳	yang	44420
+参差	shen cha	44410
 若	ruo	44390
-会不会	hui bu hui	44390
-银行卡	yin hang ka	44360
+可以吗	ke yi ma	44390
 哪	na	44350
-对不对	dui bu dui	44350
+行不行	xing bu xing	44350
 微	wei	44310
-怎么办	zen me ban	44310
+好不好	hao bu hao	44310
 继	ji	44270
-怎么了	zen me le	44270
-什么地方	shen me de fang	44230
+是不是	shi bu shi	44270
+地铁	di tie	44260
+有没有	you mei you	44230
+要不要	yao bu yao	44200
 急	ji	44190
-多少钱	duo shao qian	44190
+能不能	neng bu neng	44160
 血	xue	44150
-怎么走	zen me zou	44150
+自行车	zi hang che	44150
 惊	jing	44120
-怎么用	zen me yong	44110
+会不会	hui bu hui	44120
 伤	shang	44080
-什么意思	shen me yi si	44070
+对不对	dui bu dui	44080
 素	su	44040
-知道了	zhi dao le	44030
+怎么办	zen me ban	44040
 似	si	44000
 药	yao	44000
-我同意	wo tong yi	43990
+怎么了	zen me le	44000
 适	shi	43960
-我不同意	wo bu tong yi	43950
+什么地方	shen me de fang	43960
 波	bo	43920
-我建议	wo jian yi	43910
+多少钱	duo shao qian	43920
 夜	ye	43890
-我确认	wo que ren	43870
+怎么走	zen me zou	43890
+银行卡	yin hang ka	43880
 省	sheng	43850
-我安排一下	wo an pai yi xia	43830
+怎么用	zen me yong	43850
 初	chu	43810
-我联系一下	wo lian xi yi xia	43790
+什么意思	shen me yi si	43810
 喜	xi	43770
-我查一下	wo cha yi xia	43750
+知道了	zhi dao le	43770
 卫	wei	43730
-我再想想	wo zai xiang xiang	43710
+我同意	wo tong yi	43730
 源	yuan	43700
-晚点回复	wan dian hui fu	43670
+女儿	nv er	43690
+我不同意	wo bu tong yi	43690
 食	shi	43660
-回头聊	hui tou liao	43630
+我建议	wo jian yi	43650
 险	xian	43620
-祝好	zhu hao	43590
+我确认	wo que ren	43620
 待	dai	43580
-一切顺利	yi qie shun li	43550
+我安排一下	wo an pai yi xia	43580
 述	shu	43540
-新年快乐	xin nian kuai le	43510
+我联系一下	wo lian xi yi xia	43540
 陆	lu	43500
+我查一下	wo cha yi xia	43500
 习	xi	43470
-节日快乐	jie ri kuai le	43470
+我再想想	wo zai xiang xiang	43460
 置	zhi	43430
-收件地址	shou jian di zhi	43430
+晚点回复	wan dian hui fu	43420
 居	ju	43390
-收货地址	shou huo di zhi	43390
-开户行	kai hu xing	43380
+回头聊	hui tou liao	43390
 劳	lao	43350
-详细地址	xiang xi di zhi	43350
+祝好	zhu hao	43350
 财	cai	43320
 称	chen	43320
-邮寄地址	you ji di zhi	43310
+一切顺利	yi qie shun li	43310
 环	huan	43280
-家庭地址	jia ting di zhi	43270
+新年快乐	xin nian kuai le	43270
 排	pai	43240
-折扣	she kou	43230
-公司地址	gong si di zhi	43230
+节日快乐	jie ri kuai le	43230
 福	fu	43200
-收件人	shou jian ren	43190
+收件地址	shou jian di zhi	43200
 纳	na	43160
-收货人	shou huo ren	43160
+收货地址	shou huo di zhi	43160
 欢	huan	43130
-联系人	lian xi ren	43120
+详细地址	xiang xi di zhi	43120
 雷	lei	43090
-联系电话	lian xi dian hua	43080
+邮寄地址	you ji di zhi	43080
 警	jing	43050
-手机号码	shou ji hao ma	43040
+家庭地址	jia ting di zhi	43040
 获	huo	43010
-邮政编码	you zheng bian ma	43000
+公司地址	gong si di zhi	43010
 模	mo	42980
-所在地区	suo zai di qu	42960
+收件人	shou jian ren	42970
 充	chong	42940
-街道	jie dao	42920
+开户行	kai hu xing	42940
+收货人	shou huo ren	42930
 负	fu	42900
-小区	xiao qu	42880
+联系人	lian xi ren	42890
 云	yun	42860
-大厦	da sha	42840
+联系电话	lian xi dian hua	42850
 停	ting	42820
-写字楼	xie zi lou	42800
+手机号码	shou ji hao ma	42820
 木	mu	42790
-门牌号	men pai hao	42760
+折扣	she kou	42790
+邮政编码	you zheng bian ma	42780
 游	you	42750
-收货信息	shou huo xin xi	42720
+所在地区	suo zai di qu	42740
 龙	long	42710
-寄件人	ji jian ren	42690
+街道	jie dao	42700
 树	shu	42670
-寄件地址	ji jian di zhi	42650
+小区	xiao qu	42660
 疑	yi	42640
-到付	dao fu	42610
+大厦	da sha	42630
 层	ceng	42600
-包邮	bao you	42570
+写字楼	xie zi lou	42590
 冷	leng	42560
+门牌号	men pai hao	42550
 洲	zhou	42530
-顺丰	shun feng	42530
+收货信息	shou huo xin xi	42510
 冲	chong	42490
-快递单号	kuai di dan hao	42490
+寄件人	ji jian ren	42480
 射	she	42450
-物流信息	wu liu xin xi	42450
+寄件地址	ji jian di zhi	42440
 略	lve	42410
-签收人	qian shou ren	42410
+到付	dao fu	42400
 范	fan	42380
-代收点	dai shou dian	42370
+包邮	bao you	42360
 竟	jing	42340
+顺丰	shun feng	42320
 句	ju	42300
-自提	zi ti	42300
+快递单号	kuai di dan hao	42290
 室	shi	42260
-送货上门	song huo shang men	42260
+物流信息	wu liu xin xi	42250
 异	yi	42230
-北京市	bei jing shi	42220
+签收人	qian shou ren	42210
 激	ji	42190
-上海市	shang hai shi	42180
+代收点	dai shou dian	42170
 汉	han	42150
-广州市	guang zhou shi	42140
 村	cun	42120
-深圳市	shen zhen shi	42100
+自提	zi ti	42100
 哈	ha	42080
+送货上门	song huo shang men	42060
 策	ce	42040
-成都市	cheng dou shi	42030
+北京市	bei jing shi	42020
 演	yan	42000
-重庆市	zhong qing shi	41990
+上海市	shang hai shi	41990
 简	jian	41970
-南京市	nan jing shi	41950
+广州市	guang zhou shi	41950
 卡	ka	41930
-武汉市	wu han shi	41910
+深圳市	shen zhen shi	41910
 罪	zui	41890
-西安市	xian shi	41870
 判	pan	41860
-苏州市	su zhou shi	41830
+成都市	cheng dou shi	41840
 担	dan	41820
-天津市	tian jin shi	41800
+重庆市	zhong qing shi	41800
 州	zhou	41780
-长沙市	zhang sha shi	41760
+南京市	nan jing shi	41760
 静	jing	41750
-意见	yi xian	41750
-郑州市	zheng zhou shi	41720
-青岛市	qing dao shi	41680
+武汉市	wu han shi	41730
+西安市	xian shi	41690
 既	ji	41670
+苏州市	su zhou shi	41650
 衣	yi	41640
-厦门市	sha men shi	41640
+天津市	tian jin shi	41610
 落	la	41600
 您	nin	41600
-系统	ji tong	41600
-福州市	fu zhou shi	41600
-济南市	ji nan shi	41570
+长沙市	zhang sha shi	41580
 宗	zong	41560
+郑州市	zheng zhou shi	41540
 积	ji	41530
-合肥市	he fei shi	41530
+青岛市	qing dao shi	41500
 余	yu	41490
-昆明市	kun ming shi	41490
+厦门市	sha men shi	41470
 痛	tong	41450
-宁波市	ning bo shi	41450
+意见	yi xian	41440
+福州市	fu zhou shi	41430
 检	jian	41420
-无锡市	wu xi shi	41410
+济南市	ji nan shi	41390
 差	cha	41380
-参差	shen chai	41380
-佛山市	fu shan shi	41370
+合肥市	he fei shi	41360
 富	fu	41340
+昆明市	kun ming shi	41320
 灵	ling	41310
-珠海市	zhu hai shi	41300
+系统	ji tong	41300
+宁波市	ning bo shi	41280
 协	xie	41270
-三亚市	san ya shi	41260
+无锡市	wu xi shi	41240
 角	jiao	41230
-朝阳区	chao yang qu	41220
 参	shen	41210
+佛山市	fu shan shi	41210
 占	zhan	41200
-海淀区	hai dian qu	41180
 配	pei	41160
-东城区	dong cheng qu	41150
+珠海市	zhu hai shi	41130
 征	zheng	41120
-西城区	xi cheng qu	41110
+三亚市	san ya shi	41100
+朝阳区	chao yang qu	41060
 皮	pi	41050
-天河区	tian he qu	41030
+海淀区	hai dian qu	41020
 挥	hui	41010
-南山区	nan shan qu	40990
+东城区	dong cheng qu	40990
 胜	sheng	40980
-福田区	fu tian qu	40960
+西城区	xi cheng qu	40950
 降	jiang	40940
-西湖区	xi hu qu	40920
 阶	jie	40900
-武侯区	wu hou qu	40880
+天河区	tian he qu	40880
 审	shen	40870
-望京	wang jing	40840
+南山区	nan shan qu	40840
 沉	chen	40830
-中关村	zhong guan cun	40810
 坚	jian	40800
-陆家嘴	lu jia zui	40770
+福田区	fu tian qu	40800
+西湖区	xi hu qu	40770
 善	shan	40760
-产地	chan di	40750
-珠江新城	zhu jiang xin cheng	40730
+武侯区	wu hou qu	40730
 妈	ma	40720
 刘	liu	40690
-科技园	ke ji yuan	40690
-软件园	ruan jian yuan	40650
-商务区	shang wu qu	40620
+望京	wang jing	40690
+中关村	zhong guan cun	40660
+陆家嘴	lu jia zui	40620
 超	chao	40610
 免	mian	40580
-开发区	kai fa qu	40580
-你呢	ni ni	40560
+珠江新城	zhu jiang xin cheng	40580
+科技园	ke ji yuan	40550
 压	ya	40540
-高新区	gao xin qu	40540
 银	yin	40510
-开票信息	kai piao xin xi	40500
-发票抬头	fa piao tai tou	40470
-我在开会	wo zai kai kuai	40450
+软件园	ruan jian yuan	40510
+产地	chan di	40480
+商务区	shang wu qu	40470
+开发区	kai fa qu	40440
 皇	huang	40430
-单位名称	dan wei ming cheng	40430
 养	yang	40400
-公司名称	gong si ming cheng	40390
+高新区	gao xin qu	40400
 伊	yi	40360
-谢谢大家	xie xie dai jia	40350
-纳税人识别号	na shui ren shi bie hao	40350
+开票信息	kai piao xin xi	40360
 怀	huai	40330
-统一社会信用代码	tong yi she hui xin yong dai ma	40320
+发票抬头	fa piao tai tou	40330
+你呢	ni ni	40300
 执	zhi	40290
-注册地址	zhu ce di zhi	40280
+单位名称	dan wei ming cheng	40290
+公司名称	gong si ming cheng	40260
 副	fu	40250
-银行账号	yin hang zhang hao	40240
 乱	luan	40220
-发票类型	fa piao lei xing	40200
+纳税人识别号	na shui ren shi bie hao	40220
+我在开会	wo zai kai kuai	40200
 抗	kang	40180
-增值税专用发票	zeng zhi shui zhuan yong fa piao	40170
-行不行	xing bu hang	40160
+统一社会信用代码	tong yi she hui xin yong dai ma	40180
 犯	fan	40150
-增值税普通发票	zeng zhi shui pu tong fa piao	40130
+注册地址	zhu ce di zhi	40150
 追	zhui	40110
-电子发票	dian zi fa piao	40090
+银行账号	yin hang zhang hao	40110
+谢谢大家	xie xie dai jia	40090
 帮	bang	40070
-有没有	you mo you	40060
-纸质发票	zhi zhi fa piao	40050
+发票类型	fa piao lei xing	40070
 宣	xuan	40040
-开票金额	kai piao ji ne	40020
+增值税专用发票	zeng zhi shui zhuan yong fa piao	40040
 佛	fu	40000
-发票内容	fa piao nei rong	39980
+增值税普通发票	zeng zhi shui pu tong fa piao	40000
 岁	sui	39970
-会不会	hui bu kuai	39950
-发票备注	fa piao bei zhu	39940
+参差	shen chai	39970
+电子发票	dian zi fa piao	39970
 航	hang	39930
+纸质发票	zhi zhi fa piao	39930
+行不行	xing bu hang	39920
 优	you	39900
-开票日期	kai piao ri qi	39900
-发票代码	fa piao dai ma	39870
+开票金额	kai piao ji ne	39890
 怪	guai	39860
-怎么了	zen me liao	39840
-发票号码	fa piao hao ma	39830
+发票内容	fa piao nei rong	39860
 香	xiang	39820
-什么地方	shen me di fang	39800
+发票备注	fa piao bei zhu	39820
+有没有	you mo you	39810
 著	zhe	39790
-报销凭证	bao xiao ping zheng	39790
-收款账户	shou kuan zhang hu	39760
+开票日期	kai piao ri qi	39780
 田	tian	39750
+发票代码	fa piao dai ma	39750
 铁	tie	39720
-付款方式	fu kuan fang shi	39720
+会不会	hui bu kuai	39710
+发票号码	fa piao hao ma	39710
 控	kong	39680
-对公转账	dui gong zhuan zhang	39680
+报销凭证	bao xiao ping zheng	39680
 税	shui	39650
-支付宝	zhi fu bao	39640
-知道了	zhi dao liao	39620
+收款账户	shou kuan zhang hu	39640
 左	zuo	39610
-微信支付	wei xin zhi fu	39610
+怎么了	zen me liao	39600
+付款方式	fu kuan fang shi	39600
 份	fen	39570
-银行转账	yin hang zhuan zhang	39570
+对公转账	dui gong zhuan zhang	39570
+什么地方	shen me di fang	39570
 穿	chuan	39540
-定金	ding jin	39530
+支付宝	zhi fu bao	39530
 艺	yi	39500
-尾款	wei kuan	39500
+微信支付	wei xin zhi fu	39500
 背	bei	39470
-预付款	yu fu kuan	39460
+银行转账	yin hang zhuan zhang	39460
 阵	zhen	39430
-合同金额	he tong ji ne	39420
-我联系一下	wo lian ji yi xia	39410
+定金	ding jin	39420
 草	cao	39400
-含税	han shui	39390
+尾款	wei kuan	39390
+知道了	zhi dao liao	39390
 脚	jiao	39360
-不含税	bu han shui	39350
+预付款	yu fu kuan	39350
 概	gai	39330
-税率	shui lu	39310
+合同金额	he tong ji ne	39320
 恶	e	39290
-税额	shui e	39270
+含税	han shui	39280
 块	kuai	39260
-价税合计	jia shui he ji	39240
+不含税	bu han shui	39250
 顿	dun	39220
-会议	hui yi	39200
+税率	shui lu	39210
+我联系一下	wo lian ji yi xia	39190
 敢	gan	39180
-主题	zhu ti	39160
-新年快乐	xin nian kuai yue	39160
+税额	shui e	39170
 守	shou	39150
-内容	nei rong	39130
-节日快乐	jie ri kuai yue	39120
+价税合计	jia shui he ji	39140
 酒	jiu	39110
-目录	mu lu	39090
-收件地址	shou di zhi	39090
+会议	hui yi	39100
 岛	dao	39080
-沟通	gou tong	39050
-收货地址	shou di zhi	39050
+主题	zhu ti	39070
 托	tuo	39040
-会议邀请	hui yi yao qing	39020
-详细地址	xiang xi de zhi	39020
+内容	nei rong	39030
 央	yang	39010
-会议时间	hui yi shi jian	38980
-邮寄地址	you ji de zhi	38980
+目录	mu lu	39000
 户	hu	38970
-家庭地址	jia ting de zhi	38950
+沟通	gou tong	38960
 烈	lie	38940
-会议地点	hui yi di dian	38940
-公司地址	gong si de zhi	38910
-会议主题	hui yi zhu ti	38910
+新年快乐	xin nian kuai yue	38940
+会议邀请	hui yi yao qing	38920
+节日快乐	jie ri kuai yue	38910
 洋	yang	38900
+会议时间	hui yi shi jian	38890
+收件地址	shou di zhi	38880
 哥	ge	38870
-参会人员	can hui ren yuan	38870
+会议地点	hui yi di dian	38850
+收货地址	shou di zhi	38840
 索	suo	38830
-会议纪要	hui yi ji yao	38830
+会议主题	hui yi zhu ti	38820
+详细地址	xiang xi de zhi	38810
 胡	hu	38800
-议程	yi cheng	38800
-联系人	lian ji ren	38800
-联系电话	lian ji dian hua	38770
+参会人员	can hui ren yuan	38780
+邮寄地址	you ji de zhi	38770
 款	kuan	38760
-主持人	zhu chi ren	38760
+会议纪要	hui yi ji yao	38750
+家庭地址	jia ting de zhi	38740
 靠	kao	38730
-发言人	fa yan ren	38720
+议程	yi cheng	38710
+公司地址	gong si de zhi	38700
 评	ping	38690
-项目进度	xiang mu jin du	38690
+主持人	zhu chi ren	38680
 版	ban	38660
-所在地区	suo zai de qu	38660
-项目计划	xiang mu ji hua	38650
+发言人	fa yan ren	38640
 宝	bao	38620
-需求文档	xu qiu wen dang	38610
+项目进度	xiang mu jin du	38610
+联系人	lian ji ren	38600
 座	zuo	38590
-设计方案	she ji fan gan	38580
-大厦	dai sha	38560
+联系电话	lian ji dian hua	38570
+项目计划	xiang mu ji hua	38570
 释	shi	38550
-测试报告	ce shi bao gao	38540
+需求文档	xu qiu wen dang	38530
 景	jing	38520
-上线时间	shang xian shi jian	38500
+设计方案	she ji fan gan	38500
 顾	gu	38480
-截止日期	jie zhi ri qi	38470
+所在地区	suo zai de qu	38470
+测试报告	ce shi bao gao	38460
 弟	di	38450
-交付时间	jiao fu shi jian	38430
+上线时间	shang xian shi jian	38430
 登	deng	38410
-排期	pai qi	38400
+截止日期	jie zhi ri qi	38390
 货	huo	38380
-寄件地址	ji jian de zhi	38380
-里程碑	li cheng bei	38360
+大厦	dai sha	38360
+交付时间	jiao fu shi jian	38360
 互	hu	38340
-任务	ren wu	38320
-分工	fen gong	38290
+排期	pai qi	38320
+里程碑	li cheng bei	38290
 伯	bo	38270
 朝	zhao	38270
-负责人	fu ze ren	38250
+任务	ren wu	38250
 慢	man	38240
-跟进	gen jin	38210
+分工	fen gong	38220
 欧	ou	38200
-同步	tong bu	38180
-对齐	dui qi	38140
+寄件地址	ji jian de zhi	38190
+负责人	fu ze ren	38180
+跟进	gen jin	38150
 闻	wen	38130
+同步	tong bu	38110
 危	wei	38100
-复盘	fu pan	38100
-优化	you hua	38070
+对齐	dui qi	38080
 忙	mang	38060
+复盘	fu pan	38040
 核	he	38030
-版本号	ban ben hao	38000
+优化	you hua	38010
 暗	an	37990
 姐	jie	37960
-更新日志	geng xin ri zhi	37960
+版本号	ban ben hao	37940
 介	jie	37930
-问题反馈	wen ti fan kui	37920
+更新日志	geng xin ri zhi	37900
 坏	huai	37890
-技术支持	ji shu zhi chi	37890
+问题反馈	wen ti fan kui	37870
 讨	tao	37860
-售后服务	shou hou fu wu	37850
+技术支持	ji shu zhi chi	37830
 丽	li	37820
-成都市	cheng du shi	37820
-合作意向	he zuo yi xiang	37820
+售后服务	shou hou fu wu	37800
 良	liang	37790
-重庆市	chong qing shi	37790
-报价单	bao jia dan	37780
+合作意向	he zuo yi xiang	37760
 序	xu	37750
-合同条款	he tong tiao kuan	37740
+报价单	bao jia dan	37730
 升	sheng	37720
-付款条款	fu kuan tiao kuan	37710
+合同条款	he tong tiao kuan	37690
 监	jian	37680
-保密协议	bao mi xie yi	37670
+付款条款	fu kuan tiao kuan	37660
 临	lin	37650
-授权书	shou quan shu	37640
+成都市	cheng du shi	37650
+重庆市	chong qing shi	37620
+保密协议	bao mi xie yi	37620
 亮	liang	37610
-委托书	wei tuo shu	37600
+授权书	shou quan shu	37590
 露	lu	37580
-长沙市	chang sha shi	37580
-证明	zheng ming	37560
 永	yong	37550
-申请表	shen qing biao	37530
+委托书	wei tuo shu	37550
+证明	zheng ming	37520
 呼	hu	37510
-审批	shen pi	37490
 味	wei	37480
-流程	liu cheng	37460
+申请表	shen qing biao	37480
+审批	shen pi	37450
 野	ye	37440
 乐	yue	37420
-制度	zhi du	37420
+长沙市	chang sha shi	37420
 架	jia	37410
-规定	gui ding	37380
+流程	liu cheng	37410
+制度	zhi du	37380
 域	yu	37370
-公告	gong gao	37350
 沙	sha	37340
-邮件主题	you jian zhu ti	37310
+规定	gui ding	37340
+公告	gong gao	37310
 掉	diao	37300
-正文	zheng wen	37280
 括	kuo	37270
+邮件主题	you jian zhu ti	37270
 舰	jian	37240
-签名	qian ming	37240
+正文	zheng wen	37240
 率	shuai	37230
 鱼	yu	37200
-落款	luo kuan	37200
+签名	qian ming	37200
 杂	za	37170
-此致	ci zhi	37170
+落款	luo kuan	37170
 误	wu	37130
-敬礼	jing li	37130
+此致	ci zhi	37130
 湾	wan	37100
-您好	nin hao	37100
-朝阳区	zhao yang qu	37100
+敬礼	jing li	37100
 吉	ji	37070
-麻烦您	ma fan nin	37060
-请您	qing nin	37030
+您好	nin hao	37060
+麻烦您	ma fan nin	37030
 编	bian	37000
 弹	tan	37000
-感谢您	gan xie nin	36990
+请您	qing nin	37000
 楚	chu	36960
-收到请回复	shou dao qing hui fu	36950
+感谢您	gan xie nin	36960
+朝阳区	zhao yang qu	36950
 肯	ken	36930
-如有问题请随时联系	ru you wen ti qing sui shi lian xi	36920
+收到请回复	shou dao qing hui fu	36930
 测	ce	36890
-期待您的回复	qi dai nin de hui fu	36880
+如有问题请随时联系	ru you wen ti qing sui shi lian xi	36890
 败	bai	36860
-附件请查收	fu jian qing cha shou	36850
+期待您的回复	qi dai nin de hui fu	36860
 屋	wu	36830
-请查收	qing cha shou	36810
-请确认	qing que ren	36780
+附件请查收	fu jian qing cha shou	36820
+请查收	qing cha shou	36790
 梦	meng	36760
-请知悉	qing zhi xi	36740
+请确认	qing que ren	36750
 散	san	36720
-特此通知	te ci tong zhi	36710
+请知悉	qing zhi xi	36720
 温	wen	36690
-顺颂商祺	shun song shang qi	36670
+特此通知	te ci tong zhi	36680
 困	kun	36660
-祝商祺	zhu shang qi	36640
+顺颂商祺	shun song shang qi	36650
 剑	jian	36620
-此致敬礼	ci zhi jing li	36600
+祝商祺	zhu shang qi	36620
 渐	jian	36590
-见字如面	jian zi ru mian	36560
+此致敬礼	ci zhi jing li	36580
 封	feng	36550
-最近怎么样	zui jin zen me yang	36530
+见字如面	jian zi ru mian	36550
 救	jiu	36520
+最近怎么样	zui jin zen me yang	36510
 贵	gui	36490
-方便吗	fang bian ma	36490
-在吗	zai ma	36460
+方便吗	fang bian ma	36480
 枪	qiang	36450
+在吗	zai ma	36440
 缺	que	36420
-有事找你	you shi zhao ni	36420
+有事找你	you shi zhao ni	36410
 楼	lou	36390
-单位名称	dan wei ming chen	36390
-帮忙看一下	bang mang kan yi xia	36390
+帮忙看一下	bang mang kan yi xia	36380
 县	xian	36350
-公司名称	gong si ming chen	36350
-注意身体	zhu yi shen ti	36350
+注意身体	zhu yi shen ti	36340
 尚	shang	36320
-一路平安	yi lu pin gan	36320
+一路平安	yi lu pin gan	36310
 毫	hao	36280
-统一社会信用代码	tong yi she kuai xin yong dai ma	36280
+单位名称	dan wei ming chen	36260
 移	yi	36250
-节哀顺变	jie ai shun bian	36250
-注册地址	zhu ce de zhi	36250
+节哀顺变	jie ai shun bian	36240
+公司名称	gong si ming chen	36230
 娘	niang	36220
 血	xie	36210
-不好意思打扰了	bu hao yi si da rao le	36210
+不好意思打扰了	bu hao yi si da rao le	36200
 朋	peng	36180
-感谢理解	gan xie li jie	36180
-行不行	hang bu xing	36150
+感谢理解	gan xie li jie	36170
+统一社会信用代码	tong yi she kuai xin yong dai ma	36160
 感谢支持	gan xie zhi chi	36140
+注册地址	zhu ce de zhi	36130
 班	ban	36120
-合作愉快	he zuo yu kuai	36110
+合作愉快	he zuo yu kuai	36100
 智	zhi	36080
 欢迎随时联系	huan ying sui shi lian xi	36070
 亦	yi	36050
-欢迎来公司参观	huan ying lai gong si can guan	36040
+欢迎来公司参观	huan ying lai gong si can guan	36030
 耳	er	36010
 期待合作	qi dai he zuo	36000
 短	duan	35980
 掌	zhang	35950
-会不会	kuai bu hui	35950
+行不行	hang bu xing	35920
 恐	kong	35910
 遗	yi	35880
 固	gu	35850
 席	xi	35810
 松	song	35780
 秘	mi	35750
+会不会	kuai bu hui	35740
 谢	xie	35710
 遇	yu	35680
 康	kang	35650
@@ -1842,32 +1870,32 @@ use_preset_vocabulary: false
 诗	shi	35450
 藏	cang	35410
 赶	gan	35380
-税率	shui shuai	35380
 剧	ju	35350
 票	piao	35310
+税率	shui shuai	35290
 损	sun	35280
-会议	kuai yi	35280
 忽	hu	35250
 模	mu	35240
 巨	ju	35210
+会议	kuai yi	35190
 炮	pao	35180
-收件地址	shou jian de zhi	35180
 旧	jiu	35150
-收货地址	shou huo de zhi	35150
-会议邀请	kuai yi yao qing	35120
 端	duan	35110
 探	tan	35080
-会议时间	kuai yi shi jian	35080
 湖	hu	35050
-会议地点	hui yi de dian	35050
-会议主题	kuai yi zhu ti	35020
+会议邀请	kuai yi yao qing	35030
 录	lu	35010
+会议时间	kuai yi shi jian	35000
+收件地址	shou jian de zhi	34990
 叶	ye	34980
-参会人员	can kuai ren yuan	34980
+会议地点	hui yi de dian	34970
+收货地址	shou huo de zhi	34960
 春	chun	34950
-会议纪要	kuai yi ji yao	34950
+会议主题	kuai yi zhu ti	34940
 乡	xiang	34910
+参会人员	can kuai ren yuan	34900
 附	fu	34880
+会议纪要	kuai yi ji yao	34870
 吸	xi	34850
 予	yu	34810
 礼	li	34780
@@ -1911,29 +1939,29 @@ use_preset_vocabulary: false
 降	xiang	33570
 博	bo	33540
 勒	lei	33510
-落款	la kuan	33480
 烟	yan	33470
+落款	la kuan	33450
 授	shou	33440
 伦	lun	33410
 岸	an	33380
 奥	ao	33340
 唐	tang	33310
 俄	e	33250
-如有问题请随时联系	ru you wen ti qing sui shi lian ji	33230
 炸	zha	33220
-期待您的回复	qi dai nin di hui fu	33200
+如有问题请随时联系	ru you wen ti qing sui shi lian ji	33200
 载	zai	33180
+期待您的回复	qi dai nin di hui fu	33170
 健	jian	33150
 堂	tang	33120
 旁	pang	33090
 宫	gong	33050
 君	jun	32960
 禁	jin	32930
-见字如面	xian zi ru mian	32910
 阴	yin	32890
+见字如面	xian zi ru mian	32890
 园	yuan	32860
-方便吗	fang pian ma	32840
 谋	mou	32830
+方便吗	fang pian ma	32830
 避	bi	32800
 抓	zhua	32770
 荣	rong	32730
@@ -1942,9 +1970,8 @@ use_preset_vocabulary: false
 逃	tao	32640
 著	zhao	32630
 牙	ya	32610
-不好意思打扰了	bu hao yi si da rao liao	32590
+不好意思打扰了	bu hao yi si da rao liao	32580
 束	shu	32570
-行不行	hang bu hang	32530
 顶	ding	32510
 玉	yu	32480
 欢迎随时联系	huan ying sui shi lian ji	32460
@@ -1952,7 +1979,7 @@ use_preset_vocabulary: false
 欢迎来公司参观	huan ying lai gong si shen guan	32430
 雪	xue	32410
 午	wu	32380
-会不会	kuai bu kuai	32360
+行不行	hang bu hang	32330
 迫	po	32320
 爷	ye	32290
 篇	pian	32250
@@ -1960,6 +1987,7 @@ use_preset_vocabulary: false
 肉	rou	32220
 嘴	zui	32190
 馆	guan	32160
+会不会	kuai bu kuai	32160
 遍	bian	32130
 凡	fan	32100
 础	chu	32060
@@ -1978,12 +2006,12 @@ use_preset_vocabulary: false
 暴	bao	31620
 森	sen	31590
 塔	ta	31560
-会议地点	kuai yi de dian	31540
 默	mo	31530
 握	wo	31490
-参会人员	shen hui ren yuan	31480
+会议地点	kuai yi de dian	31470
 戏	xi	31460
 隐	yin	31430
+参会人员	shen hui ren yuan	31410
 熟	shu	31400
 骨	gu	31370
 访	fang	31340
@@ -2078,12 +2106,12 @@ use_preset_vocabulary: false
 郑	zheng	28470
 贝	bei	28440
 尊	zun	28410
-会议地点	kuai yi di dian	28390
 吴	wu	28380
 秀	xiu	28350
-参会人员	shen kuai ren yuan	28340
 混	hun	28320
+会议地点	kuai yi di dian	28320
 臣	chen	28290
+参会人员	shen kuai ren yuan	28270
 振	zhen	28260
 染	ran	28230
 盛	sheng	28200
@@ -2994,7 +3022,6 @@ use_preset_vocabulary: false
 尝	chang	15500
 匆	cong	15470
 辉	hui	15450
-址	zhi	15450
 不吃	bu chi	15450
 不合	bu he	15450
 不同	bu tong	15440
@@ -3008,6 +3035,7 @@ use_preset_vocabulary: false
 嘛	ma	15370
 不啻	bu chi	15370
 不善	bu shan	15370
+址	zhi	15360
 不图	bu tu	15360
 不在	bu zai	15350
 董	dong	15340
@@ -4483,7 +4511,6 @@ use_preset_vocabulary: false
 亡失	wang shi	9750
 万恨千愁	wan hen qian chou	9750
 万户千门	wan hu qian men	9750
-圳	zhen	9740
 亡故	wang gu	9740
 亡灵	wang ling	9740
 万无一失	wan wu yi shi	9740
@@ -4558,6 +4585,7 @@ use_preset_vocabulary: false
 万马齐喑	wan ma qi yin	9610
 丈八蛇矛	zhang ba she mao	9610
 丈二和尚	zhang er he shang	9610
+圳	zhen	9600
 交验	jiao yan	9600
 三不拗六	san bu niu liu	9600
 三个世界	san ge shi jie	9600
@@ -4821,6 +4849,7 @@ use_preset_vocabulary: false
 仅见	jin jian	9010
 仆人	pu ren	9010
 上当受骗	shang dang shou pian	9010
+蔬	shu	9000
 仆从	pu cong	9000
 仆妇	pu fu	9000
 上当学乖	shang dang xue guai	9000
@@ -5050,8 +5079,6 @@ use_preset_vocabulary: false
 不依不饶	bu yi bu rao	8490
 不修边幅	bu xiu bian fu	8480
 不修小节	bu xiu xiao jie	8480
-歉	qian	8470
-厦	sha	8470
 以期	yi qi	8470
 了不得	liao bu de	8470
 了不起	liao bu qi	8470
@@ -5061,6 +5088,7 @@ use_preset_vocabulary: false
 不值一驳	bu zhi yi bo	8460
 不值一顾	bu zhi yi gu	8460
 不值一钱	bu zhi yi qian	8460
+厦	sha	8450
 了望台	liao wang tai	8450
 不偢不倸	bu chou bu cai	8450
 不假思索	bu jia si suo	8450
@@ -5093,7 +5121,6 @@ use_preset_vocabulary: false
 以远	yi yuan	8370
 不务空名	bu wu kong ming	8370
 不务正业	bu wu zheng ye	8370
-右	you	8360
 不动如山	bu dong ru shan	8360
 不动声色	bu dong sheng se	8360
 不劳而成	bu lao er cheng	8360
@@ -5120,6 +5147,7 @@ use_preset_vocabulary: false
 不可企及	bu ke qi ji	8320
 不可乡迩	bu ke xiang er	8320
 不可一世	bu ke yi shi	8320
+歉	qian	8310
 仰天	yang tian	8310
 仰卧	yang wo	8310
 二传手	er chuan shou	8310
@@ -5222,12 +5250,12 @@ use_preset_vocabulary: false
 不哼不哈	bu heng bu ha	8200
 不咎既往	bu jiu ji wang	8200
 不咸不淡	bu xian bu dan	8200
-戚	qi	8190
 任教	ren jiao	8190
 任情	ren qing	8190
 任意	ren yi	8190
 不因不由	bu yin bu you	8190
 不因人热	bu yin ren re	8190
+右	you	8180
 任课	ren ke	8180
 任脉	ren mai	8180
 任期	ren qi	8180
@@ -5283,6 +5311,7 @@ use_preset_vocabulary: false
 不安于位	bu an yu wei	8100
 不宁唯是	bu ning wei shi	8100
 不学无识	bu xue wu shi	8100
+戚	qi	8090
 伏地	fu di	8090
 伏瘕	fu jia	8090
 伏帖	fu tie	8090
@@ -5408,7 +5437,6 @@ use_preset_vocabulary: false
 不成文法	bu cheng wen fa	7880
 不战而降	bu zhan er xiang	7880
 不战而胜	bu zhan er sheng	7880
-姨	yi	7870
 会场	hui chang	7870
 会商	hui shang	7870
 会址	hui zhi	7870
@@ -5496,6 +5524,7 @@ use_preset_vocabulary: false
 不时之须	bu shi zhi xu	7770
 不时之需	bu shi zhi xu	7770
 不易一字	bu yi yi zi	7770
+姨	yi	7760
 会餐	hui can	7760
 会风	hui feng	7760
 会馆	hui guan	7760
@@ -5506,7 +5535,6 @@ use_preset_vocabulary: false
 不晓世务	bu xiao shi wu	7760
 不易之典	bu yi zhi dian	7760
 不易之论	bu yi zhi lun	7760
-秒	miao	7750
 会齐	hui qi	7750
 会首	hui shou	7750
 伞盖	san gai	7750
@@ -5577,6 +5605,7 @@ use_preset_vocabulary: false
 不测之祸	bu ce zhi huo	7670
 不测之忧	bu ce zhi you	7670
 不测之罪	bu ce zhi zui	7670
+秒	miao	7660
 传播	chuan bo	7660
 传抄	chuan chao	7660
 传技	chuan ji	7660
@@ -5815,7 +5844,6 @@ use_preset_vocabulary: false
 低压	di ya	7350
 位能	wei neng	7350
 不见不散	bu jian bu san	7350
-粘	zhan	7340
 低地	di di	7340
 低哑	di ya	7340
 不见经传	bu jian jing zhuan	7340
@@ -5826,7 +5854,6 @@ use_preset_vocabulary: false
 不解之仇	bu jie zhi chou	7330
 不解之缘	bu jie zhi yuan	7330
 不觉技痒	bu jue ji yang	7330
-聘	pin	7320
 低平	di ping	7320
 人生观	ren sheng guan	7320
 不计得失	bu ji de shi	7320
@@ -5851,7 +5878,6 @@ use_preset_vocabulary: false
 不识不知	bu shi bu zhi	7300
 不识东家	bu shi dong jia	7300
 不识一丁	bu shi yi ding	7300
-删	shan	7290
 低落	di luo	7290
 低语	di yu	7290
 人行道	ren xing dao	7290
@@ -5870,6 +5896,7 @@ use_preset_vocabulary: false
 不识起倒	bu shi qi dao	7280
 不识时务	bu shi shi wu	7280
 不识泰山	bu shi tai shan	7280
+粘	zhan	7270
 住处	zhu chu	7270
 住地	zhu di	7270
 住家	zhu jia	7270
@@ -5878,7 +5905,6 @@ use_preset_vocabulary: false
 不谋而合	bu mou er he	7270
 不谋而同	bu mou er tong	7270
 不谋同辞	bu mou tong ci	7270
-匙	shi	7260
 佑助	you zhu	7260
 住读	zhu du	7260
 住校	zhu xiao	7260
@@ -5888,6 +5914,7 @@ use_preset_vocabulary: false
 不负重望	bu fu zhong wang	7260
 不赏之功	bu shang zhi gong	7260
 不贪为宝	bu tan wei bao	7260
+聘	pin	7250
 体会	ti hui	7250
 体例	ti li	7250
 体内	ti nei	7250
@@ -5911,6 +5938,8 @@ use_preset_vocabulary: false
 不足挂齿	bu zu gua chi	7230
 不足介意	bu zu jie yi	7230
 不足轻重	bu zu qing zhong	7230
+删	shan	7220
+匙	shi	7220
 体察	ti cha	7220
 体尝	ti chang	7220
 体己	ti ji	7220
@@ -5984,7 +6013,6 @@ use_preset_vocabulary: false
 体腔	ti qiang	7140
 体认	ti ren	7140
 不问不闻	bu wen bu wen	7140
-钥	yao	7130
 体谅	ti liang	7130
 体貌	ti mao	7130
 体贴	ti tie	7130
@@ -6022,6 +6050,7 @@ use_preset_vocabulary: false
 不食周粟	bu shi zhou su	7100
 不饮盗泉	bu yin dao quan	7100
 一字长蛇阵	yi zi chang she zhen	7100
+钥	yao	7090
 何处	he chu	7090
 何况	he kuang	7090
 何如	he ru	7090
@@ -6071,7 +6100,6 @@ use_preset_vocabulary: false
 丑类恶物	chou lei e wu	7040
 丑声远播	chou sheng yuan bo	7040
 丑态毕露	chou tai bi lu	7040
-裹	guo	7030
 何须	he xu	7030
 余兴	yu xing	7030
 专业教育	zhuan ye jiao yu	7030
@@ -6095,6 +6123,7 @@ use_preset_vocabulary: false
 专科学校	zhuan ke xue xiao	7000
 专栏作家	zhuan lan zuo jia	7000
 专欲难成	zhuan yu nan cheng	7000
+裹	guo	6990
 佚文	yi wen	6990
 专精覃思	zhuan jing tan si	6990
 且食蛤蜊	qie shi ha li	6980
@@ -6104,11 +6133,9 @@ use_preset_vocabulary: false
 仡佬族	ge lao zu	6960
 世济其美	shi ji qi mei	6960
 世掌丝纶	shi zhang si lun	6960
-链	lian	6950
 代办处	dai ban chu	6950
 丙种射线	bing zhong she xian	6950
 世风日下	shi feng ri xia	6950
-寸	cun	6940
 代数和	dai shu he	6940
 代数式	dai shu shi	6940
 代数数	dai shu shu	6940
@@ -6124,9 +6151,11 @@ use_preset_vocabulary: false
 东冲西撞	dong chong xi zhuang	6930
 东倒西歪	dong dao xi wai	6930
 东京大学	dong jing da xue	6930
+寸	cun	6920
 东劳西燕	dong lao xi yan	6920
 东南之宝	dong nan zhi bao	6920
 东南之秀	dong nan zhi xiu	6920
+链	lian	6910
 东南半壁	dong nan ban bi	6910
 东南雀飞	dong nan que fei	6910
 东南之美	dong nan zhi mei	6910
@@ -6179,7 +6208,6 @@ use_preset_vocabulary: false
 东流西落	dong liu xi luo	6850
 东流西上	dong liu xi shang	6850
 东涂西抹	dong tu xi mo	6850
-屏	ping	6840
 作罢	zuo ba	6840
 作词	zuo ci	6840
 作答	zuo da	6840
@@ -6204,6 +6232,7 @@ use_preset_vocabulary: false
 东量西折	dong liang xi she	6820
 东零西落	dong ling xi luo	6820
 东零西散	dong ling xi san	6820
+屏	ping	6810
 东风浩荡	dong feng hao dang	6810
 东风化雨	dong feng hua yu	6810
 东风人面	dong feng ren mian	6810
@@ -6989,11 +7018,11 @@ use_preset_vocabulary: false
 二氧化物	er yang hua wu	5520
 二话不说	er hua bu shuo	5510
 二话没说	er hua mei shuo	5510
-聊	liao	5500
 二龙戏珠	er long xi zhu	5500
 于安思危	yuan si wei	5500
 于家为国	yu jia wei guo	5500
 于今为烈	yu jin wei lie	5500
+聊	liao	5490
 亏心短行	kui xin duan xing	5490
 于飞之乐	yu fei zhi le	5490
 于心何忍	yu xin he ren	5490
@@ -7121,7 +7150,6 @@ use_preset_vocabulary: false
 五色相宣	wu se xiang xuan	5310
 五蕴皆空	wu yun jie kong	5310
 五脏六腑	wu zang liu fu	5310
-锡	xi	5300
 供给制	gong ji zhi	5300
 五藏六府	wu zang liu fu	5300
 五角六张	wu jiao liu zhang	5300
@@ -7130,6 +7158,7 @@ use_preset_vocabulary: false
 五行俱下	wu xing ju xia	5300
 五行生克	wu xing sheng ke	5300
 五虚六耗	wu xu liu hao	5300
+锡	xi	5290
 五车腹笥	wu che fu si	5290
 五谷不分	wu gu bu fen	5290
 五谷不升	wu gu bu sheng	5290
@@ -7138,7 +7167,6 @@ use_preset_vocabulary: false
 五里雾中	wu li wu zhong	5290
 五言绝句	wu yan jue ju	5290
 五言长城	wu yan chang cheng	5290
-淀	dian	5280
 供销社	gong xiao she	5280
 五雷轰顶	wu lei hong ding	5280
 五陵年少	wu ling nian shao	5280
@@ -7148,6 +7176,7 @@ use_preset_vocabulary: false
 五雀六燕	wu que liu yan	5280
 五颜六色	wu yan liu se	5280
 五音六律	wu yin liu lu	5280
+淀	dian	5270
 井井有方	jing jing you fang	5270
 井井有条	jing jing you tiao	5270
 井井有序	jing jing you xu	5270
@@ -7221,9 +7250,9 @@ use_preset_vocabulary: false
 交换价值	jiao huan jia zhi	5150
 交浅言深	jiao qian yan shen	5150
 不吃烟火食	bu chi yan huo shi	5150
-碑	bei	5140
 交能易作	jiao neng yi zuo	5140
 交相辉映	jiao xiang hui ying	5140
+碑	bei	5130
 交臂历指	jiao bi li zhi	5130
 交臂失之	jiao bi shi zhi	5130
 交臂相失	jiao bi xiang shi	5130
@@ -10764,7 +10793,6 @@ use_preset_vocabulary: false
 書	shu	600
 梳	shu	600
 樞	shu	600
-蔬	shu	600
 輸	shu	600
 秫	shu	600
 塾	shu	600
