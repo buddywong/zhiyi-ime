@@ -30,10 +30,10 @@
 
 ### 下载
 
-- GitHub Release：<https://github.com/buddywong/zhiyi-ime/releases/tag/v1.0.0-beta.2>
+- GitHub Release：<https://github.com/buddywong/zhiyi-ime/releases/tag/v1.0.0-beta.3>
 - 项目主页：<https://github.com/buddywong/zhiyi-ime>
 
-Windows 用户下载 `zhiyi-ime-v1.0.0-beta.2-Setup.exe`。
+Windows 用户下载 `zhiyi-ime-v1.0.0-beta.3-Setup.exe`。
 如果要用系统级输入，还需要先安装[小狼毫 Weasel](https://rime.im/download/)，再下载 Rime 方案包。
 
 ### 注意
@@ -55,14 +55,14 @@ GitHub Issues：<https://github.com/buddywong/zhiyi-ime/issues>
 - 简体优先、常用词优先、完全本地、开源 MIT、无账号
 
 Beta 无签名，需先装小狼毫：
-<https://github.com/buddywong/zhiyi-ime/releases/tag/v1.0.0-beta.2>
+<https://github.com/buddywong/zhiyi-ime/releases/tag/v1.0.0-beta.3>
 
 问卷：<https://wj.qq.com/s2/28788718/3ozy/>
 
 ## 发布检查清单
 
 - [x] GitHub 公开源码
-- [x] v1.0.0-beta.2 Release
+- [x] v1.0.0-beta.3 Release
 - [x] Setup / Portable / Rime / SHA256
 - [x] README 安装说明
 - [x] 腾讯匿名问卷

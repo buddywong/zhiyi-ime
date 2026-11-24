@@ -3,7 +3,7 @@
 > 把想说的话，轻轻写下来。  
 > 一个会记住用词、会联想、能收藏常用段落的本地中文输入法工作台。
 
-> **当前发布：`v1.0.0-beta.2` 开发者预览（无签名）**  
+> **当前发布：`v1.0.0-beta.3` 开发者预览（无签名）**  
 > 公开源码、MIT；安装包未签名，SmartScreen 可能提示。使用 Rime 方案前需先安装小狼毫。  
 > 反馈问卷：<https://wj.qq.com/s2/28788718/3ozy/>  
 > 也可以提交 GitHub Issues；问卷题目草稿见 [FEEDBACK.md](FEEDBACK.md)。
@@ -43,8 +43,8 @@
 
 | 文件 | 适合谁 | 说明 |
 | --- | --- | --- |
-| `zhiyi-ime-v1.0.0-beta.2-Setup.exe` | 想正常安装 | 安装到 `%LOCALAPPDATA%\Programs\ZhiyiIME`，创建桌面 / 开始菜单快捷方式与卸载入口 |
-| `zhiyi-ime-v1.0.0-beta.2-Portable.zip` | 想解压即用 | 解压到任意目录，双击 `Zhiyi.exe`（或 `启动知意输入法.cmd`）即可 |
+| `zhiyi-ime-v1.0.0-beta.3-Setup.exe` | 想正常安装 | 安装到 `%LOCALAPPDATA%\Programs\ZhiyiIME`，创建桌面 / 开始菜单快捷方式与卸载入口 |
+| `zhiyi-ime-v1.0.0-beta.3-Portable.zip` | 想解压即用 | 解压到任意目录，双击 `Zhiyi.exe`（或 `启动知意输入法.cmd`）即可 |
 
 ![安装程序](preview/installer.jpg)
 
@@ -58,7 +58,7 @@
 
 如果希望知意**真正接管系统输入**，请使用 Rime 适配包：
 
-**`zhiyi-ime-v1.0.0-beta.2-Rime.zip`**（在 GitHub Releases 下载）
+**`zhiyi-ime-v1.0.0-beta.3-Rime.zip`**（在 GitHub Releases 下载）
 
 使用前需要先安装 **小狼毫 Weasel**（Rime 的 Windows 前端）：<https://rime.im/download/>
 
