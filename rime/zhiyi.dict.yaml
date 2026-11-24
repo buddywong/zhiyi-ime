@@ -10,45 +10,45 @@ use_preset_vocabulary: false
 
 # text\tcode\tweight
 中国	zhong guo	92000
-生活	sheng huo	90670
-学习	xue xi	90060
-家庭	jia ting	89570
-账号	zhang hao	89160
-这样	zhe yang	88790
-那样	na yang	88450
-没有	mei you	88140
-世界	shi jie	87840
-地球	di qiu	87560
-月球	yue qiu	87300
-太阳	tai yang	87040
-宇宙	yu zhou	86800
-国家	guo jia	86570
-城市	cheng shi	86340
-农村	nong cun	86120
-学校	xue xiao	85910
-医院	yi yuan	85700
-银行	yin hang	85500
-机场	ji chang	85310
-车站	che zhan	85120
-公园	gong yuan	84930
-广场	guang chang	84750
-汽车	qi che	84570
-火车	huo che	84390
-飞机	fei ji	84220
-电脑	dian nao	84050
-手机	shou ji	83880
-网络	wang luo	83720
-天气	tian qi	83550
-时间	shi jian	83400
-地方	di fang	83240
-东西	dong xi	83080
-事情	shi qing	82930
-工作	gong zuo	82780
-朋友	peng you	82630
-孩子	hai zi	82490
-父母	fu mu	82340
-家人	jia ren	82200
-老师	lao shi	82060
+生活	sheng huo	90680
+学习	xue xi	90070
+家庭	jia ting	89590
+账号	zhang hao	89180
+这样	zhe yang	88810
+那样	na yang	88470
+没有	mei you	88160
+世界	shi jie	87870
+地球	di qiu	87590
+月球	yue qiu	87330
+太阳	tai yang	87070
+宇宙	yu zhou	86830
+国家	guo jia	86600
+城市	cheng shi	86380
+农村	nong cun	86160
+学校	xue xiao	85950
+医院	yi yuan	85740
+银行	yin hang	85540
+机场	ji chang	85350
+车站	che zhan	85160
+公园	gong yuan	84970
+广场	guang chang	84790
+汽车	qi che	84610
+火车	huo che	84440
+飞机	fei ji	84260
+电脑	dian nao	84090
+手机	shou ji	83930
+网络	wang luo	83770
+天气	tian qi	83610
+时间	shi jian	83450
+地方	di fang	83290
+东西	dong xi	83140
+事情	shi qing	82990
+工作	gong zuo	82840
+朋友	peng you	82690
+孩子	hai zi	82550
+父母	fu mu	82400
+家人	jia ren	82260
+老师	lao shi	82120
 不	bu	82000
 出	chu	82000
 大	da	82000
@@ -58,6 +58,7 @@ use_preset_vocabulary: false
 个	ge	82000
 国	guo	82000
 和	he	82000
+会	hui	82000
 就	jiu	82000
 来	lai	82000
 了	le	82000
@@ -77,2739 +78,2804 @@ use_preset_vocabulary: false
 在	zai	82000
 这	zhe	82000
 中	zhong	82000
-学生	xue sheng	81920
-会	hui	81910
-医生	yi sheng	81780
-可	ke	81750
-警察	jing cha	81650
-也	ye	81600
-法律	fa lu	81510
-你	ni	81440
-经济	jing ji	81380
-对	dui	81290
-文化	wen hua	81250
-生	sheng	81150
-历史	li shi	81120
-能	neng	81000
-科学	ke xue	80990
-技术	ji shu	80860
-而	er	80850
-艺术	yi shu	80730
-子	zi	80710
-音乐	yin yue	80600
-那	na	80570
-电影	dian ying	80480
-得	de	80430
-游戏	you xi	80360
-于	yu	80290
-运动	yun dong	80230
-着	zhe	80160
-健康	jian kang	80110
-下	xia	80020
-食物	shi wu	79990
-自	zi	79890
-水果	shui guo	79870
-之	zhi	79760
-蔬菜	shu cai	79750
-动物	dong wu	79640
-年	nian	79630
-植物	zhi wu	79520
-过	guo	79500
-你好吗	ni hao ma	79400
-发	fa	79370
-没有	mo you	79320
-谢谢你	xie xie ni	79290
-后	hou	79240
-不客气	bu ke qi	79170
-作	zuo	79120
-对不起	dui bu qi	79060
-里	li	78990
-没关系	mei guan xi	78950
-用	yong	78870
-再见	zai jian	78840
-地球	de qiu	78810
-道	dao	78750
-请问	qing wen	78720
-行	xing	78630
-为什么	wei shen me	78610
-所	suo	78510
-什么时候	shen me shi hou	78500
-怎么回事	zen me hui shi	78400
-然	ran	78390
-没问题	mei wen ti	78290
-家	jia	78270
-辛苦了	xin ku le	78180
-种	zhong	78160
-好久不见	hao jiu bu jian	78070
-事	shi	78040
-一路顺风	yi lu shun feng	77970
-成	cheng	77930
-生日快乐	sheng ri kuai le	77860
-方	fang	77810
-多	duo	77700
-万事如意	wan shi ru yi	77650
-经	jing	77590
-心想事成	xin xiang shi cheng	77550
-么	me	77470
-身体健康	shen ti jian kang	77450
-去	qu	77360
-工作顺利	gong zuo shun li	77340
-法	fa	77250
-学	xue	77140
-天天开心	tian tian kai xin	77140
-如	ru	77040
-平平安安	ping pin ga nan	77040
-银行	yin xing	76950
-越来越好	yue lai yue hao	76940
-都	dou	76930
-注意安全	zhu yi an quan	76840
-同	tong	76820
-早点休息	zao dian xiu xi	76740
-现	xian	76710
-保持联系	bao chi lian xi	76640
-当	dang	76610
-我明白了	wo ming bai le	76550
-没	mei	76500
-你说得对	ni shuo de dui	76450
-动	dong	76400
-稍等一下	shao deng yi xia	76350
-面	mian	76300
-马上就好	ma shang jiu hao	76260
-起	qi	76190
-有空吗	you kong ma	76160
-看	kan	76090
-怎么样	zen me yang	76060
-定	ding	75990
-大家好	da jia hao	75970
-天	tian	75890
-早上好	zao shang hao	75870
-分	fen	75790
-晚上好	wan shang hao	75780
-还	hai	75690
-晚安	wa nan	75690
-进	jin	75590
-明天见	ming tian jian	75590
-下次见	xia ci jian	75500
-好	hao	75490
-收到谢谢	shou dao xie xie	75410
-小	xiao	75390
-加油	jia you	75320
-部	bu	75290
-其	qi	75200
-些	xie	75100
-主	zhu	75000
-她	ta	74950
-地方	de fang	74920
-样	yang	74910
-它	ta	74860
-理	li	74810
-我们	wo men	74770
-心	xin	74720
-你们	ni men	74680
-他们	ta men	74590
-本	ben	74530
-她们	ta men	74510
-前	qian	74440
-自己	zi ji	74420
-开	kai	74340
-大家	da jia	74330
-但	dan	74250
-别人	bie ren	74240
-因	yin	74160
-这个	zhe ge	74160
-只	zhi	74070
-那个	na ge	74070
-从	cong	73980
-哪个	na ge	73980
-这些	zhe xie	73900
-想	xiang	73890
-那些	na xie	73810
-实	shi	73800
-这里	zhe li	73730
-日	ri	73710
-那里	na li	73640
-军	jun	73620
-哪里	na li	73560
-者	zhe	73530
-什么	shen me	73470
-意	yi	73440
-怎么	zen me	73390
-无	wu	73350
-因为	yin wei	73300
-力	li	73260
-所以	suo yi	73220
-但是	dan shi	73140
-与	yu	73090
-如果	ru guo	73050
-长	zhang	73000
-虽然	sui ran	72970
-把	ba	72920
-而且	er qie	72890
-机	ji	72830
-然后	ran hou	72810
-十	shi	72740
-还是	hai shi	72730
-民	min	72660
-或者	huo zhe	72640
-第	di	72570
-可以	ke yi	72560
-音乐	yin le	72540
-公	gong	72490
-可能	ke neng	72480
-此	ci	72410
-应该	ying gai	72400
-已	yi	72320
-需要	xu yao	72320
-工	gong	72240
-必须	bi xu	72240
-已经	yi jing	72160
-使	shi	72150
-正在	zheng zai	72080
-情	qing	72070
-马上	ma shang	72000
-明	ming	71990
-刚刚	gang gang	71920
-性	xing	71910
-一直	yi zhi	71850
-知	zhi	71820
-一定	yi ding	71770
-全	quan	71740
-一起	yi qi	71690
-三	san	71660
-一样	yi yang	71610
-又	you	71580
-一些	yi xie	71530
-关	guan	71500
-一点	yi dian	71460
-点	dian	71420
-一下	yi xia	71380
-正	zheng	71340
-时候	shi hou	71300
-业	ye	71260
-现在	xian zai	71220
-外	wai	71180
-今天	jin tian	71150
-将	jiang	71100
-明天	ming tian	71070
-没关系	mei guan ji	71050
-两	liang	71020
-昨天	zuo tian	71000
-再见	zai xian	70950
-高	gao	70940
-后天	hou tian	70920
-间	jian	70860
-前天	qian tian	70840
-由	you	70780
-早上	zao shang	70770
-问	wen	70700
-上午	shang wu	70690
-很	hen	70630
-中午	zhong wu	70620
-最	zui	70550
-下午	xia wu	70540
-重	zhong	70470
-晚上	wan shang	70470
-没问题	mo wen ti	70460
-并	bing	70390
-今年	jin nian	70390
-辛苦了	xin ku liao	70360
-物	wu	70320
-明年	ming nian	70320
-好久不见	hao jiu bu xian	70270
-去年	qu nian	70250
-手	shou	70240
-最近	zui jin	70170
-应	ying	70160
-以后	yi hou	70100
-战	zhan	70090
-生日快乐	sheng ri kuai yue	70080
-以前	yi qian	70030
-向	xiang	70010
-之前	zhi qian	69950
-头	tou	69940
-之后	zhi hou	69880
-文	wen	69860
-问题	wen ti	69810
-体	ti	69790
-办法	ban fa	69730
-政	zheng	69710
-方法	fang fa	69660
-美	mei	69640
-样子	yang zi	69590
-相	xiang	69560
-感觉	gan jue	69520
-见	jian	69490
-觉得	jue de	69450
-被	bei	69410
-知道	zhi dao	69370
-利	li	69340
-认识	ren shi	69300
-什	shen	69270
-明白	ming bai	69230
-二	er	69190
-理解	li jie	69160
-等	deng	69120
-希望	xi wang	69090
-产	chan	69050
-喜欢	xi huan	69020
-保持联系	bao chi lian ji	68980
-或	huo	68970
-想要	xiang yao	68950
-新	xin	68900
-我明白了	wo ming bai liao	68890
-准备	zhun bei	68880
-己	ji	68830
-开始	kai shi	68810
-你说得对	ni shuo dei dui	68800
-制	zhi	68760
-结束	jie shu	68740
-身	shen	68680
-继续	ji xu	68670
-果	guo	68610
-完成	wan cheng	68600
-加	jia	68540
-发现	fa xian	68530
-西	xi	68470
-认为	ren wei	68460
-斯	si	68400
-表示	biao shi	68390
-大家好	dai jia hao	68370
-月	yue	68330
-出现	chu xian	68320
-话	hua	68260
-发生	fa sheng	68250
-合	he	68190
-存在	cun zai	68180
-成为	cheng wei	68120
-回	hui	68110
-作为	zuo wei	68050
-特	te	68040
-明天见	ming tian xian	68030
-使用	shi yong	67980
-代	dai	67970
-下次见	xia ci xian	67950
-进行	jin xing	67910
-内	nei	67900
-提供	ti gong	67840
-信	xin	67830
-支持	zhi chi	67780
-表	biao	67770
-帮助	bang zhu	67710
-化	hua	67700
-参加	can jia	67640
-老	lao	67630
-安排	an pai	67570
-给	gei	67560
-联系	lian xi	67510
-世	shi	67490
-确认	que ren	67440
-位	wei	67420
-回复	hui fu	67370
-次	ci	67350
-发送	fa song	67310
-度	du	67280
+学生	xue sheng	81980
+可	ke	81880
+医生	yi sheng	81840
+也	ye	81720
+警察	jing cha	81710
+法律	fa lu	81580
+你	ni	81570
+经济	jing ji	81440
+对	dui	81420
+文化	wen hua	81310
+生	sheng	81280
+历史	li shi	81180
+能	neng	81130
+科学	ke xue	81050
+而	er	80990
+技术	ji shu	80920
+子	zi	80850
+艺术	yi shu	80800
+那	na	80710
+音乐	yin yue	80670
+得	de	80570
+电影	dian ying	80550
+于	yu	80440
+游戏	you xi	80430
+着	zhe	80300
+运动	yun dong	80300
+健康	jian kang	80180
+下	xia	80170
+食物	shi wu	80060
+自	zi	80040
+水果	shui guo	79940
+之	zhi	79910
+蔬菜	shu cai	79830
+年	nian	79780
+动物	dong wu	79710
+过	guo	79660
+植物	zhi wu	79590
+发	fa	79530
+呗	bai	79480
+后	hou	79410
+吧	ba	79360
+没有	mo you	79340
+作	zuo	79280
+吗	ma	79250
+里	li	79160
+呢	ne	79140
+用	yong	79040
+啊	a	79030
+道	dao	78920
+呀	ya	78920
+地球	de qiu	78830
+哦	o	78800
+行	xing	78800
+嗯	n	78700
+所	suo	78680
+啦	la	78590
+然	ran	78560
+嘛	ma	78480
+家	jia	78450
+你好吗	ni hao ma	78370
+种	zhong	78330
+谢谢你	xie xie ni	78260
+事	shi	78220
+不客气	bu ke qi	78160
+成	cheng	78110
+对不起	dui bu qi	78050
+方	fang	77990
+没关系	mei guan xi	77950
+多	duo	77880
+再见	zai jian	77840
+经	jing	77770
+请问	qing wen	77740
+么	me	77660
+为什么	wei shen me	77640
+去	qu	77550
+什么时候	shen me shi hou	77530
+法	fa	77440
+怎么回事	zen me hui shi	77430
+学	xue	77340
+没问题	mei wen ti	77330
+如	ru	77230
+辛苦了	xin ku le	77230
+好久不见	hao jiu bu jian	77130
+都	dou	77120
+一路顺风	yi lu shun feng	77030
+同	tong	77020
+银行	yin xing	76990
+生日快乐	sheng ri kuai le	76930
+现	xian	76910
+恭喜发财	gong xi fa cai	76830
+当	dang	76810
+万事如意	wan shi ru yi	76740
+没	mei	76710
+心想事成	xin xiang shi cheng	76640
+动	dong	76600
+身体健康	shen ti jian kang	76540
+面	mian	76500
+工作顺利	gong zuo shun li	76450
+起	qi	76400
+阖家幸福	he jia xing fu	76350
+看	kan	76300
+天天开心	tian tian kai xin	76260
+定	ding	76200
+平平安安	ping pin ga nan	76160
+天	tian	76100
+越来越好	yue lai yue hao	76070
+分	fen	76000
+注意安全	zhu yi an quan	75970
+还	hai	75900
+早点休息	zao dian xiu xi	75880
+进	jin	75800
+保持联系	bao chi lian xi	75790
+好	hao	75710
+我明白了	wo ming bai le	75690
+小	xiao	75610
+你说得对	ni shuo de dui	75600
+部	bu	75510
+稍等一下	shao deng yi xia	75510
+其	qi	75420
+马上就好	ma shang jiu hao	75420
+有空吗	you kong ma	75330
+些	xie	75320
+怎么样	zen me yang	75240
+主	zhu	75230
+大家好	da jia hao	75150
+样	yang	75130
+早上好	zao shang hao	75060
+理	li	75040
+晚上好	wan shang hao	74970
+地方	de fang	74960
+心	xin	74950
+晚安	wa nan	74880
+她	ta	74850
+明天见	ming tian jian	74790
+本	ben	74760
+下次见	xia ci jian	74700
+前	qian	74670
+收到谢谢	shou dao xie xie	74610
+开	kai	74580
+加油	jia you	74520
+但	dan	74490
+因	yin	74400
+只	zhi	74310
+从	cong	74220
+想	xiang	74130
+它	ta	74090
+实	shi	74040
+我们	wo men	74010
+日	ri	73950
+你们	ni men	73920
+军	jun	73860
+他们	ta men	73840
+者	zhe	73780
+她们	ta men	73750
+意	yi	73690
+自己	zi ji	73670
+无	wu	73600
+大家	da jia	73580
+力	li	73510
+别人	bie ren	73500
+这个	zhe ge	73420
+与	yu	73340
+那个	na ge	73330
+长	zhang	73260
+哪个	na ge	73250
+把	ba	73170
+这些	zhe xie	73170
+机	ji	73090
+那些	na xie	73090
+这里	zhe li	73010
+十	shi	73000
+民	min	72920
+那里	na li	72920
+第	di	72840
+哪里	na li	72840
+什么	shen me	72760
+公	gong	72750
+怎么	zen me	72680
+此	ci	72670
+音乐	yin le	72610
+因为	yin wei	72600
+已	yi	72590
+所以	suo yi	72520
+工	gong	72500
+但是	dan shi	72440
+使	shi	72420
+如果	ru guo	72360
+情	qing	72340
+虽然	sui ran	72280
+明	ming	72260
+而且	er qie	72200
+性	xing	72180
+然后	ran hou	72120
+知	zhi	72100
+还是	hai shi	72050
+全	quan	72020
+或者	huo zhe	71970
+三	san	71940
+可以	ke yi	71890
+又	you	71860
+可能	ke neng	71810
+关	guan	71780
+应该	ying gai	71730
+点	dian	71700
+需要	xu yao	71660
+正	zheng	71620
+必须	bi xu	71580
+业	ye	71540
+呗	bei	71530
+已经	yi jing	71500
+外	wai	71460
+正在	zheng zai	71430
+将	jiang	71380
+马上	ma shang	71350
+两	liang	71300
+刚刚	gang gang	71270
+高	gao	71230
+呢	ni	71220
+一直	yi zhi	71200
+间	jian	71150
+一定	yi ding	71120
+由	you	71070
+一起	yi qi	71050
+问	wen	70990
+一样	yi yang	70970
+很	hen	70920
+哦	e	70920
+一些	yi xie	70900
+最	zui	70840
+嗯	ng	70830
+一点	yi dian	70820
+重	zhong	70760
+一下	yi xia	70750
+并	bing	70690
+时候	shi hou	70670
+物	wu	70610
+现在	xian zai	70600
+手	shou	70540
+今天	jin tian	70520
+应	ying	70460
+明天	ming tian	70450
+战	zhan	70390
+昨天	zuo tian	70380
+向	xiang	70310
+后天	hou tian	70300
+头	tou	70240
+前天	qian tian	70230
+文	wen	70160
+早上	zao shang	70160
+没关系	mei guan ji	70150
+体	ti	70090
+上午	shang wu	70090
+再见	zai xian	70060
+政	zheng	70020
+中午	zhong wu	70010
+美	mei	69940
+下午	xia wu	69940
+相	xiang	69870
+晚上	wan shang	69870
+见	jian	69800
+今年	jin nian	69800
+明年	ming nian	69730
+被	bei	69720
+利	li	69650
+去年	qu nian	69650
+没问题	mo wen ti	69600
+什	shen	69580
+最近	zui jin	69580
+以后	yi hou	69510
+辛苦了	xin ku liao	69510
+二	er	69500
+以前	yi qian	69440
+等	deng	69430
+好久不见	hao jiu bu xian	69420
+之前	zhi qian	69370
+产	chan	69360
+之后	zhi hou	69300
+或	huo	69290
+生日快乐	sheng ri kuai yue	69240
+问题	wen ti	69230
+新	xin	69220
+办法	ban fa	69160
+己	ji	69150
+方法	fang fa	69090
+制	zhi	69070
+样子	yang zi	69020
+身	shen	69000
+感觉	gan jue	68950
+果	guo	68930
+觉得	jue de	68880
+加	jia	68860
+知道	zhi dao	68810
+西	xi	68790
+认识	ren shi	68740
+斯	si	68720
+明白	ming bai	68670
+月	yue	68650
+理解	li jie	68600
+话	hua	68580
+希望	xi wang	68530
+合	he	68510
+喜欢	xi huan	68460
+回	hui	68440
+想要	xiang yao	68400
+特	te	68370
+准备	zhun bei	68330
+代	dai	68300
+开始	kai shi	68260
+内	nei	68240
+保持联系	bao chi lian ji	68210
+结束	jie shu	68190
+信	xin	68170
+继续	ji xu	68120
+我明白了	wo ming bai liao	68120
+表	biao	68100
+完成	wan cheng	68060
+你说得对	ni shuo dei dui	68040
+化	hua	68030
+发现	fa xian	67990
+老	lao	67960
+认为	ren wei	67920
+给	gei	67890
+表示	biao shi	67850
+世	shi	67830
+出现	chu xian	67790
+位	wei	67760
+发生	fa sheng	67720
+次	ci	67690
+存在	cun zai	67650
+大家好	dai jia hao	67630
+度	du	67620
+成为	cheng wei	67590
+门	men	67560
+作为	zuo wei	67520
+任	ren	67490
+使用	shi yong	67450
+常	chang	67420
+进行	jin xing	67390
+先	xian	67360
+提供	ti gong	67320
+明天见	ming tian xian	67310
+海	hai	67290
+支持	zhi chi	67260
 大	dai	67240
 地	di	67240
 的	di	67240
 和	huo	67240
+会	kuai	67240
 了	liao	67240
-收到	shou dao	67240
-门	men	67220
-会	kuai	67170
-谢谢	xie xie	67170
-任	ren	67150
-你好	ni hao	67110
-常	chang	67080
-麻烦	ma fan	67040
-先	xian	67010
-好的	hao de	66970
-海	hai	66940
-稍等	shao deng	66910
-大家	dai jia	66900
-通	tong	66880
-当然	dang ran	66840
-教	jiao	66810
-真的	zhen de	66780
-儿	r	66740
-非常	fei chang	66710
-原	yuan	66680
-特别	te bie	66650
-东	dong	66610
-比较	bi jiao	66580
-声	sheng	66540
-有点	you dian	66520
-提	ti	66480
-很多	hen duo	66450
-立	li	66410
-不少	bu shao	66390
-及	ji	66340
-所有	suo you	66320
-比	bi	66280
-每个	mei ge	66260
-员	yuan	66210
-其他	qi ta	66190
-解	jie	66150
-另外	ling wai	66130
-水	shui	66080
-其实	qi shi	66070
-名	ming	66010
-也许	ye xu	66000
-得	dei	65950
-真	zhen	65950
-大概	da gai	65940
-论	lun	65880
-左右	zuo you	65880
-处	chu	65820
-大约	da yue	65810
-走	zou	65750
-主要	zhu yao	65750
-着	zhao	65730
-义	yi	65690
-重要	zhong yao	65680
-各	ge	65630
-简单	jian dan	65620
-入	ru	65560
-复杂	fu za	65560
-几	ji	65500
-方便	fang bian	65500
-还是	huan shi	65450
-口	kou	65430
-清楚	qing chu	65430
-认	ren	65370
-详细	xiang xi	65370
-条	tiao	65310
-具体	ju ti	65310
-正确	zheng que	65250
-平	ping	65240
-系	xi	65180
-错误	cuo wu	65180
-成功	cheng gong	65120
-气	qi	65110
-失败	shi bai	65060
-题	ti	65050
-免费	mian fei	65000
-活	huo	64990
-收费	shou fei	64940
-尔	er	64920
-安全	an quan	64870
-更	geng	64860
-稳定	wen ding	64810
-别	bie	64800
-快速	kuai su	64750
-打	da	64740
-好看	hao kan	64690
-女	nu	64670
-好用	hao yong	64630
-变	bian	64610
-好吃	hao chi	64570
-四	si	64550
-好玩	hao wan	64510
-神	shen	64490
-行	hang	64480
-舒服	shu fu	64440
-总	zong	64430
-开心	kai xin	64380
-何	he	64360
-高兴	gao xing	64320
-电	dian	64300
-难过	nan guo	64260
-数	shu	64240
-生气	sheng qi	64200
-安	an	64180
-担心	dan xin	64140
-少	shao	64120
-放心	fang xin	64080
-报	bao	64060
-满意	man yi	64020
-才	cai	63990
-失望	shi wang	63960
-没关系	mo guan xi	63950
-结	jie	63930
-惊喜	jing xi	63900
-反	fan	63870
-感谢	gan xie	63840
-受	shou	63810
-抱歉	bao qian	63780
-目	mu	63750
-不好意思	bu hao yi si	63720
-太	tai	63690
-知意	zhi yi	63660
-量	liang	63630
-输入法	shu ru fa	63600
-再	zai	63570
-输入	shu ru	63540
-感	gan	63510
-候选	hou xuan	63480
-建	jian	63450
-联想	lian xiang	63430
-务	wu	63390
-段落	duan luo	63370
-做	zuo	63330
-习惯	xi guan	63310
-接	jie	63270
-记忆	ji yi	63250
-必	bi	63210
-本地	ben de	63190
-场	chang	63150
-设置	she zhi	63130
-件	jian	63090
-都	du	63080
-浩瀚	hao han	63070
-计	ji	63030
-瀚	han	63010
-管	guan	62970
-北京	bei jing	62960
-期	qi	62910
-上海	shang hai	62900
-市	shi	62850
-广州	guang zhou	62840
-直	zhi	62790
-深圳	shen zhen	62780
-德	de	62740
-没	mo	62730
-重庆	chong qing	62720
-资	zi	62680
-成都	cheng du	62670
-命	ming	62620
-杭州	hang zhou	62610
-感觉	gan jiao	62570
-山	shan	62560
-武汉	wu han	62550
-金	jin	62500
-觉得	jue dei	62500
-西安	xian	62490
-指	zhi	62440
-南京	nan jing	62430
-克	ke	62380
-天津	tian jin	62380
-许	xu	62330
-苏州	su zhou	62320
-统	tong	62270
-重新	chong xin	62260
-区	qu	62210
-重复	chong fu	62210
-保	bao	62150
-重量	zhong liang	62150
-至	zhi	62090
-数量	shu liang	62090
-还	huan	62060
-队	dui	62040
-质量	zhi liang	62030
-形	xing	61980
-尽量	jin liang	61980
-社	she	61920
-行业	hang ye	61920
-便	bian	61860
-行长	hang zhang	61860
-空	kong	61810
-同行	tong hang	61810
-决	jue	61750
-快乐	kuai le	61750
-处理	chu li	61700
-治	zhi	61690
-展	zhan	61640
-到处	dao chu	61640
-马	ma	61580
-为了	wei le	61580
-了解	liao jie	61530
-科	ke	61520
-司	si	61470
-得到	de dao	61470
-目的	mu di	61420
-五	wu	61410
-的确	di que	61360
-基	ji	61350
-眼	yan	61300
-归还	gui huan	61300
-还款	huan kuan	61250
-书	shu	61240
-长江	chang jiang	61190
-非	fei	61180
-长大	zhang da	61140
-则	ze	61130
-进行	jin hang	61120
-校长	xiao zhang	61080
-听	ting	61070
-出差	chu chai	61030
-白	bai	61020
-却	que	60960
-参差	ce n ci	60920
-界	jie	60900
-参加	shen jia	60880
-便宜	pian yi	60860
-达	da	60850
-着急	zhao ji	60810
-光	guang	60790
-联系	lian ji	60760
-着火	zhao huo	60750
-放	fang	60740
-睡着	shui zhao	60700
-强	qiang	60680
-看着	kan zhe	60640
-即	ji	60630
-空调	kong tiao	60590
-像	xiang	60570
-调查	diao cha	60530
-难	nan	60520
-调整	tiao zheng	60480
-且	qie	60460
-上班	shang ban	60420
-权	quan	60410
-下班	xia ban	60370
-思	si	60350
-公司	gong si	60310
-王	wang	60300
-好的	hao di	60280
-地址	di zhi	60260
-象	xiang	60240
-爸爸	ba ba	60210
-完	wan	60190
-妈妈	ma ma	60150
-设	she	60130
-父亲	fu qin	60100
-真的	zhen di	60100
-式	shi	60080
-母亲	mu qin	60040
-色	se	60020
-儿子	r zi	59990
-路	lu	59970
-女儿	nu r	59940
-记	ji	59910
-老公	lao gong	59880
-南	nan	59860
-长	chang	59860
-老婆	lao po	59830
-品	pin	59810
-丈夫	zhang fu	59770
-住	zhu	59750
-妻子	qi zi	59720
-告	gao	59700
-哥哥	ge ge	59670
-类	lei	59640
-姐姐	jie jie	59610
-求	qiu	59590
-弟弟	di di	59560
-据	ju	59540
-妹妹	mei mei	59510
-程	cheng	59480
-爷爷	ye ye	59450
-北	bei	59430
-奶奶	nai nai	59400
-边	bian	59380
-外公	wai gong	59350
-大概	dai gai	59340
-死	si	59320
-外婆	wai po	59300
-张	zhang	59270
-叔叔	shu shu	59240
-大约	dai yue	59230
-该	gai	59220
-阿姨	a yi	59190
-交	jiao	59160
-同事	tong shi	59140
-重要	chong yao	59120
-规	gui	59110
-领导	ling dao	59080
-万	wan	59060
-老板	lao ban	59030
-取	qu	59000
-客户	ke hu	58980
-拉	la	58950
-方便	fang pian	58950
-用户	yong hu	58930
-格	ge	58900
-同学	tong xue	58870
-望	wang	58840
-司机	si ji	58820
-觉	jue	58790
-亲戚	qin qi	58770
-术	shu	58740
-男朋友	nan peng you	58720
-领	ling	58690
-女朋友	nu peng you	58670
-共	gong	58630
-确	que	58580
-传	chuan	58530
-师	shi	58480
-观	guan	58420
-清	qing	58370
-六	liu	58350
-今	jin	58320
-七	qi	58300
-切	qie	58270
-八	ba	58250
-院	yuan	58220
-九	jiu	58200
-让	rang	58170
-识	shi	58110
-百	bai	58100
-候	hou	58060
-千	qian	58050
-带	dai	58010
-导	dao	57960
-亿	yi	57940
-争	zheng	57910
-零	ling	57890
-运	yun	57860
-第一	di yi	57840
-笑	xiao	57800
-重	chong	57790
-第二	di er	57790
-飞	fei	57750
-一半	yi ban	57740
-风	feng	57700
-两个	liang ge	57690
-步	bu	57650
-三个	san ge	57640
-改	gai	57600
-几个	ji ge	57590
-收	shou	57550
-没关系	mo guan ji	57550
-多少	duo shao	57540
-根	gen	57500
-几点	ji dian	57480
-干	gan	57450
-星期一	xing qi yi	57430
-造	zao	57400
-星期二	xing qi er	57380
-言	yan	57340
-星期三	xing qi san	57330
-联	lian	57290
-星期四	xing qi si	57280
-持	chi	57240
-星期五	xing qi wu	57230
-组	zu	57190
-星期六	xing qi liu	57180
-每	mei	57140
-星期日	xing qi ri	57130
-济	ji	57090
-周末	zhou mo	57080
-车	che	57040
-段落	duan la	57030
-工作日	gong zuo ri	57030
-亲	qin	56990
-见	xian	56980
-小时	xiao shi	56980
-极	ji	56940
-分钟	fen zhong	56930
-林	lin	56890
-秒钟	miao zhong	56880
-本地	ben di	56870
-服	fu	56840
-半天	ban tian	56830
-快	kuai	56790
-每天	mei tian	56780
-办	ban	56740
-每周	mei zhou	56730
-议	yi	56690
-每月	mei yue	56680
-往	wang	56640
-每年	mei nian	56630
-元	yuan	56590
-英	ying	56540
-士	shi	56490
-重庆	zhong qing	56450
-证	zheng	56440
-成都	cheng dou	56400
-近	jin	56390
-失	shi	56340
-转	zhuan	56290
-觉得	jiao de	56250
-夫	fu	56240
-令	ling	56190
-准	zhun	56150
-读	du	56140
-布	bu	56100
-写	xie	56090
-始	shi	56050
-吃	chi	56040
-重新	zhong xin	56040
-怎	zen	56000
-喝	he	55990
-重复	zhong fu	55990
-呢	ne	55950
-买	mai	55940
-重量	chong liang	55930
-存	cun	55900
-卖	mai	55890
-未	wei	55850
-远	yuan	55800
-叫	jiao	55750
-拿	na	55750
-行业	xing ye	55730
-台	tai	55700
-行长	xing zhang	55680
-单	dan	55660
-同行	tong xing	55630
-影	ying	55610
-跑	pao	55600
-快乐	kuai yue	55580
-具	ju	55560
-罗	luo	55510
-字	zi	55460
-坐	zuo	55460
-为了	wei liao	55420
-爱	ai	55410
-站	zhan	55410
-给	ji	55400
-了解	le jie	55370
-击	ji	55360
-睡	shui	55360
-流	liu	55320
-得到	dei dao	55320
-备	bei	55270
-目的	mu de	55270
-兵	bing	55220
-的确	de que	55220
-连	lian	55170
-归还	gui hai	55170
-调	diao	55120
-还款	hai kuan	55120
-深	shen	55080
-长江	zhang jiang	55070
-商	shang	55030
-长大	zhang dai	55020
-哭	ku	54980
-算	suan	54980
-校长	xiao chang	54970
-质	zhi	54930
-出差	chu cha	54920
-团	tuan	54880
-找	zhao	54880
-差旅	cha lu	54870
-集	ji	54840
-参差	can cha	54820
-答	da	54790
-便宜	bian yi	54770
-需	xu	54740
-儿	er	54730
-着急	zhe ji	54720
-价	jia	54690
-着火	zhe huo	54680
-花	hua	54650
-睡着	shui zhe	54630
-党	dang	54600
-看着	kan zhao	54580
-华	hua	54550
-空调	kong diao	54530
-城	cheng	54500
-调查	tiao cha	54480
-石	shi	54460
-调整	diao zheng	54430
-级	ji	54410
-整	zheng	54360
-府	fu	54310
-离	li	54270
-地址	de zhi	54230
-况	kuang	54220
-亚	ya	54170
-请	qing	54130
-送	song	54120
-技	ji	54080
-付	fu	54030
-际	ji	54030
-儿子	er zi	53990
-约	yue	53980
-示	shi	53940
-女儿	nu er	53940
-着	zhuo	53900
-复	fu	53890
-病	bing	53840
-换	huan	53800
-息	xi	53800
-究	jiu	53750
-选	xuan	53750
-线	xian	53700
-减	jian	53660
-似	shi	53660
-官	guan	53610
-火	huo	53570
-断	duan	53520
-画	hua	53520
-唱	chang	53470
-精	jing	53470
-系	ji	53450
-满	man	53430
-跳	tiao	53430
-玩	wan	53380
-支	zhi	53380
-视	shi	53330
-消	xiao	53290
-练	lian	53240
-越	yue	53240
-器	qi	53200
-试	shi	53200
-查	cha	53150
-容	rong	53150
-照	zhao	53100
-搞	gao	53060
-须	xu	53060
-女	nv	53030
-弄	nong	53010
-修	xiu	52970
-增	zeng	52970
-研	yan	52920
-装	zhuang	52920
-搬	ban	52870
-称	cheng	52830
-借	jie	52830
-女朋友	nv peng you	52800
-企	qi	52780
-租	zu	52740
-功	gong	52690
-退	tui	52690
-寄	ji	52650
-吗	ma	52650
-包	bao	52600
-递	di	52600
-片	pian	52560
-史	shi	52510
-委	wei	52470
-乎	hu	52420
-延	yan	52370
-轻	qing	52330
-取消	qu xiao	52330
-易	yi	52280
-提交	ti jiao	52280
-早	zao	52240
-审核	shen he	52240
-曾	ceng	52190
-通过	tong guo	52190
-除	chu	52150
-拒绝	ju jue	52150
-农	nong	52100
-同意	tong yi	52100
-反对	fan dui	52060
-建议	jian yi	52010
-广	guang	51970
-讨论	tao lun	51970
-显	xian	51930
-解决	jie jue	51920
-吧	ba	51880
-负责	fu ze	51880
-阿	a	51840
-管理	guan li	51840
-李	li	51790
-销售	xiao shou	51790
-标	biao	51750
-采购	cai gou	51750
-谈	tan	51700
-招聘	zhao pin	51700
-面试	mian shi	51660
-图	tu	51610
-入职	ru zhi	51610
-念	nian	51570
-离职	li zhi	51570
-加班	jia ban	51520
-引	yin	51480
-开会	kai hui	51480
-历	li	51440
-报告	bao gao	51430
-首	shou	51390
-汇报	hui bao	51390
-医	yi	51350
-总结	zong jie	51350
-局	ju	51300
-计划	ji hua	51300
-突	tu	51260
-执行	zhi xing	51260
-专	zhuan	51210
-检查	jian cha	51210
-费	fei	51170
-测试	ce shi	51170
-号	hao	51130
-上线	shang xian	51120
-尽	jin	51080
-发布	fa bu	51080
-另	ling	51040
-更新	geng xin	51040
-周	zhou	51000
-升级	sheng ji	50990
-较	jiao	50950
-备份	bei fen	50950
-注	zhu	50910
-恢复	hui fu	50900
-语	yu	50860
-下载	xia zai	50860
-仅	jin	50820
-上传	shang chuan	50820
-考	kao	50780
-安装	an zhuang	50770
-便	pian	50730
-落	luo	50730
-登录	deng lu	50730
-青	qing	50690
-注册	zhu ce	50690
-随	sui	50650
-退出	tui chu	50640
-觉得	jiao dei	50630
-搜索	sou suo	50600
-列	lie	50560
-查询	cha xun	50560
-武	wu	50510
-复制	fu zhi	50510
-红	hong	50470
-粘贴	zhan tie	50470
-响	xiang	50430
-删除	shan chu	50420
-虽	sui	50380
-保存	bao cun	50380
-推	tui	50340
-打开	da kai	50340
-势	shi	50300
-关闭	guan bi	50290
-参	can	50260
-重启	zhong qi	50250
-希	xi	50210
-连接	lian jie	50210
-古	gu	50170
-断开	duan kai	50160
-众	zhong	50130
-充电	chong dian	50120
-行长	xing chang	50110
-构	gou	50080
-付款	fu kuan	50080
-房	fang	50040
-支付	zhi fu	50030
-半	ban	50000
-节	jie	49950
-退款	tui kuan	49950
-土	tu	49910
-退货	tui huo	49910
-投	tou	49870
-发货	fa huo	49860
-某	mou	49820
-收货	shou huo	49820
-案	an	49780
-快递	kuai di	49780
-黑	hei	49740
-物流	wu liu	49730
-维	wei	49700
-签收	qian shou	49690
-革	ge	49650
-开票	kai piao	49650
-划	hua	49610
-报销	bao xiao	49610
-敌	di	49570
-致	zhi	49530
-长大	chang da	49520
-陈	chen	49480
-律	lu	49440
-足	zu	49400
-差旅	chai lu	49390
-态	tai	49360
-酒店	jiu dian	49350
-参差	can chai	49340
-护	hu	49310
-餐厅	can ting	49310
-商店	shang dian	49260
-着急	zhuo ji	49250
-兴	xing	49230
-超市	chao shi	49220
-着火	zhuo huo	49210
-派	pai	49190
-地铁	de tie	49180
-睡着	shui zhuo	49160
-孩	hai	49140
-公交	gong jiao	49140
-看着	kan zhuo	49120
-验	yan	49100
-出租车	chu zu che	49090
-责	ze	49060
-自行车	zi xing che	49050
-营	ying	49020
-电话	dian hua	49010
-星	xing	48980
-邮箱	you xiang	48970
-够	gou	48930
-名字	ming zi	48930
-章	zhang	48890
-号码	hao ma	48880
-音	yin	48850
-身份证	shen fen zheng	48840
-跟	gen	48810
-护照	hu zhao	48800
-志	zhi	48770
-银行卡	yin xing ka	48760
-底	di	48720
-钱包	qian bao	48710
-钥匙	yao shi	48670
-严	yan	48640
-衣服	yi fu	48630
-巴	ba	48600
-鞋	xie	48590
-例	li	48560
-女儿	nv r	48550
-防	fang	48510
-族	zu	48470
-笔	bi	48460
-供	gong	48430
-纸	zhi	48420
-效	xiao	48390
-文件	wen jian	48380
-续	xu	48350
-资料	zi liao	48340
-施	shi	48310
-合同	he tong	48300
-留	liu	48270
-发票	fa piao	48250
-讲	jiang	48220
-觉	jiao	48210
-收据	shou ju	48210
-型	xing	48180
-订单	ding dan	48170
-料	liao	48140
-包裹	bao guo	48130
-终	zhong	48100
-姓名	xing ming	48090
-部门	bu men	48050
-紧	jin	48020
-职位	zhi wei	48000
-传	zhuan	47990
-黄	huang	47980
-工资	gong zi	47960
-绝	jue	47930
-奖金	jiang jin	47920
-奇	qi	47890
-社保	she bao	47880
-察	cha	47850
-公积金	gong ji jin	47840
-母	mu	47810
-抬头	tai tou	47800
-京	jing	47770
-税号	shui hao	47760
-段	duan	47730
-开户行	kai hu hang	47710
-依	yi	47690
-金额	ji ne	47670
-批	pi	47650
-单价	dan jia	47630
-群	qun	47610
-总价	zong jia	47590
-项	xiang	47560
-折扣	zhe kou	47550
-故	gu	47520
-按	an	47480
-运费	yun fei	47470
-河	he	47440
-税费	shui fei	47430
-米	mi	47400
-合计	he ji	47380
-围	wei	47360
-备注	bei zhu	47340
-江	jiang	47320
-日期	ri qi	47300
-织	zhi	47280
-编号	bian hao	47260
-害	hai	47240
-单号	dan hao	47220
-斗	dou	47200
-条码	tiao ma	47180
-双	shuang	47160
-二维码	er wei ma	47140
-境	jing	47120
-密码	mi ma	47100
-客	ke	47080
-验证码	yan zheng ma	47060
-纪	ji	47030
-链接	lian jie	47020
-采	cai	46990
-网站	wang zhan	46980
-举	ju	46950
-页面	ye mian	46940
-杀	sha	46910
-数据	shu ju	46890
-攻	gong	46870
-信息	xin xi	46850
-父	fu	46830
-消息	xiao xi	46810
-苏	su	46790
-通知	tong zhi	46770
-密	mi	46750
-邮件	you jian	46730
-低	di	46710
-附件	fu jian	46690
-朝	chao	46670
-图片	tu pian	46650
-友	you	46630
-视频	shi pin	46610
-诉	su	46590
-新闻	xin wen	46570
-止	zhi	46550
-文章	wen zhang	46530
-细	xi	46510
-方案	fan gan	46490
-愿	yuan	46470
-项目	xiang mu	46450
-产品	chan pin	46410
-值	zhi	46390
-服务	fu wu	46370
-仍	reng	46350
-开会	kai kuai	46330
-市场	shi chang	46330
-男	nan	46310
-品牌	pin pai	46290
-钱	qian	46270
-价格	jia ge	46250
-破	po	46230
-库存	ku cun	46210
-网	wang	46190
-售后	shou hou	46170
-热	re	46150
-客服	ke fu	46130
-执行	zhi hang	46130
-助	zhu	46110
-投诉	tou su	46090
-倒	dao	46070
-意见	yi jian	46050
-育	yu	46030
-需求	xu qiu	46010
-属	shu	45990
-功能	gong neng	45970
-版本	ban ben	45930
-帝	di	45910
-系统	xi tong	45890
-呢	ni	45880
-限	xian	45870
-软件	ruan jian	45850
-船	chuan	45830
-硬件	ying jian	45810
-脸	lian	45790
-设备	she bei	45770
-职	zhi	45750
-上传	shang zhuan	45740
-文件夹	wen jian jia	45730
-速	su	45710
-桌面	zhuo mian	45690
-刻	ke	45670
-屏幕	ping mu	45650
-乐	le	45630
-键盘	jian pan	45610
-否	fou	45600
-鼠标	shu biao	45570
-刚	gang	45560
-耳机	er ji	45530
-威	wei	45520
-相机	xiang ji	45490
-毛	mao	45480
-电池	dian chi	45450
-状	zhuang	45440
-充电器	chong dian qi	45410
-率	lu	45400
-数据线	shu ju xian	45370
-甚	shen	45360
-包装	bao zhuang	45330
-独	du	45320
-说明书	shuo ming shu	45290
-球	qiu	45280
-保修卡	bao xiu ka	45250
-般	ban	45240
-重启	chong qi	45230
-配件	pei jian	45210
-调	tiao	45200
-普	pu	45200
-颜色	yan se	45170
-怕	pa	45160
-尺寸	chi cun	45130
-弹	dan	45120
-行长	hang chang	45100
-型号	xing hao	45090
-校	xiao	45080
-苦	ku	45050
-规格	gui ge	45050
-材质	cai zhi	45020
-创	chuang	45010
-产地	chan de	44980
-假	jia	44970
-保质期	bao zhi qi	44940
-久	jiu	44930
-生产日期	sheng chan ri qi	44900
-错	cuo	44890
-有效期	you xiao qi	44860
-承	cheng	44850
-我很好	wo hen hao	44820
-印	yin	44810
-你呢	ni ne	44780
-晚	wan	44770
-我在	wo zai	44740
-兰	lan	44730
-我在忙	wo zai mang	44700
-股	gu	44660
-我在开会	wo zai kai hui	44660
-我在路上	wo zai lu shang	44620
-脑	nao	44580
-马上到	ma shang dao	44580
-长大	chang dai	44570
-谢谢大家	xie xie da jia	44550
-预	yu	44540
-麻烦你	ma fan ni	44510
-谁	shui	44500
-请问一下	qing wen yi xia	44470
-益	yi	44460
-帮我看看	bang wo kan kan	44430
-阳	yang	44420
-参差	shen cha	44410
-若	ruo	44390
-可以吗	ke yi ma	44390
-哪	na	44350
-行不行	xing bu xing	44350
-微	wei	44310
-好不好	hao bu hao	44310
-继	ji	44270
-是不是	shi bu shi	44270
-地铁	di tie	44260
-有没有	you mei you	44230
-要不要	yao bu yao	44200
-急	ji	44190
-能不能	neng bu neng	44160
-血	xue	44150
-自行车	zi hang che	44150
-惊	jing	44120
-会不会	hui bu hui	44120
-伤	shang	44080
-对不对	dui bu dui	44080
-素	su	44040
-怎么办	zen me ban	44040
-似	si	44000
-药	yao	44000
-怎么了	zen me le	44000
-适	shi	43960
-什么地方	shen me de fang	43960
-波	bo	43920
-多少钱	duo shao qian	43920
-夜	ye	43890
-怎么走	zen me zou	43890
-银行卡	yin hang ka	43880
-省	sheng	43850
-怎么用	zen me yong	43850
-初	chu	43810
-什么意思	shen me yi si	43810
-喜	xi	43770
-知道了	zhi dao le	43770
-卫	wei	43730
-我同意	wo tong yi	43730
-源	yuan	43700
-女儿	nv er	43690
-我不同意	wo bu tong yi	43690
-食	shi	43660
-我建议	wo jian yi	43650
-险	xian	43620
-我确认	wo que ren	43620
-待	dai	43580
-我安排一下	wo an pai yi xia	43580
-述	shu	43540
-我联系一下	wo lian xi yi xia	43540
-陆	lu	43500
-我查一下	wo cha yi xia	43500
-习	xi	43470
-我再想想	wo zai xiang xiang	43460
-置	zhi	43430
-晚点回复	wan dian hui fu	43420
-居	ju	43390
-回头聊	hui tou liao	43390
-劳	lao	43350
-祝好	zhu hao	43350
-财	cai	43320
-称	chen	43320
-一切顺利	yi qie shun li	43310
-环	huan	43280
-新年快乐	xin nian kuai le	43270
-排	pai	43240
-节日快乐	jie ri kuai le	43230
-福	fu	43200
-收件地址	shou jian di zhi	43200
-纳	na	43160
-收货地址	shou huo di zhi	43160
-欢	huan	43130
-详细地址	xiang xi di zhi	43120
-雷	lei	43090
-邮寄地址	you ji di zhi	43080
-警	jing	43050
-家庭地址	jia ting di zhi	43040
-获	huo	43010
-公司地址	gong si di zhi	43010
-模	mo	42980
-收件人	shou jian ren	42970
-充	chong	42940
-开户行	kai hu xing	42940
-收货人	shou huo ren	42930
-负	fu	42900
-联系人	lian xi ren	42890
-云	yun	42860
-联系电话	lian xi dian hua	42850
-停	ting	42820
-手机号码	shou ji hao ma	42820
-木	mu	42790
-折扣	she kou	42790
-邮政编码	you zheng bian ma	42780
-游	you	42750
-所在地区	suo zai di qu	42740
-龙	long	42710
-街道	jie dao	42700
-树	shu	42670
-小区	xiao qu	42660
-疑	yi	42640
-大厦	da sha	42630
-层	ceng	42600
-写字楼	xie zi lou	42590
-冷	leng	42560
-门牌号	men pai hao	42550
-洲	zhou	42530
-收货信息	shou huo xin xi	42510
-冲	chong	42490
-寄件人	ji jian ren	42480
-射	she	42450
-寄件地址	ji jian di zhi	42440
-略	lve	42410
-到付	dao fu	42400
-范	fan	42380
-包邮	bao you	42360
-竟	jing	42340
-顺丰	shun feng	42320
-句	ju	42300
-快递单号	kuai di dan hao	42290
-室	shi	42260
-物流信息	wu liu xin xi	42250
-异	yi	42230
-签收人	qian shou ren	42210
-激	ji	42190
-代收点	dai shou dian	42170
-汉	han	42150
-村	cun	42120
-自提	zi ti	42100
-哈	ha	42080
-送货上门	song huo shang men	42060
-策	ce	42040
-北京市	bei jing shi	42020
-演	yan	42000
-上海市	shang hai shi	41990
-简	jian	41970
-广州市	guang zhou shi	41950
-卡	ka	41930
-深圳市	shen zhen shi	41910
-罪	zui	41890
-判	pan	41860
-成都市	cheng dou shi	41840
-担	dan	41820
-重庆市	zhong qing shi	41800
-州	zhou	41780
-南京市	nan jing shi	41760
-静	jing	41750
-武汉市	wu han shi	41730
-西安市	xian shi	41690
-既	ji	41670
-苏州市	su zhou shi	41650
-衣	yi	41640
-天津市	tian jin shi	41610
-落	la	41600
-您	nin	41600
-长沙市	zhang sha shi	41580
-宗	zong	41560
-郑州市	zheng zhou shi	41540
-积	ji	41530
-青岛市	qing dao shi	41500
-余	yu	41490
-厦门市	sha men shi	41470
-痛	tong	41450
-意见	yi xian	41440
-福州市	fu zhou shi	41430
-检	jian	41420
-济南市	ji nan shi	41390
-差	cha	41380
-合肥市	he fei shi	41360
-富	fu	41340
-昆明市	kun ming shi	41320
-灵	ling	41310
-系统	ji tong	41300
-宁波市	ning bo shi	41280
-协	xie	41270
-无锡市	wu xi shi	41240
-角	jiao	41230
-参	shen	41210
-佛山市	fu shan shi	41210
-占	zhan	41200
-配	pei	41160
-珠海市	zhu hai shi	41130
-征	zheng	41120
-三亚市	san ya shi	41100
-朝阳区	chao yang qu	41060
-皮	pi	41050
-海淀区	hai dian qu	41020
-挥	hui	41010
-东城区	dong cheng qu	40990
-胜	sheng	40980
-西城区	xi cheng qu	40950
-降	jiang	40940
-阶	jie	40900
-天河区	tian he qu	40880
-审	shen	40870
-南山区	nan shan qu	40840
-沉	chen	40830
-坚	jian	40800
-福田区	fu tian qu	40800
-西湖区	xi hu qu	40770
-善	shan	40760
-武侯区	wu hou qu	40730
-妈	ma	40720
-刘	liu	40690
-望京	wang jing	40690
-中关村	zhong guan cun	40660
-陆家嘴	lu jia zui	40620
-超	chao	40610
-免	mian	40580
-珠江新城	zhu jiang xin cheng	40580
-科技园	ke ji yuan	40550
-压	ya	40540
-银	yin	40510
-软件园	ruan jian yuan	40510
-产地	chan di	40480
-商务区	shang wu qu	40470
-开发区	kai fa qu	40440
-皇	huang	40430
-养	yang	40400
-高新区	gao xin qu	40400
-伊	yi	40360
-开票信息	kai piao xin xi	40360
-怀	huai	40330
-发票抬头	fa piao tai tou	40330
-你呢	ni ni	40300
-执	zhi	40290
-单位名称	dan wei ming cheng	40290
-公司名称	gong si ming cheng	40260
-副	fu	40250
-乱	luan	40220
-纳税人识别号	na shui ren shi bie hao	40220
-我在开会	wo zai kai kuai	40200
-抗	kang	40180
-统一社会信用代码	tong yi she hui xin yong dai ma	40180
-犯	fan	40150
-注册地址	zhu ce di zhi	40150
-追	zhui	40110
-银行账号	yin hang zhang hao	40110
-谢谢大家	xie xie dai jia	40090
-帮	bang	40070
-发票类型	fa piao lei xing	40070
-宣	xuan	40040
-增值税专用发票	zeng zhi shui zhuan yong fa piao	40040
-佛	fu	40000
-增值税普通发票	zeng zhi shui pu tong fa piao	40000
-岁	sui	39970
-参差	shen chai	39970
-电子发票	dian zi fa piao	39970
-航	hang	39930
-纸质发票	zhi zhi fa piao	39930
-行不行	xing bu hang	39920
-优	you	39900
-开票金额	kai piao ji ne	39890
-怪	guai	39860
-发票内容	fa piao nei rong	39860
-香	xiang	39820
-发票备注	fa piao bei zhu	39820
-有没有	you mo you	39810
-著	zhe	39790
-开票日期	kai piao ri qi	39780
-田	tian	39750
-发票代码	fa piao dai ma	39750
-铁	tie	39720
-会不会	hui bu kuai	39710
-发票号码	fa piao hao ma	39710
-控	kong	39680
-报销凭证	bao xiao ping zheng	39680
-税	shui	39650
-收款账户	shou kuan zhang hu	39640
-左	zuo	39610
-怎么了	zen me liao	39600
-付款方式	fu kuan fang shi	39600
-份	fen	39570
-对公转账	dui gong zhuan zhang	39570
-什么地方	shen me di fang	39570
-穿	chuan	39540
-支付宝	zhi fu bao	39530
-艺	yi	39500
-微信支付	wei xin zhi fu	39500
-背	bei	39470
-银行转账	yin hang zhuan zhang	39460
-阵	zhen	39430
-定金	ding jin	39420
-草	cao	39400
-尾款	wei kuan	39390
-知道了	zhi dao liao	39390
-脚	jiao	39360
-预付款	yu fu kuan	39350
-概	gai	39330
-合同金额	he tong ji ne	39320
-恶	e	39290
-含税	han shui	39280
-块	kuai	39260
-不含税	bu han shui	39250
-顿	dun	39220
-税率	shui lu	39210
-我联系一下	wo lian ji yi xia	39190
-敢	gan	39180
-税额	shui e	39170
-守	shou	39150
-价税合计	jia shui he ji	39140
-酒	jiu	39110
-会议	hui yi	39100
-岛	dao	39080
-主题	zhu ti	39070
-托	tuo	39040
-内容	nei rong	39030
-央	yang	39010
-目录	mu lu	39000
-户	hu	38970
-沟通	gou tong	38960
-烈	lie	38940
-新年快乐	xin nian kuai yue	38940
-会议邀请	hui yi yao qing	38920
-节日快乐	jie ri kuai yue	38910
-洋	yang	38900
-会议时间	hui yi shi jian	38890
-收件地址	shou di zhi	38880
-哥	ge	38870
-会议地点	hui yi di dian	38850
-收货地址	shou di zhi	38840
-索	suo	38830
-会议主题	hui yi zhu ti	38820
-详细地址	xiang xi de zhi	38810
-胡	hu	38800
-参会人员	can hui ren yuan	38780
-邮寄地址	you ji de zhi	38770
-款	kuan	38760
-会议纪要	hui yi ji yao	38750
-家庭地址	jia ting de zhi	38740
-靠	kao	38730
-议程	yi cheng	38710
-公司地址	gong si de zhi	38700
-评	ping	38690
-主持人	zhu chi ren	38680
-版	ban	38660
-发言人	fa yan ren	38640
-宝	bao	38620
-项目进度	xiang mu jin du	38610
-联系人	lian ji ren	38600
-座	zuo	38590
-联系电话	lian ji dian hua	38570
-项目计划	xiang mu ji hua	38570
-释	shi	38550
-需求文档	xu qiu wen dang	38530
-景	jing	38520
-设计方案	she ji fan gan	38500
-顾	gu	38480
-所在地区	suo zai de qu	38470
-测试报告	ce shi bao gao	38460
-弟	di	38450
-上线时间	shang xian shi jian	38430
-登	deng	38410
-截止日期	jie zhi ri qi	38390
-货	huo	38380
-大厦	dai sha	38360
-交付时间	jiao fu shi jian	38360
-互	hu	38340
-排期	pai qi	38320
-里程碑	li cheng bei	38290
-伯	bo	38270
-朝	zhao	38270
-任务	ren wu	38250
-慢	man	38240
-分工	fen gong	38220
-欧	ou	38200
-寄件地址	ji jian de zhi	38190
-负责人	fu ze ren	38180
-跟进	gen jin	38150
-闻	wen	38130
-同步	tong bu	38110
-危	wei	38100
-对齐	dui qi	38080
-忙	mang	38060
-复盘	fu pan	38040
-核	he	38030
-优化	you hua	38010
-暗	an	37990
-姐	jie	37960
-版本号	ban ben hao	37940
-介	jie	37930
-更新日志	geng xin ri zhi	37900
-坏	huai	37890
-问题反馈	wen ti fan kui	37870
-讨	tao	37860
-技术支持	ji shu zhi chi	37830
-丽	li	37820
-售后服务	shou hou fu wu	37800
-良	liang	37790
-合作意向	he zuo yi xiang	37760
-序	xu	37750
-报价单	bao jia dan	37730
-升	sheng	37720
-合同条款	he tong tiao kuan	37690
-监	jian	37680
-付款条款	fu kuan tiao kuan	37660
-临	lin	37650
-成都市	cheng du shi	37650
-重庆市	chong qing shi	37620
-保密协议	bao mi xie yi	37620
-亮	liang	37610
-授权书	shou quan shu	37590
-露	lu	37580
-永	yong	37550
-委托书	wei tuo shu	37550
-证明	zheng ming	37520
-呼	hu	37510
-味	wei	37480
-申请表	shen qing biao	37480
-审批	shen pi	37450
-野	ye	37440
-乐	yue	37420
-长沙市	chang sha shi	37420
-架	jia	37410
-流程	liu cheng	37410
-制度	zhi du	37380
-域	yu	37370
-沙	sha	37340
-规定	gui ding	37340
-公告	gong gao	37310
-掉	diao	37300
-括	kuo	37270
-邮件主题	you jian zhu ti	37270
-舰	jian	37240
-正文	zheng wen	37240
-率	shuai	37230
-鱼	yu	37200
-签名	qian ming	37200
-杂	za	37170
-落款	luo kuan	37170
-误	wu	37130
-此致	ci zhi	37130
-湾	wan	37100
-敬礼	jing li	37100
-吉	ji	37070
-您好	nin hao	37060
-麻烦您	ma fan nin	37030
-编	bian	37000
-弹	tan	37000
-请您	qing nin	37000
-楚	chu	36960
-感谢您	gan xie nin	36960
-朝阳区	zhao yang qu	36950
-肯	ken	36930
-收到请回复	shou dao qing hui fu	36930
-测	ce	36890
-如有问题请随时联系	ru you wen ti qing sui shi lian xi	36890
-败	bai	36860
-期待您的回复	qi dai nin de hui fu	36860
-屋	wu	36830
-附件请查收	fu jian qing cha shou	36820
-请查收	qing cha shou	36790
-梦	meng	36760
+下次见	xia ci xian	67230
+通	tong	67220
+帮助	bang zhu	67190
+教	jiao	67160
+参加	can jia	67130
+儿	r	67090
+安排	an pai	67060
+原	yuan	67030
+联系	lian xi	67000
+东	dong	66960
+确认	que ren	66930
+声	sheng	66890
+回复	hui fu	66870
+提	ti	66830
+发送	fa song	66800
+立	li	66760
+收到	shou dao	66740
+及	ji	66700
+谢谢	xie xie	66670
+比	bi	66630
+你好	ni hao	66610
+员	yuan	66570
+麻烦	ma fan	66540
+解	jie	66500
+好的	hao de	66480
+水	shui	66440
+稍等	shao deng	66410
+名	ming	66370
+当然	dang ran	66350
+真	zhen	66310
+真的	zhen de	66290
+论	lun	66250
+大家	dai jia	66230
+非常	fei chang	66220
+处	chu	66180
+特别	te bie	66160
+走	zou	66120
+比较	bi jiao	66100
+得	dei	66070
+义	yi	66050
+有点	you dian	66030
+各	ge	65990
+很多	hen duo	65970
+入	ru	65930
+不少	bu shao	65910
+几	ji	65860
+着	zhao	65850
+所有	suo you	65840
+口	kou	65800
+每个	mei ge	65780
+认	ren	65740
+其他	qi ta	65720
+条	tiao	65680
+另外	ling wai	65660
+平	ping	65610
+其实	qi shi	65590
+系	xi	65550
+也许	ye xu	65530
+气	qi	65490
+大概	da gai	65470
+题	ti	65430
+左右	zuo you	65410
+活	huo	65360
+大约	da yue	65340
+尔	er	65300
+主要	zhu yao	65280
+更	geng	65240
+重要	zhong yao	65220
+别	bie	65180
+简单	jian dan	65160
+打	da	65120
+复杂	fu za	65100
+女	nu	65050
+方便	fang bian	65040
+变	bian	64990
+清楚	qing chu	64980
+四	si	64930
+详细	xiang xi	64910
+神	shen	64870
+具体	ju ti	64850
+还是	huan shi	64840
+总	zong	64810
+正确	zheng que	64790
+何	he	64750
+错误	cuo wu	64730
+电	dian	64690
+成功	cheng gong	64670
+数	shu	64630
+行	hang	64620
+失败	shi bai	64610
+安	an	64570
+免费	mian fei	64550
+少	shao	64500
+收费	shou fei	64490
+报	bao	64440
+安全	an quan	64430
+才	cai	64380
+稳定	wen ding	64370
+结	jie	64320
+快速	kuai su	64310
+反	fan	64260
+好看	hao kan	64250
+受	shou	64200
+好用	hao yong	64190
+目	mu	64140
+好吃	hao chi	64130
+太	tai	64080
+好玩	hao wan	64070
+量	liang	64020
+舒服	shu fu	64010
+再	zai	63970
+开心	kai xin	63950
+感	gan	63910
+高兴	gao xing	63890
+建	jian	63850
+难过	nan guo	63830
+务	wu	63790
+生气	sheng qi	63770
+做	zuo	63730
+担心	dan xin	63720
+接	jie	63670
+放心	fang xin	63660
+必	bi	63610
+满意	man yi	63600
+场	chang	63550
+失望	shi wang	63540
+件	jian	63490
+惊喜	jing xi	63480
+计	ji	63440
+感谢	gan xie	63420
+管	guan	63380
+抱歉	bao qian	63360
+期	qi	63320
+不好意思	bu hao yi si	63310
+市	shi	63260
+知意	zhi yi	63250
+都	du	63240
+直	zhi	63200
+输入法	shu ru fa	63190
+德	de	63140
+没关系	mo guan xi	63140
+输入	shu ru	63130
+资	zi	63090
+候选	hou xuan	63070
+命	ming	63030
+联想	lian xiang	63020
+山	shan	62970
+段落	duan luo	62960
+金	jin	62910
+没	mo	62900
+习惯	xi guan	62900
+指	zhi	62860
+记忆	ji yi	62840
+克	ke	62800
+本地	ben de	62790
+许	xu	62740
+设置	she zhi	62730
+统	tong	62680
+浩瀚	hao han	62670
+区	qu	62630
+瀚	han	62610
+保	bao	62570
+北京	bei jing	62560
+至	zhi	62510
+上海	shang hai	62500
+队	dui	62460
+广州	guang zhou	62440
+形	xing	62400
+深圳	shen zhen	62390
+社	she	62340
+重庆	chong qing	62330
+便	bian	62290
+成都	cheng du	62270
+还	huan	62240
+空	kong	62230
+杭州	hang zhou	62220
+决	jue	62170
+武汉	wu han	62160
+治	zhi	62120
+西安	xian	62100
+展	zhan	62060
+感觉	gan jiao	62050
+南京	nan jing	62050
+马	ma	62010
+觉得	jue dei	61990
+天津	tian jin	61990
+科	ke	61950
+苏州	su zhou	61930
+司	si	61890
+重新	chong xin	61880
+五	wu	61840
+重复	chong fu	61820
+基	ji	61780
+重量	zhong liang	61770
+眼	yan	61730
+数量	shu liang	61710
+书	shu	61670
+质量	zhi liang	61660
+非	fei	61620
+尽量	jin liang	61600
+则	ze	61560
+行业	hang ye	61540
+听	ting	61510
+行长	hang zhang	61490
+白	bai	61450
+同行	tong hang	61430
+却	que	61400
+快乐	kuai le	61380
+界	jie	61340
+处理	chu li	61320
+达	da	61290
+到处	dao chu	61270
+光	guang	61230
+为了	wei le	61210
+放	fang	61180
+了解	liao jie	61160
+强	qiang	61120
+得到	de dao	61100
+即	ji	61070
+目的	mu di	61050
+像	xiang	61010
+的确	di que	60990
+难	nan	60960
+归还	gui huan	60940
+且	qie	60900
+还款	huan kuan	60880
+权	quan	60850
+长江	chang jiang	60830
+思	si	60800
+长大	zhang da	60780
+王	wang	60740
+校长	xiao zhang	60720
+象	xiang	60690
+出差	chu chai	60670
+进行	jin hang	60650
+完	wan	60630
+设	she	60580
+参差	cen ci	60560
+式	shi	60530
+便宜	pian yi	60500
+色	se	60470
+着急	zhao ji	60450
+路	lu	60420
+参加	shen jia	60410
+着火	zhao huo	60400
+记	ji	60370
+睡着	shui zhao	60340
+南	nan	60310
+联系	lian ji	60300
+看着	kan zhe	60290
+品	pin	60260
+空调	kong tiao	60240
+住	zhu	60210
+调查	diao cha	60180
+告	gao	60150
+调整	tiao zheng	60130
+类	lei	60100
+上班	shang ban	60080
+长	chang	60070
+求	qiu	60050
+下班	xia ban	60020
+据	ju	59990
+公司	gong si	59970
+程	cheng	59940
+地址	di zhi	59920
+北	bei	59890
+爸爸	ba ba	59860
+边	bian	59830
+好的	hao di	59830
+妈妈	ma ma	59810
+死	si	59780
+父亲	fu qin	59760
+张	zhang	59730
+母亲	mu qin	59700
+该	gai	59680
+真的	zhen di	59660
+儿子	r zi	59650
+交	jiao	59620
+女儿	nu r	59600
+规	gui	59570
+老公	lao gong	59550
+万	wan	59520
+老婆	lao po	59490
+取	qu	59470
+丈夫	zhang fu	59440
+拉	la	59420
+妻子	qi zi	59390
+格	ge	59360
+哥哥	ge ge	59340
+望	wang	59310
+姐姐	jie jie	59280
+觉	jue	59260
+弟弟	di di	59230
+术	shu	59210
+妹妹	mei mei	59180
+领	ling	59160
+爷爷	ye ye	59130
+共	gong	59100
+奶奶	nai nai	59070
+确	que	59050
+外公	wai gong	59020
+传	chuan	59000
+外婆	wai po	58970
+师	shi	58950
+大概	dai gai	58920
+叔叔	shu shu	58920
+观	guan	58900
+阿姨	a yi	58870
+清	qing	58850
+大约	dai yue	58810
+同事	tong shi	58810
+今	jin	58800
+领导	ling dao	58760
+切	qie	58740
+老板	lao ban	58710
+重要	chong yao	58700
+院	yuan	58690
+客户	ke hu	58660
+让	rang	58640
+用户	yong hu	58610
+识	shi	58590
+同学	tong xue	58560
+候	hou	58540
+方便	fang pian	58530
+司机	si ji	58510
+带	dai	58490
+亲戚	qin qi	58450
+导	dao	58440
+男朋友	nan peng you	58400
+争	zheng	58390
+女朋友	nu peng you	58350
+运	yun	58340
+笑	xiao	58290
+飞	fei	58240
+风	feng	58190
+步	bu	58140
+改	gai	58090
+六	liu	58050
+收	shou	58030
+重	chong	58030
+七	qi	58000
+根	gen	57980
+八	ba	57950
+干	gan	57930
+九	jiu	57890
+造	zao	57880
+言	yan	57830
+百	bai	57790
+联	lian	57780
+千	qian	57740
+持	chi	57730
+组	zu	57680
+每	mei	57640
+亿	yi	57640
+济	ji	57590
+零	ling	57590
+车	che	57540
+第一	di yi	57540
+亲	qin	57490
+第二	di er	57490
+极	ji	57440
+一半	yi ban	57440
+林	lin	57390
+两个	liang ge	57390
+服	fu	57340
+三个	san ge	57340
+快	kuai	57290
+几个	ji ge	57290
+办	ban	57240
+多少	duo shao	57240
+见	xian	57230
+议	yi	57190
+几点	ji dian	57190
+往	wang	57140
+星期一	xing qi yi	57140
+元	yuan	57090
+星期二	xing qi er	57090
+英	ying	57040
+星期三	xing qi san	57040
+士	shi	56990
+星期四	xing qi si	56990
+证	zheng	56940
+星期五	xing qi wu	56940
+近	jin	56900
+星期六	xing qi liu	56900
+失	shi	56850
+星期日	xing qi ri	56850
+没关系	mo guan ji	56820
+转	zhuan	56800
+周末	zhou mo	56800
+夫	fu	56750
+工作日	gong zuo ri	56750
+令	ling	56700
+小时	xiao shi	56700
+段落	duan la	56660
+准	zhun	56650
+分钟	fen zhong	56650
+布	bu	56600
+秒钟	miao zhong	56600
+始	shi	56560
+半天	ban tian	56550
+怎	zen	56510
+本地	ben di	56510
+每天	mei tian	56500
+每周	mei zhou	56450
+存	cun	56410
+每月	mei yue	56400
+未	wei	56360
+每年	mei nian	56360
+远	yuan	56310
+叫	jiao	56270
+台	tai	56220
+单	dan	56170
+影	ying	56120
+重庆	zhong qing	56100
+具	ju	56070
+成都	cheng dou	56050
+罗	luo	56030
+字	zi	55980
+爱	ai	55930
+击	ji	55880
+读	du	55870
+流	liu	55840
+写	xie	55820
+备	bei	55790
+觉得	jiao de	55790
+吃	chi	55770
+兵	bing	55740
+喝	he	55730
+连	lian	55690
+重新	zhong xin	55690
+买	mai	55680
+给	ji	55670
+调	diao	55650
+重复	zhong fu	55640
+卖	mai	55630
+深	shen	55600
+重量	chong liang	55590
+商	shang	55550
+算	suan	55500
+拿	na	55490
+质	zhi	55460
+团	tuan	55410
+行业	xing ye	55390
+集	ji	55360
+跑	pao	55340
+行长	xing zhang	55340
+同行	tong xing	55290
+需	xu	55270
+快乐	kuai yue	55240
+价	jia	55220
+坐	zuo	55200
+花	hua	55180
+站	zhan	55150
+党	dang	55130
+睡	shui	55110
+为了	wei liao	55090
+华	hua	55080
+城	cheng	55040
+了解	le jie	55040
+儿	er	55010
+石	shi	54990
+得到	dei dao	54990
+级	ji	54940
+目的	mu de	54940
+整	zheng	54900
+的确	de que	54890
+府	fu	54850
+归还	gui hai	54840
+离	li	54800
+还款	hai kuan	54800
+况	kuang	54760
+长江	zhang jiang	54750
+哭	ku	54730
+亚	ya	54710
+长大	zhang dai	54700
+请	qing	54660
+校长	xiao chang	54650
+找	zhao	54630
+技	ji	54620
+出差	chu cha	54600
+际	ji	54570
+差旅	cha lu	54550
+答	da	54540
+约	yue	54520
+参差	can cha	54500
+示	shi	54480
+便宜	bian yi	54450
+复	fu	54430
+着急	zhe ji	54410
+病	bing	54390
+着火	zhe huo	54360
+息	xi	54340
+睡着	shui zhe	54310
+究	jiu	54290
+看着	kan zhao	54260
+线	xian	54250
+空调	kong diao	54210
+似	shi	54200
+官	guan	54160
+调查	tiao cha	54160
+调整	diao zheng	54120
+火	huo	54110
+断	duan	54070
+精	jing	54020
+着	zhuo	54000
+满	man	53970
+支	zhi	53930
+地址	de zhi	53920
+送	song	53890
+视	shi	53880
+消	xiao	53840
+付	fu	53800
+越	yue	53790
+器	qi	53750
+系	ji	53750
+容	rong	53700
+儿子	er zi	53690
+照	zhao	53660
+女儿	nu er	53640
+须	xu	53610
+换	huan	53570
+选	xuan	53520
+增	zeng	53520
+研	yan	53480
+减	jian	53430
+称	cheng	53390
+女	nv	53340
+企	qi	53340
+画	hua	53290
+唱	chang	53250
+功	gong	53250
+跳	tiao	53200
+包	bao	53160
+玩	wan	53160
+片	pian	53120
+史	shi	53070
+委	wei	53030
+练	lian	53020
+乎	hu	52980
+试	shi	52970
+查	cha	52940
+轻	qing	52890
+易	yi	52850
+搞	gao	52840
+早	zao	52810
+弄	nong	52790
+曾	ceng	52760
+修	xiu	52750
+除	chu	52720
+装	zhuang	52700
+农	nong	52670
+搬	ban	52660
+借	jie	52610
+广	guang	52540
+租	zu	52520
+女朋友	nv peng you	52520
+显	xian	52500
+退	tui	52480
+寄	ji	52430
+阿	a	52410
+递	di	52390
+李	li	52360
+标	biao	52320
+谈	tan	52280
+图	tu	52190
+延	yan	52170
+念	nian	52140
+取消	qu xiao	52120
+提交	ti jiao	52080
+引	yin	52060
+审核	shen he	52030
+历	li	52010
+通过	tong guo	51990
+首	shou	51970
+拒绝	ju jue	51940
+医	yi	51930
+同意	tong yi	51900
+局	ju	51880
+反对	fan dui	51860
+突	tu	51840
+建议	jian yi	51810
+专	zhuan	51800
+讨论	tao lun	51770
+费	fei	51750
+解决	jie jue	51720
+号	hao	51710
+负责	fu ze	51680
+尽	jin	51670
+管理	guan li	51640
+另	ling	51620
+销售	xiao shou	51590
+周	zhou	51580
+采购	cai gou	51550
+较	jiao	51540
+招聘	zhao pin	51500
+注	zhu	51490
+面试	mian shi	51460
+语	yu	51450
+入职	ru zhi	51420
+仅	jin	51410
+离职	li zhi	51370
+考	kao	51360
+加班	jia ban	51330
+落	luo	51320
+青	qing	51280
+开会	kai hui	51280
+随	sui	51240
+报告	bao gao	51240
+汇报	hui bao	51200
+列	lie	51150
+总结	zong jie	51150
+武	wu	51110
+计划	ji hua	51110
+便	pian	51080
+执行	zhi xing	51070
+红	hong	51060
+响	xiang	51020
+检查	jian cha	51020
+虽	sui	50980
+测试	ce shi	50980
+推	tui	50940
+上线	shang xian	50940
+势	shi	50890
+发布	fa bu	50890
+参	can	50850
+更新	geng xin	50850
+希	xi	50810
+升级	sheng ji	50810
+古	gu	50770
+备份	bei fen	50760
+众	zhong	50720
+恢复	hui fu	50720
+构	gou	50680
+下载	xia zai	50680
+房	fang	50640
+上传	shang chuan	50630
+半	ban	50600
+安装	an zhuang	50590
+节	jie	50550
+登录	deng lu	50550
+土	tu	50510
+注册	zhu ce	50500
+投	tou	50470
+退出	tui chu	50460
+某	mou	50430
+搜索	sou suo	50420
+案	an	50390
+查询	cha xun	50370
+黑	hei	50340
+复制	fu zhi	50330
+维	wei	50300
+粘贴	zhan tie	50290
+革	ge	50260
+删除	shan chu	50250
+划	hua	50220
+觉得	jiao dei	50210
+保存	bao cun	50200
+敌	di	50170
+打开	da kai	50160
+致	zhi	50130
+关闭	guan bi	50120
+陈	chen	50090
+重启	zhong qi	50070
+律	lu	50050
+连接	lian jie	50030
+足	zu	50010
+断开	duan kai	49990
+态	tai	49970
+充电	chong dian	49950
+护	hu	49920
+付款	fu kuan	49900
+支付	zhi fu	49860
+兴	xing	49840
+转账	zhuan zhang	49820
+行长	xing chang	49810
+派	pai	49800
+退款	tui kuan	49780
+孩	hai	49760
+退货	tui huo	49730
+验	yan	49720
+发货	fa huo	49690
+责	ze	49670
+收货	shou huo	49650
+营	ying	49630
+快递	kuai di	49610
+星	xing	49590
+物流	wu liu	49560
+够	gou	49550
+签收	qian shou	49520
+章	zhang	49510
+开票	kai piao	49480
+音	yin	49470
+报销	bao xiao	49440
+跟	gen	49430
+对账	dui zhang	49400
+志	zhi	49380
+底	di	49340
+严	yan	49260
+长大	chang da	49230
+巴	ba	49220
+例	li	49180
+酒店	jiu dian	49180
+防	fang	49140
+餐厅	can ting	49140
+族	zu	49100
+差旅	chai lu	49100
+商店	shang dian	49100
+超市	chao shi	49060
+供	gong	49050
+参差	can chai	49050
+地铁	de tie	49020
+效	xiao	49010
+公交	gong jiao	48980
+续	xu	48970
+着急	zhuo ji	48970
+施	shi	48930
+出租车	chu zu che	48930
+着火	zhuo huo	48920
+留	liu	48890
+自行车	zi xing che	48890
+睡着	shui zhuo	48880
+讲	jiang	48850
+电话	dian hua	48850
+看着	kan zhuo	48830
+型	xing	48810
+邮箱	you xiang	48810
+料	liao	48770
+名字	ming zi	48770
+终	zhong	48730
+号码	hao ma	48730
+身份证	shen fen zheng	48680
+紧	jin	48650
+护照	hu zhao	48640
+黄	huang	48610
+银行卡	yin xing ka	48600
+觉	jiao	48590
+绝	jue	48560
+钱包	qian bao	48560
+奇	qi	48520
+钥匙	yao shi	48520
+察	cha	48480
+衣服	yi fu	48480
+母	mu	48440
+鞋	xie	48430
+京	jing	48400
+传	zhuan	48380
+段	duan	48360
+依	yi	48320
+笔	bi	48310
+批	pi	48280
+纸	zhi	48270
+女儿	nv r	48270
+群	qun	48240
+文件	wen jian	48230
+项	xiang	48200
+资料	zi liao	48190
+故	gu	48160
+合同	he tong	48150
+按	an	48120
+发票	fa piao	48100
+河	he	48080
+收据	shou ju	48060
+米	mi	48040
+订单	ding dan	48020
+围	wei	48000
+包裹	bao guo	47980
+江	jiang	47960
+姓名	xing ming	47940
+织	zhi	47920
+部门	bu men	47900
+害	hai	47880
+职位	zhi wei	47860
+斗	dou	47840
+工资	gong zi	47820
+双	shuang	47800
+奖金	jiang jin	47780
+境	jing	47760
+社保	she bao	47740
+客	ke	47720
+公积金	gong ji jin	47690
+纪	ji	47680
+抬头	tai tou	47650
+采	cai	47640
+税号	shui hao	47610
+举	ju	47600
+开户行	kai hu hang	47570
+杀	sha	47560
+金额	ji ne	47530
+攻	gong	47520
+单价	dan jia	47490
+父	fu	47480
+总价	zong jia	47450
+苏	su	47440
+折扣	zhe kou	47410
+密	mi	47400
+优惠	you hui	47370
+低	di	47360
+运费	yun fei	47330
+朝	chao	47320
+税费	shui fei	47290
+友	you	47280
+合计	he ji	47250
+诉	su	47240
+备注	bei zhu	47210
+止	zhi	47200
+日期	ri qi	47170
+细	xi	47160
+编号	bian hao	47130
+愿	yuan	47120
+单号	dan hao	47090
+条码	tiao ma	47050
+值	zhi	47040
+二维码	er wei ma	47010
+仍	reng	47000
+男	nan	46970
+密码	mi ma	46970
+钱	qian	46930
+验证码	yan zheng ma	46920
+破	po	46890
+链接	lian jie	46880
+网	wang	46850
+网站	wang zhan	46840
+热	re	46810
+页面	ye mian	46800
+助	zhu	46770
+数据	shu ju	46760
+倒	dao	46730
+信息	xin xi	46720
+育	yu	46690
+消息	xiao xi	46680
+属	shu	46650
+通知	tong zhi	46640
+邮件	you jian	46600
+帝	di	46570
+附件	fu jian	46560
+限	xian	46530
+图片	tu pian	46520
+船	chuan	46490
+视频	shi pin	46480
+脸	lian	46460
+新闻	xin wen	46440
+职	zhi	46420
+文章	wen zhang	46400
+速	su	46380
+方案	fan gan	46360
+刻	ke	46340
+项目	xiang mu	46320
+乐	le	46300
+产品	chan pin	46280
+否	fou	46260
+服务	fu wu	46240
+刚	gang	46220
+市场	shi chang	46210
+威	wei	46180
+品牌	pin pai	46170
+开会	kai kuai	46160
+毛	mao	46140
+价格	jia ge	46130
+状	zhuang	46110
+库存	ku cun	46090
+率	lu	46070
+售后	shou hou	46050
+甚	shen	46030
+客服	ke fu	46010
+独	du	45990
+投诉	tou su	45970
+执行	zhi hang	45960
+球	qiu	45950
+意见	yi jian	45930
+般	ban	45910
+需求	xu qiu	45890
+普	pu	45870
+功能	gong neng	45850
+怕	pa	45840
+版本	ban ben	45810
+弹	dan	45800
+系统	xi tong	45770
+校	xiao	45760
+软件	ruan jian	45730
+苦	ku	45720
+硬件	ying jian	45690
+创	chuang	45680
+设备	she bei	45650
+假	jia	45640
+调	tiao	45630
+文件夹	wen jian jia	45610
+久	jiu	45600
+错	cuo	45570
+上传	shang zhuan	45570
+桌面	zhuo mian	45570
+承	cheng	45530
+屏幕	ping mu	45530
+印	yin	45490
+键盘	jian pan	45490
+鼠标	shu biao	45460
+晚	wan	45450
+耳机	er ji	45420
+兰	lan	45410
+相机	xiang ji	45380
+股	gu	45340
+电池	dian chi	45340
+充电器	chong dian qi	45300
+脑	nao	45260
+数据线	shu ju xian	45260
+预	yu	45220
+包装	bao zhuang	45220
+谁	shui	45180
+说明书	shuo ming shu	45180
+益	yi	45150
+保修卡	bao xiu ka	45140
+阳	yang	45110
+配件	pei jian	45100
+若	ruo	45070
+重启	chong qi	45070
+颜色	yan se	45060
+哪	na	45030
+尺寸	chi cun	45030
+微	wei	44990
+型号	xing hao	44990
+尼	ni	44960
+规格	gui ge	44950
+继	ji	44920
+材质	cai zhi	44910
+产地	chan de	44870
+急	ji	44840
+行长	hang chang	44830
+保质期	bao zhi qi	44830
+血	xue	44800
+生产日期	sheng chan ri qi	44790
+惊	jing	44770
+有效期	you xiao qi	44750
+伤	shang	44730
+我很好	wo hen hao	44720
+素	su	44690
+你呢	ni ne	44680
+药	yao	44650
+我在	wo zai	44640
+适	shi	44620
+我在忙	wo zai mang	44600
+波	bo	44580
+我在开会	wo zai kai hui	44560
+夜	ye	44540
+我在路上	wo zai lu shang	44520
+省	sheng	44500
+马上到	ma shang dao	44480
+初	chu	44460
+似	si	44450
+谢谢大家	xie xie da jia	44450
+喜	xi	44430
+麻烦你	ma fan ni	44410
+卫	wei	44390
+请问一下	qing wen yi xia	44370
+源	yuan	44350
+帮我看看	bang wo kan kan	44330
+食	shi	44310
+长大	chang dai	44310
+可以吗	ke yi ma	44290
+险	xian	44280
+行不行	xing bu xing	44250
+待	dai	44240
+好不好	hao bu hao	44210
+述	shu	44200
+是不是	shi bu shi	44180
+陆	lu	44160
+参差	shen cha	44150
+有没有	you mei you	44140
+习	xi	44130
+地铁	di tie	44120
+要不要	yao bu yao	44100
+置	zhi	44090
+能不能	neng bu neng	44060
+居	ju	44050
+劳	lao	44020
+会不会	hui bu hui	44020
+自行车	zi hang che	44000
+财	cai	43980
+对不对	dui bu dui	43980
+怎么办	zen me ban	43950
+环	huan	43940
+怎么了	zen me le	43910
+排	pai	43900
+福	fu	43870
+什么地方	shen me de fang	43870
+纳	na	43830
+多少钱	duo shao qian	43830
+欢	huan	43790
+怎么走	zen me zou	43790
+称	chen	43780
+怎么用	zen me yong	43760
+雷	lei	43750
+银行卡	yin hang ka	43740
+警	jing	43720
+什么意思	shen me yi si	43720
+获	huo	43680
+知道了	zhi dao le	43680
+模	mo	43640
+我同意	wo tong yi	43640
+充	chong	43610
+我不同意	wo bu tong yi	43600
+负	fu	43570
+我建议	wo jian yi	43570
+云	yun	43530
+我确认	wo que ren	43530
+停	ting	43500
+我安排一下	wo an pai yi xia	43490
+木	mu	43460
+女儿	nv er	43450
+我联系一下	wo lian xi yi xia	43450
+游	you	43420
+我查一下	wo cha yi xia	43410
+龙	long	43380
+我再想想	wo zai xiang xiang	43380
+树	shu	43350
+晚点回复	wan dian hui fu	43340
+疑	yi	43310
+回头聊	hui tou liao	43300
+层	ceng	43270
+祝好	zhu hao	43260
+冷	leng	43240
+一切顺利	yi qie shun li	43230
+洲	zhou	43200
+新年快乐	xin nian kuai le	43190
+冲	chong	43160
+节日快乐	jie ri kuai le	43150
+射	she	43130
+收件地址	shou jian di zhi	43110
+略	lve	43090
+收货地址	shou huo di zhi	43070
+范	fan	43050
+详细地址	xiang xi di zhi	43040
+竟	jing	43020
+邮寄地址	you ji di zhi	43000
+句	ju	42980
+家庭地址	jia ting di zhi	42960
+室	shi	42940
+公司地址	gong si di zhi	42920
+异	yi	42910
+收件人	shou jian ren	42890
+激	ji	42870
+收货人	shou huo ren	42850
+汉	han	42830
+开户行	kai hu xing	42820
+联系人	lian xi ren	42810
+村	cun	42800
+联系电话	lian xi dian hua	42770
+哈	ha	42760
+手机号码	shou ji hao ma	42740
+策	ce	42720
+邮政编码	you zheng bian ma	42700
+演	yan	42690
+折扣	she kou	42670
+所在地区	suo zai di qu	42660
+简	jian	42650
+街道	jie dao	42620
+卡	ka	42610
+小区	xiao qu	42590
+罪	zui	42580
+大厦	da sha	42550
+判	pan	42540
+担	dan	42510
+写字楼	xie zi lou	42510
+门牌号	men pai hao	42480
+州	zhou	42470
+收货信息	shou huo xin xi	42440
+静	jing	42430
+寄件人	ji jian ren	42400
+既	ji	42360
+寄件地址	ji jian di zhi	42360
+到付	dao fu	42330
+衣	yi	42320
+您	nin	42290
+包邮	bao you	42290
+宗	zong	42250
+顺丰	shun feng	42250
+积	ji	42220
+快递单号	kuai di dan hao	42210
+余	yu	42180
+物流信息	wu liu xin xi	42180
+痛	tong	42140
+签收人	qian shou ren	42140
+检	jian	42110
+代收点	dai shou dian	42100
+落	la	42080
+差	cha	42070
+驿站	yi zhan	42070
+富	fu	42040
+自提	zi ti	42030
+灵	ling	42000
+送货上门	song huo shang men	41990
+协	xie	41960
+北京市	bei jing shi	41960
+角	jiao	41930
+上海市	shang hai shi	41920
+占	zhan	41890
+广州市	guang zhou shi	41880
+配	pei	41860
+深圳市	shen zhen shi	41850
+征	zheng	41820
+杭州市	hang zhou shi	41810
+成都市	cheng dou shi	41770
+皮	pi	41750
+重庆市	zhong qing shi	41730
+挥	hui	41710
+参	shen	41700
+南京市	nan jing shi	41700
+胜	sheng	41680
+武汉市	wu han shi	41660
+降	jiang	41640
+西安市	xian shi	41620
+阶	jie	41600
+苏州市	su zhou shi	41590
+审	shen	41570
+天津市	tian jin shi	41550
+沉	chen	41530
+长沙市	zhang sha shi	41510
+坚	jian	41500
+郑州市	zheng zhou shi	41480
+善	shan	41460
+青岛市	qing dao shi	41440
+妈	ma	41430
+厦门市	sha men shi	41400
+刘	liu	41390
+福州市	fu zhou shi	41370
+意见	yi xian	41330
+济南市	ji nan shi	41330
+超	chao	41320
+合肥市	he fei shi	41290
+免	mian	41280
+昆明市	kun ming shi	41260
+压	ya	41250
+宁波市	ning bo shi	41220
+银	yin	41210
+系统	ji tong	41190
+无锡市	wu xi shi	41180
+佛山市	fu shan shi	41150
+皇	huang	41140
+养	yang	41110
+东莞市	dong guan shi	41110
+珠海市	zhu hai shi	41080
+伊	yi	41070
+三亚市	san ya shi	41040
+怀	huai	41030
+执	zhi	41000
+朝阳区	chao yang qu	41000
+海淀区	hai dian qu	40970
+副	fu	40960
+乱	luan	40930
+东城区	dong cheng qu	40930
+抗	kang	40890
+西城区	xi cheng qu	40890
+犯	fan	40860
+浦东新区	pu dong xin qu	40860
+追	zhui	40820
+天河区	tian he qu	40820
+帮	bang	40790
+南山区	nan shan qu	40780
+宣	xuan	40750
+福田区	fu tian qu	40750
+佛	fu	40720
+西湖区	xi hu qu	40710
+岁	sui	40680
+武侯区	wu hou qu	40680
+航	hang	40650
+望京	wang jing	40640
+优	you	40610
+中关村	zhong guan cun	40600
+怪	guai	40580
+陆家嘴	lu jia zui	40570
+香	xiang	40540
+珠江新城	zhu jiang xin cheng	40530
+著	zhe	40510
+科技园	ke ji yuan	40500
+田	tian	40470
+软件园	ruan jian yuan	40460
+铁	tie	40440
+商务区	shang wu qu	40420
+控	kong	40400
+开发区	kai fa qu	40390
+产地	chan di	40380
+税	shui	40370
+高新区	gao xin qu	40350
+左	zuo	40330
+开票信息	kai piao xin xi	40320
+份	fen	40300
+发票抬头	fa piao tai tou	40280
+穿	chuan	40260
+单位名称	dan wei ming cheng	40240
+艺	yi	40230
+你呢	ni ni	40210
+公司名称	gong si ming cheng	40210
+背	bei	40190
+纳税人识别号	na shui ren shi bie hao	40170
+阵	zhen	40160
+统一社会信用代码	tong yi she hui xin yong dai ma	40140
+草	cao	40120
+我在开会	wo zai kai kuai	40100
+注册地址	zhu ce di zhi	40100
+脚	jiao	40090
+银行账号	yin hang zhang hao	40060
+概	gai	40050
+发票类型	fa piao lei xing	40030
+恶	e	40020
+谢谢大家	xie xie dai jia	40000
+增值税专用发票	zeng zhi shui zhuan yong fa piao	39990
+块	kuai	39980
+增值税普通发票	zeng zhi shui pu tong fa piao	39960
+顿	dun	39950
+电子发票	dian zi fa piao	39920
+敢	gan	39910
+守	shou	39880
+纸质发票	zhi zhi fa piao	39880
+开票金额	kai piao ji ne	39850
+酒	jiu	39840
+行不行	xing bu hang	39830
+岛	dao	39810
+发票内容	fa piao nei rong	39810
+发票备注	fa piao bei zhu	39780
+托	tuo	39770
+央	yang	39740
+开票日期	kai piao ri qi	39740
+参差	shen chai	39730
+有没有	you mo you	39720
+发票代码	fa piao dai ma	39710
+户	hu	39700
+烈	lie	39670
+发票号码	fa piao hao ma	39670
+报销凭证	bao xiao ping zheng	39640
+洋	yang	39630
+会不会	hui bu kuai	39620
+哥	ge	39600
+收款账户	shou kuan zhang hu	39600
+索	suo	39560
+付款方式	fu kuan fang shi	39560
+胡	hu	39530
+对公转账	dui gong zhuan zhang	39530
+怎么了	zen me liao	39520
+款	kuan	39500
+支付宝	zhi fu bao	39490
+什么地方	shen me di fang	39480
+靠	kao	39460
+微信支付	wei xin zhi fu	39460
+评	ping	39430
+银行转账	yin hang zhuan zhang	39420
+版	ban	39390
+定金	ding jin	39390
+宝	bao	39360
+尾款	wei kuan	39350
+座	zuo	39320
+预付款	yu fu kuan	39320
+知道了	zhi dao liao	39310
+释	shi	39290
+合同金额	he tong ji ne	39280
+景	jing	39250
+含税	han shui	39240
+顾	gu	39220
+不含税	bu han shui	39210
+弟	di	39190
+税率	shui lu	39170
+登	deng	39150
+税额	shui e	39140
+货	huo	39120
+我联系一下	wo lian ji yi xia	39110
+价税合计	jia shui he ji	39100
+互	hu	39080
+会议	hui yi	39070
+主题	zhu ti	39030
+伯	bo	39010
+内容	nei rong	39000
+慢	man	38980
+目录	mu lu	38960
+欧	ou	38950
+沟通	gou tong	38930
+会议邀请	hui yi yao qing	38890
+闻	wen	38880
+新年快乐	xin nian kuai yue	38870
+会议时间	hui yi shi jian	38860
+危	wei	38840
+节日快乐	jie ri kuai yue	38830
+会议地点	hui yi di dian	38820
+忙	mang	38810
+朝	zhao	38800
+收件地址	shou di zhi	38800
+会议主题	hui yi zhu ti	38790
+核	he	38770
+收货地址	shou di zhi	38770
+参会人员	can hui ren yuan	38750
+暗	an	38740
+详细地址	xiang xi de zhi	38730
+会议纪要	hui yi ji yao	38720
+姐	jie	38710
+邮寄地址	you ji de zhi	38700
+议程	yi cheng	38680
+介	jie	38670
+家庭地址	jia ting de zhi	38670
+主持人	zhu chi ren	38650
+坏	huai	38640
+公司地址	gong si de zhi	38630
+发言人	fa yan ren	38610
+讨	tao	38600
+项目进度	xiang mu jin du	38580
+丽	li	38570
+良	liang	38540
+项目计划	xiang mu ji hua	38540
+联系人	lian ji ren	38530
+需求文档	xu qiu wen dang	38510
+序	xu	38500
+联系电话	lian ji dian hua	38500
+升	sheng	38470
+设计方案	she ji fan gan	38470
+测试报告	ce shi bao gao	38440
+监	jian	38430
+临	lin	38400
+上线时间	shang xian shi jian	38400
+所在地区	suo zai de qu	38400
+亮	liang	38370
+截止日期	jie zhi ri qi	38370
+露	lu	38330
+交付时间	jiao fu shi jian	38330
+永	yong	38300
+排期	pai qi	38300
+大厦	dai sha	38290
+呼	hu	38260
+里程碑	li cheng bei	38260
+味	wei	38230
+任务	ren wu	38230
+野	ye	38200
+分工	fen gong	38190
+架	jia	38160
+负责人	fu ze ren	38160
+域	yu	38130
+寄件地址	ji jian de zhi	38130
+跟进	gen jin	38120
+沙	sha	38090
+同步	tong bu	38090
+掉	diao	38060
+对齐	dui qi	38050
+括	kuo	38030
+复盘	fu pan	38020
+舰	jian	37990
+优化	you hua	37980
+乐	yue	37970
+鱼	yu	37960
+迭代	die dai	37950
+杂	za	37930
+版本号	ban ben hao	37910
+误	wu	37890
+更新日志	geng xin ri zhi	37880
+湾	wan	37860
+问题反馈	wen ti fan kui	37840
+吉	ji	37830
+技术支持	ji shu zhi chi	37810
+售后服务	shou hou fu wu	37780
+率	shuai	37770
+编	bian	37760
+合作意向	he zuo yi xiang	37740
+楚	chu	37720
+报价单	bao jia dan	37710
+肯	ken	37690
+合同条款	he tong tiao kuan	37670
+测	ce	37660
+付款条款	fu kuan tiao kuan	37640
+败	bai	37620
+保密协议	bao mi xie yi	37600
+屋	wu	37590
+成都市	cheng du shi	37590
+授权书	shou quan shu	37570
+重庆市	chong qing shi	37560
+弹	tan	37550
+委托书	wei tuo shu	37530
+梦	meng	37520
+证明	zheng ming	37500
+散	san	37490
+温	wen	37460
+申请表	shen qing biao	37460
+审批	shen pi	37430
+困	kun	37420
+流程	liu cheng	37400
+剑	jian	37390
+渐	jian	37360
+制度	zhi du	37360
+长沙市	chang sha shi	37360
+规定	gui ding	37330
+封	feng	37320
+救	jiu	37290
+公告	gong gao	37290
+贵	gui	37260
+邮件主题	you jian zhu ti	37260
+枪	qiang	37220
+正文	zheng wen	37220
+缺	que	37190
+签名	qian ming	37190
+楼	lou	37160
+落款	luo kuan	37160
+县	xian	37120
+此致	ci zhi	37120
+尚	shang	37090
+敬礼	jing li	37090
+毫	hao	37060
+您好	nin hao	37050
+移	yi	37020
+麻烦您	ma fan nin	37020
+娘	niang	36990
+请您	qing nin	36980
+朋	peng	36960
+感谢您	gan xie nin	36950
+收到请回复	shou dao qing hui fu	36920
+朝阳区	zhao yang qu	36900
+班	ban	36890
+如有问题请随时联系	ru you wen ti qing sui shi lian xi	36880
+智	zhi	36860
+期待您的回复	qi dai nin de hui fu	36850
+亦	yi	36820
+附件请查收	fu jian qing cha shou	36810
+耳	er	36790
+请查收	qing cha shou	36780
+恩	en	36760
 请确认	qing que ren	36750
-散	san	36720
-请知悉	qing zhi xi	36720
-温	wen	36690
+血	xie	36740
+短	duan	36720
+请知悉	qing zhi xi	36710
+掌	zhang	36690
 特此通知	te ci tong zhi	36680
-困	kun	36660
-顺颂商祺	shun song shang qi	36650
-剑	jian	36620
-祝商祺	zhu shang qi	36620
-渐	jian	36590
+恐	kong	36660
+顺颂商祺	shun song shang qi	36640
+遗	yi	36630
+祝商祺	zhu shang qi	36610
+固	gu	36590
 此致敬礼	ci zhi jing li	36580
-封	feng	36550
-见字如面	jian zi ru mian	36550
-救	jiu	36520
+席	xi	36560
+见字如面	jian zi ru mian	36540
+松	song	36530
 最近怎么样	zui jin zen me yang	36510
-贵	gui	36490
-方便吗	fang bian ma	36480
-枪	qiang	36450
+秘	mi	36490
+方便吗	fang bian ma	36470
+谢	xie	36460
 在吗	zai ma	36440
-缺	que	36420
+鲁	lu	36430
 有事找你	you shi zhao ni	36410
-楼	lou	36390
-帮忙看一下	bang mang kan yi xia	36380
-县	xian	36350
+遇	yu	36390
+帮忙看一下	bang mang kan yi xia	36370
+康	kang	36360
 注意身体	zhu yi shen ti	36340
-尚	shang	36320
-一路平安	yi lu pin gan	36310
-毫	hao	36280
-单位名称	dan wei ming chen	36260
-移	yi	36250
+虑	lu	36330
+幸	xing	36300
+一路平安	yi lu pin gan	36300
+恭喜恭喜	gong xi gong xi	36270
+均	jun	36260
 节哀顺变	jie ai shun bian	36240
-公司名称	gong si ming chen	36230
-娘	niang	36220
-血	xie	36210
+销	xiao	36230
+单位名称	dan wei ming chen	36220
+钟	zhong	36200
 不好意思打扰了	bu hao yi si da rao le	36200
-朋	peng	36180
+公司名称	gong si ming chen	36190
 感谢理解	gan xie li jie	36170
-统一社会信用代码	tong yi she kuai xin yong dai ma	36160
-感谢支持	gan xie zhi chi	36140
-注册地址	zhu ce de zhi	36130
-班	ban	36120
+诗	shi	36160
+藏	cang	36130
+感谢支持	gan xie zhi chi	36130
+统一社会信用代码	tong yi she kuai xin yong dai ma	36120
+赶	gan	36100
 合作愉快	he zuo yu kuai	36100
-智	zhi	36080
+注册地址	zhu ce de zhi	36090
+剧	ju	36070
 欢迎随时联系	huan ying sui shi lian xi	36070
-亦	yi	36050
+银行账号	yin xing zhang hao	36060
+票	piao	36030
 欢迎来公司参观	huan ying lai gong si can guan	36030
-耳	er	36010
+损	sun	36000
 期待合作	qi dai he zuo	36000
-短	duan	35980
-掌	zhang	35950
-行不行	hang bu xing	35920
-恐	kong	35910
-遗	yi	35880
-固	gu	35850
-席	xi	35810
-松	song	35780
-秘	mi	35750
-会不会	kuai bu hui	35740
-谢	xie	35710
-遇	yu	35680
-康	kang	35650
-虑	lu	35610
-幸	xing	35580
-均	jun	35550
-销	xiao	35510
-钟	zhong	35480
-诗	shi	35450
-藏	cang	35410
-赶	gan	35380
-剧	ju	35350
-票	piao	35310
-税率	shui shuai	35290
-损	sun	35280
-忽	hu	35250
-模	mu	35240
-巨	ju	35210
-会议	kuai yi	35190
-炮	pao	35180
-旧	jiu	35150
-端	duan	35110
-探	tan	35080
-湖	hu	35050
-会议邀请	kuai yi yao qing	35030
-录	lu	35010
-会议时间	kuai yi shi jian	35000
-收件地址	shou jian de zhi	34990
-叶	ye	34980
-会议地点	hui yi de dian	34970
-收货地址	shou huo de zhi	34960
-春	chun	34950
-会议主题	kuai yi zhu ti	34940
-乡	xiang	34910
-参会人员	can kuai ren yuan	34900
-附	fu	34880
-会议纪要	kuai yi ji yao	34870
-吸	xi	34850
-予	yu	34810
-礼	li	34780
-港	gang	34750
-雨	yu	34720
-呀	ya	34680
-板	ban	34650
-庭	ting	34620
-妇	fu	34580
-归	gui	34550
-睛	jing	34520
-饭	fan	34490
-额	e	34450
-含	han	34420
-顺	shun	34390
-输	shu	34350
-摇	yao	34320
-招	zhao	34290
-婚	hun	34260
-脱	tuo	34220
-补	bu	34190
-谓	wei	34160
-督	du	34120
-毒	du	34090
-油	you	34060
-疗	liao	34030
-旅	lu	33990
-材	cai	33960
-差	chai	33930
-灭	mie	33930
-逐	zhu	33900
-莫	mo	33860
-角	jue	33810
-亡	wang	33800
-鲜	xian	33770
-词	ci	33730
-圣	sheng	33700
-择	ze	33670
-寻	xun	33640
-厂	chang	33600
-降	xiang	33570
-博	bo	33540
-勒	lei	33510
-烟	yan	33470
-落款	la kuan	33450
-授	shou	33440
-伦	lun	33410
-岸	an	33380
-奥	ao	33340
-唐	tang	33310
-俄	e	33250
-炸	zha	33220
-如有问题请随时联系	ru you wen ti qing sui shi lian ji	33200
-载	zai	33180
-期待您的回复	qi dai nin di hui fu	33170
-健	jian	33150
-堂	tang	33120
-旁	pang	33090
-宫	gong	33050
-君	jun	32960
-禁	jin	32930
-阴	yin	32890
+忽	hu	35970
+巨	ju	35940
+炮	pao	35900
+旧	jiu	35870
+端	duan	35840
+行不行	hang bu xing	35840
+探	tan	35800
+模	mu	35790
+湖	hu	35770
+录	lu	35740
+叶	ye	35710
+春	chun	35670
+会不会	kuai bu hui	35660
+乡	xiang	35640
+附	fu	35610
+吸	xi	35580
+予	yu	35540
+礼	li	35510
+港	gang	35480
+银行转账	yin xing zhuan zhang	35480
+雨	yu	35450
+板	ban	35380
+庭	ting	35350
+妇	fu	35320
+归	gui	35290
+税率	shui shuai	35260
+睛	jing	35250
+饭	fan	35220
+额	e	35190
+含	han	35160
+会议	kuai yi	35160
+顺	shun	35120
+输	shu	35090
+摇	yao	35060
+招	zhao	35030
+会议邀请	kuai yi yao qing	35000
+婚	hun	34990
+会议时间	kuai yi shi jian	34970
+脱	tuo	34960
+会议地点	hui yi de dian	34940
+补	bu	34930
+收件地址	shou jian de zhi	34920
+会议主题	kuai yi zhu ti	34910
+谓	wei	34900
+收货地址	shou huo de zhi	34890
+参会人员	can kuai ren yuan	34880
+督	du	34870
+会议纪要	kuai yi ji yao	34840
+毒	du	34830
+油	you	34800
+疗	liao	34770
+旅	lu	34740
+泽	ze	34710
+材	cai	34670
+灭	mie	34640
+逐	zhu	34610
+莫	mo	34580
+亡	wang	34510
+差	chai	34500
+鲜	xian	34480
+词	ci	34450
+圣	sheng	34420
+择	ze	34390
+角	jue	34380
+寻	xun	34350
+厂	chang	34320
+博	bo	34260
+勒	lei	34230
+烟	yan	34190
+授	shou	34160
+降	xiang	34150
+诺	nuo	34130
+伦	lun	34100
+岸	an	34070
+奥	ao	34030
+唐	tang	34000
+俄	e	33940
+炸	zha	33910
+载	zai	33880
+洛	luo	33840
+健	jian	33810
+堂	tang	33780
+旁	pang	33750
+宫	gong	33720
+君	jun	33620
+禁	jin	33590
+阴	yin	33560
+园	yuan	33530
+谋	mou	33500
+宋	song	33470
+落款	la kuan	33440
+避	bi	33430
+抓	zhua	33400
+荣	rong	33370
+姑	gu	33340
+孙	sun	33310
+逃	tao	33280
+牙	ya	33250
+束	shu	33210
+著	zhao	33210
+如有问题请随时联系	ru you wen ti qing sui shi lian ji	33190
+期待您的回复	qi dai nin di hui fu	33160
+顶	ding	33150
+玉	yu	33120
+镇	zhen	33090
+雪	xue	33060
+午	wu	33030
+迫	po	32960
+爷	ye	32930
+篇	pian	32900
 见字如面	xian zi ru mian	32890
-园	yuan	32860
-谋	mou	32830
+肉	rou	32870
+嘴	zui	32840
 方便吗	fang pian ma	32830
-避	bi	32800
-抓	zhua	32770
-荣	rong	32730
-姑	gu	32700
-孙	sun	32670
-逃	tao	32640
-著	zhao	32630
-牙	ya	32610
+恶	wu	32810
+馆	guan	32810
+遍	bian	32780
+凡	fan	32740
+础	chu	32710
+洞	dong	32680
+卷	juan	32650
+坦	tan	32620
+牛	niu	32590
 不好意思打扰了	bu hao yi si da rao liao	32580
-束	shu	32570
-顶	ding	32510
-玉	yu	32480
+宁	ning	32560
+诸	zhu	32500
+训	xun	32460
 欢迎随时联系	huan ying sui shi lian ji	32460
-镇	zhen	32450
+私	si	32430
 欢迎来公司参观	huan ying lai gong si shen guan	32430
-雪	xue	32410
-午	wu	32380
-行不行	hang bu hang	32330
-迫	po	32320
-爷	ye	32290
-篇	pian	32250
-恶	wu	32220
-肉	rou	32220
-嘴	zui	32190
-馆	guan	32160
-会不会	kuai bu kuai	32160
-遍	bian	32130
-凡	fan	32100
-础	chu	32060
-洞	dong	32030
-卷	juan	32000
-坦	tan	31970
-牛	niu	31940
-宁	ning	31900
-诸	zhu	31840
-训	xun	31810
-私	si	31780
-庄	zhuang	31750
-祖	zu	31720
-丝	si	31680
-翻	fan	31650
-暴	bao	31620
-森	sen	31590
-塔	ta	31560
-默	mo	31530
-握	wo	31490
-会议地点	kuai yi de dian	31470
-戏	xi	31460
-隐	yin	31430
-参会人员	shen hui ren yuan	31410
-熟	shu	31400
-骨	gu	31370
-访	fang	31340
-弱	ruo	31310
-蒙	meng	31270
-歌	ge	31240
-店	dian	31210
-鬼	gui	31180
-软	ruan	31150
-典	dian	31120
-欲	yu	31090
-萨	sa	31050
-伙	huo	31020
-遭	zao	30990
-盘	pan	30960
-爸	ba	30930
-扩	kuo	30900
-盖	gai	30870
-雄	xiong	30810
-稳	wen	30770
-忘	wang	30740
-刺	ci	30680
-拥	yong	30650
-徒	tu	30620
-姆	mu	30590
-杨	yang	30560
-齐	qi	30520
-赛	sai	30490
-趣	qu	30460
-曲	qu	30430
-刀	dao	30400
-床	chuang	30370
-迎	ying	30340
-冰	bing	30310
-虚	xu	30280
-析	xi	30210
-窗	chuang	30180
-醒	xing	30150
-妻	qi	30120
-透	tou	30090
-购	gou	30060
-替	ti	30030
-塞	sai	30000
-努	nu	29970
-休	xiu	29940
-虎	hu	29910
-扬	yang	29880
-途	tu	29840
-侵	qin	29810
-刑	xing	29780
-绿	lu	29750
-兄	xiong	29720
-迅	xun	29690
-套	tao	29660
-贸	mao	29630
-毕	bi	29600
-唯	wei	29570
-谷	gu	29540
-轮	lun	29510
-库	ku	29480
-迹	ji	29450
-尤	you	29420
-竞	jing	29380
-街	jie	29350
-促	cu	29320
-震	zhen	29260
-弃	qi	29230
-甲	jia	29200
-伟	wei	29170
-麻	ma	29140
-申	shen	29110
-缓	huan	29080
-潜	qian	29050
-闪	shan	29020
-售	shou	28990
-灯	deng	28960
-针	zhen	28930
-哲	zhe	28900
-络	luo	28870
-抵	di	28840
-埃	ai	28810
-抱	bao	28780
-鼓	gu	28740
-植	zhi	28710
-纯	chun	28680
-夏	xia	28650
-忍	ren	28620
-页	ye	28590
-杰	jie	28560
-筑	zhu	28530
-折	zhe	28500
-郑	zheng	28470
-贝	bei	28440
-尊	zun	28410
-吴	wu	28380
-秀	xiu	28350
-混	hun	28320
-会议地点	kuai yi di dian	28320
-臣	chen	28290
-参会人员	shen kuai ren yuan	28270
-振	zhen	28260
-染	ran	28230
-盛	sheng	28200
-怒	nu	28170
-舞	wu	28140
-圆	yuan	28110
-狂	kuang	28050
-措	cuo	28020
-姓	xing	27990
-残	can	27960
-秋	qiu	27930
-培	pei	27900
-迷	mi	27870
-诚	cheng	27840
-宽	kuan	27810
-宇	yu	27780
-猛	meng	27750
-摆	bai	27720
-梅	mei	27690
-毁	hui	27660
-伸	shen	27630
-摩	mo	27600
-寻	xin	27580
-盟	meng	27570
-末	mo	27540
-乃	nai	27510
-悲	bei	27480
-拍	pai	27450
-丁	ding	27420
-硬	ying	27390
-麦	mai	27360
-蒋	jiang	27330
-操	cao	27300
-耶	ye	27270
-阻	zu	27240
-订	ding	27210
-彩	cai	27180
-抽	chou	27150
-赞	zan	27120
-魔	mo	27100
-纷	fen	27070
-沿	yan	27040
-喊	han	27010
-违	wei	26980
-妹	mei	26950
-浪	lang	26920
-汇	hui	26890
-币	bi	26860
-丰	feng	26830
-蓝	lan	26800
-殊	shu	26770
-著	zhu	26750
-献	xian	26740
-桌	zhuo	26710
-啦	la	26680
-瓦	wa	26650
-莱	lai	26620
-援	yuan	26590
-译	yi	26560
-夺	duo	26530
-汽	qi	26500
-烧	shao	26470
-距	ju	26450
-裁	cai	26420
-偏	pian	26390
-符	fu	26360
-勇	yong	26330
-触	chu	26300
-课	ke	26270
-敬	jing	26240
-懂	dong	26180
-墙	qiang	26150
-袭	xi	26120
-召	zhao	26090
-罚	fa	26060
-侠	xia	26030
-厅	ting	26010
-拜	bai	25980
-巧	qiao	25950
-侧	ce	25920
-冒	mao	25890
-债	zhai	25860
-融	rong	25830
-惯	guan	25800
-享	xiang	25770
-戴	dai	25740
-童	tong	25710
-犹	you	25680
-乘	cheng	25650
-挂	gua	25630
-奖	jiang	25600
-绍	shao	25570
-厚	hou	25540
-纵	zong	25510
-障	zhang	25480
-讯	xun	25450
-涉	she	25420
-彻	che	25390
-刊	kan	25360
-丈	zhang	25340
-爆	bao	25310
-乌	wu	25280
-役	yi	25250
-描	miao	25220
-洗	xi	25190
-患	huan	25160
-妙	miao	25130
-镜	jing	25100
-烦	fan	25050
-签	qian	25020
-仙	xian	24990
-彼	bi	24960
-症	zheng	24930
-仿	fang	24900
-倾	qing	24870
-牌	pai	24840
-陷	xian	24810
-鸟	niao	24790
-轰	hong	24760
-咱	zan	24730
-菜	cai	24700
-闭	bi	24670
-奋	fen	24640
-庆	qing	24610
-塞	se	24600
-撤	che	24580
-泪	lei	24560
-茶	cha	24530
-疾	ji	24500
-缘	yuan	24470
-播	bo	24440
-朗	lang	24410
-杜	du	24380
-奶	nai	24350
-季	ji	24330
-丹	dan	24300
-狗	gou	24270
-尾	wei	24240
-仪	yi	24210
-偷	tou	24180
-奔	ben	24150
-珠	zhu	24130
-虫	chong	24100
-驻	zhu	24070
-孔	kong	24040
-宜	yi	24010
-艾	ai	23980
-桥	qiao	23950
-淡	dan	23930
-翼	yi	23900
-恨	hen	23870
-繁	fan	23840
-寒	han	23810
-伴	ban	23780
-叹	tan	23760
-旦	dan	23730
-愈	yu	23700
-潮	chao	23670
-粮	liang	23640
-缩	suo	23610
-罢	ba	23580
-聚	ju	23560
-径	jing	23530
-恰	qia	23500
-挑	tiao	23470
-袋	dai	23440
-灰	hui	23410
-捕	bu	23390
-折	she	23370
-徐	xu	23360
-珍	zhen	23330
-幕	mu	23300
-映	ying	23270
-裂	lie	23240
-隔	ge	23220
-启	qi	23190
+庄	zhuang	32400
+祖	zu	32370
+丝	si	32340
+翻	fan	32310
+暴	bao	32280
+行不行	hang bu hang	32260
+森	sen	32250
+塔	ta	32220
+默	mo	32190
+握	wo	32150
+戏	xi	32120
+隐	yin	32090
+会不会	kuai bu kuai	32090
+熟	shu	32060
+骨	gu	32030
+访	fang	32000
+弱	ruo	31970
+蒙	meng	31940
+歌	ge	31910
+店	dian	31880
+鬼	gui	31850
+软	ruan	31820
+典	dian	31780
+欲	yu	31750
+萨	sa	31720
+伙	huo	31690
+遭	zao	31660
+盘	pan	31630
+爸	ba	31600
+扩	kuo	31570
+盖	gai	31540
+雄	xiong	31480
+稳	wen	31450
+会议地点	kuai yi de dian	31450
+忘	wang	31420
+参会人员	shen hui ren yuan	31390
+刺	ci	31360
+拥	yong	31320
+徒	tu	31290
+姆	mu	31260
+杨	yang	31230
+齐	qi	31200
+赛	sai	31170
+趣	qu	31140
+曲	qu	31110
+刀	dao	31080
+床	chuang	31050
+迎	ying	31020
+冰	bing	30990
+虚	xu	30960
+析	xi	30900
+窗	chuang	30870
+醒	xing	30840
+妻	qi	30810
+透	tou	30780
+购	gou	30750
+替	ti	30720
+塞	sai	30690
+努	nu	30660
+休	xiu	30630
+虎	hu	30600
+扬	yang	30560
+途	tu	30530
+侵	qin	30500
+刑	xing	30470
+绿	lu	30440
+兄	xiong	30410
+迅	xun	30380
+套	tao	30350
+贸	mao	30320
+毕	bi	30290
+唯	wei	30260
+谷	gu	30230
+轮	lun	30200
+库	ku	30170
+迹	ji	30140
+尤	you	30110
+竞	jing	30080
+街	jie	30050
+促	cu	30020
+震	zhen	29960
+弃	qi	29930
+甲	jia	29900
+伟	wei	29870
+麻	ma	29840
+川	chuan	29810
+申	shen	29780
+缓	huan	29750
+潜	qian	29720
+闪	shan	29690
+售	shou	29660
+灯	deng	29630
+针	zhen	29600
+哲	zhe	29570
+络	luo	29540
+抵	di	29510
+朱	zhu	29480
+埃	ai	29450
+抱	bao	29420
+鼓	gu	29390
+植	zhi	29370
+纯	chun	29340
+夏	xia	29310
+忍	ren	29280
+页	ye	29250
+杰	jie	29220
+筑	zhu	29190
+折	zhe	29160
+郑	zheng	29130
+贝	bei	29100
+尊	zun	29070
+吴	wu	29040
+秀	xiu	29010
+混	hun	28980
+臣	chen	28950
+雅	ya	28920
+振	zhen	28890
+染	ran	28860
+盛	sheng	28830
+怒	nu	28800
+舞	wu	28770
+圆	yuan	28740
+狂	kuang	28680
+措	cuo	28650
+姓	xing	28630
+残	can	28600
+秋	qiu	28570
+培	pei	28540
+迷	mi	28510
+诚	cheng	28480
+宽	kuan	28450
+宇	yu	28420
+猛	meng	28390
+摆	bai	28360
+梅	mei	28330
+毁	hui	28300
+会议地点	kuai yi di dian	28300
+伸	shen	28270
+参会人员	shen kuai ren yuan	28250
+摩	mo	28240
+盟	meng	28210
+末	mo	28180
+寻	xin	28170
+乃	nai	28160
+悲	bei	28130
+拍	pai	28100
+丁	ding	28070
+赵	zhao	28040
+硬	ying	28010
+麦	mai	27980
+蒋	jiang	27950
+操	cao	27920
+耶	ye	27890
+阻	zu	27860
+订	ding	27830
+彩	cai	27800
+抽	chou	27780
+赞	zan	27750
+魔	mo	27720
+纷	fen	27690
+沿	yan	27660
+喊	han	27630
+违	wei	27600
+妹	mei	27570
+浪	lang	27540
+汇	hui	27510
+币	bi	27480
+丰	feng	27460
+蓝	lan	27430
+殊	shu	27400
+献	xian	27370
+桌	zhuo	27340
+瓦	wa	27280
+莱	lai	27250
+著	zhu	27240
+援	yuan	27220
+译	yi	27200
+夺	duo	27170
+汽	qi	27140
+烧	shao	27110
+距	ju	27080
+裁	cai	27050
+偏	pian	27020
+符	fu	26990
+勇	yong	26960
+触	chu	26940
+课	ke	26910
+敬	jing	26880
+懂	dong	26820
+墙	qiang	26790
+袭	xi	26760
+召	zhao	26730
+罚	fa	26710
+侠	xia	26680
+厅	ting	26650
+拜	bai	26620
+巧	qiao	26590
+侧	ce	26560
+韩	han	26530
+冒	mao	26500
+债	zhai	26480
+曼	man	26450
+融	rong	26420
+惯	guan	26390
+享	xiang	26360
+戴	dai	26330
+童	tong	26300
+犹	you	26280
+乘	cheng	26250
+挂	gua	26220
+奖	jiang	26190
+绍	shao	26160
+厚	hou	26130
+纵	zong	26100
+障	zhang	26080
+讯	xun	26050
+涉	she	26020
+彻	che	25990
+刊	kan	25960
+丈	zhang	25930
+爆	bao	25910
+乌	wu	25880
+役	yi	25850
+描	miao	25820
+洗	xi	25790
+玛	ma	25760
+患	huan	25740
+妙	miao	25710
+镜	jing	25680
+烦	fan	25620
+签	qian	25590
+仙	xian	25560
+彼	bi	25540
+弗	fu	25510
+症	zheng	25480
+仿	fang	25450
+倾	qing	25420
+牌	pai	25400
+陷	xian	25370
+鸟	niao	25340
+轰	hong	25310
+咱	zan	25280
+菜	cai	25250
+闭	bi	25230
+奋	fen	25200
+庆	qing	25170
+塞	se	25160
+撤	che	25140
+泪	lei	25110
+茶	cha	25090
+疾	ji	25060
+缘	yuan	25030
+播	bo	25000
+朗	lang	24970
+杜	du	24940
+奶	nai	24920
+季	ji	24890
+丹	dan	24860
+狗	gou	24830
+尾	wei	24800
+仪	yi	24780
+偷	tou	24750
+奔	ben	24720
+珠	zhu	24690
+虫	chong	24660
+驻	zhu	24640
+孔	kong	24610
+宜	yi	24580
+艾	ai	24550
+桥	qiao	24520
+淡	dan	24500
+翼	yi	24470
+恨	hen	24440
+繁	fan	24410
+寒	han	24380
+伴	ban	24360
+叹	tan	24330
+旦	dan	24300
+愈	yu	24270
+潮	chao	24250
+粮	liang	24220
+缩	suo	24190
+罢	ba	24160
+聚	ju	24130
+径	jing	24110
+恰	qia	24080
+挑	tiao	24050
+袋	dai	24020
+灰	hui	24000
+捕	bu	23970
+徐	xu	23940
+折	she	23910
+珍	zhen	23910
+幕	mu	23880
+映	ying	23860
+裂	lie	23830
+泰	tai	23800
+隔	ge	23770
+启	qi	23750
+尖	jian	23720
+忠	zhong	23690
+累	lei	23660
+盛	cheng	23640
+炎	yan	23640
+暂	zan	23610
+估	gu	23580
+泛	fan	23550
+荒	huang	23530
+偿	chang	23500
+横	heng	23470
+拒	ju	23440
+瑞	rui	23410
+忆	yi	23390
+孤	gu	23360
+鼻	bi	23330
+闹	nao	23300
+羊	yang	23280
+呆	dai	23250
+厉	li	23220
+衡	heng	23190
+胞	bao	23170
 一个	yi ge	23170
-尖	jian	23160
-忠	zhong	23130
-盛	cheng	23120
-累	lei	23100
-炎	yan	23080
-暂	zan	23050
-估	gu	23020
-泛	fan	22990
-荒	huang	22960
-偿	chang	22930
-横	heng	22910
+穷	qiong	23110
+舍	she	23080
+码	ma	23060
+赫	he	23030
+婆	po	23000
+魂	hun	22980
+灾	zai	22950
+洪	hong	22920
+腿	tui	22890
 一了	yi liao	22890
-拒	ju	22880
-忆	yi	22850
-孤	gu	22820
-鼻	bi	22790
-闹	nao	22770
-羊	yang	22740
-呆	dai	22710
-厉	li	22680
+胆	dan	22870
+津	jin	22840
+俗	su	22810
+辩	bian	22780
+胸	xiong	22760
+晓	xiao	22730
+劲	jin	22700
+贫	pin	22670
 一代	yi dai	22660
-衡	heng	22650
-胞	bao	22630
-穷	qiong	22570
+仁	ren	22650
+偶	ou	22620
+辑	ji	22590
+邦	bang	22560
 一任	yi ren	22550
-舍	she	22540
+恢	hui	22540
 一份	yi fen	22540
-码	ma	22510
+赖	lai	22510
 一会	yi hui	22510
-婆	po	22490
 一似	yi si	22490
+圈	quan	22480
 一体	yi ti	22470
-魂	hun	22460
-灾	zai	22430
+摸	mo	22460
+仰	yang	22430
 一侧	yi ce	22420
 一倍	yi bei	22410
-洪	hong	22400
-腿	tui	22370
-胆	dan	22350
-津	jin	22320
-俗	su	22290
+润	run	22400
+堆	dui	22370
+碰	peng	22350
+著	zhuo	22330
+艇	ting	22320
+稍	shao	22290
 一共	yi gong	22290
-辩	bian	22260
+迟	chi	22270
 一分	yi fen	22250
-胸	xiong	22230
-晓	xiao	22210
-劲	jin	22180
+辆	liang	22240
+废	fei	22210
+净	jing	22180
 一切	yi qie	22180
-贫	pin	22150
-仁	ren	22120
+凶	xiong	22160
+署	shu	22130
 一副	yi fu	22120
-偶	ou	22090
-辑	ji	22070
+壁	bi	22100
+御	yu	22080
+奉	feng	22050
 一匹	yi pi	22050
-邦	bang	22040
-恢	hui	22010
+旋	xuan	22020
+冬	dong	21990
 一卷	yi juan	21990
-赖	lai	21980
-圈	quan	21950
-著	zhuo	21940
+矿	kuang	21970
+抬	tai	21940
 一发	yi fa	21940
-摸	mo	21930
-仰	yang	21900
-润	run	21870
+蛋	dan	21910
+晨	chen	21890
+伏	fu	21860
 一只	yi zhi	21850
-堆	dui	21840
-碰	peng	21820
-艇	ting	21790
+吹	chui	21830
+鸡	ji	21800
+倍	bei	21780
 一号	yi hao	21780
 一同	yi tong	21780
-稍	shao	21760
 一向	yi xiang	21760
-迟	chi	21730
-辆	liang	21700
-废	fei	21680
-净	jing	21650
-凶	xiong	21620
+糊	hu	21750
+秦	qin	21720
+盾	dun	21700
+杯	bei	21670
+骑	qi	21620
 一场	yi chang	21620
-署	shu	21590
-壁	bi	21570
-御	yu	21540
-奉	feng	21510
-旋	xuan	21480
-冬	dong	21460
-矿	kuang	21430
-抬	tai	21400
-蛋	dan	21370
+乏	fa	21590
+隆	long	21560
+诊	zhen	21540
+奴	nu	21510
+摄	she	21480
+丧	sang	21450
+污	wu	21430
+渡	du	21400
+旗	qi	21370
 一头	yi tou	21370
-晨	chen	21350
-伏	fu	21320
-吹	chui	21290
-鸡	ji	21260
+甘	gan	21350
+耐	nai	21320
+凭	ping	21290
+扎	zha	21270
 一家	yi jia	21260
-倍	bei	21230
-糊	hu	21210
-秦	qin	21180
-盾	dun	21150
+抢	qiang	21240
+绪	xu	21210
+粗	cu	21190
+肩	jian	21160
 一宿	yi xiu	21140
-杯	bei	21120
-骑	qi	21070
-乏	fa	21040
-隆	long	21010
-诊	zhen	20990
+梁	liang	21130
+幻	huan	21110
+菲	fei	21080
+皆	jie	21050
+碎	sui	21020
+宙	zhou	21000
 一干	yi gan	20980
 一幕	yi mu	20980
-奴	nu	20960
-摄	she	20930
+叔	shu	20970
+岩	yan	20940
+荡	dang	20920
 一并	yi bing	20920
-丧	sang	20900
 一应	yi ying	20900
+综	zong	20890
 一度	yi du	20890
-污	wu	20880
 一得	yi de	20870
-渡	du	20850
-旗	qi	20820
-甘	gan	20790
+爬	pa	20860
+荷	he	20840
+悉	xi	20810
+蒂	di	20780
 一怔	yi zheng	20780
-耐	nai	20770
+返	fan	20760
 一成	yi cheng	20760
-凭	ping	20740
 一扎	yi za	20740
+井	jing	20730
 一打	yi da	20730
-扎	zha	20710
-抢	qiang	20680
-绪	xu	20660
-粗	cu	20630
+壮	zhuang	20700
+薄	bao	20680
+悄	qiao	20650
 一撮	yi zuo	20630
+扫	sao	20620
 一改	yi gai	20610
-肩	jian	20600
-梁	liang	20580
-幻	huan	20550
-菲	fei	20520
-皆	jie	20490
-碎	sui	20470
+敏	min	20600
+碍	ai	20570
+殖	zhi	20540
+详	xiang	20520
+迪	di	20490
 一旦	yi dan	20470
-宙	zhou	20440
-叔	shu	20410
+矛	mao	20460
+霍	huo	20440
+允	yun	20410
 一晃	yi huang	20400
-岩	yan	20380
+幅	fu	20380
 一月	yi yue	20370
-荡	dang	20360
+撒	sa	20360
 一服	yi fu	20360
-综	zong	20330
+剩	sheng	20330
 一朝	yi zhao	20320
-爬	pa	20300
+凯	kai	20310
 一期	yi qi	20290
-荷	he	20270
+颗	ke	20280
 一条	yi tiao	20260
-悉	xi	20250
-蒂	di	20220
-返	fan	20190
-井	jing	20170
-壮	zhuang	20140
-薄	bao	20110
-悄	qiao	20080
-扫	sao	20060
-敏	min	20030
+骂	ma	20250
+赏	shang	20230
+液	ye	20200
+番	fan	20170
+箱	xiang	20150
+贴	tie	20120
+漫	man	20090
+酸	suan	20070
+郎	lang	20040
 一流	yi liu	20020
-碍	ai	20000
-殖	zhi	19980
-详	xiang	19950
+腰	yao	20010
+舒	shu	19990
+眉	mei	19960
 一片	yi pian	19950
-矛	mao	19920
-允	yun	19890
-幅	fu	19870
-撒	sa	19840
+忧	you	19930
+浮	fu	19910
+辛	xin	19880
+恋	lian	19850
 一番	yi fan	19840
+餐	can	19830
 一百	yi bai	19830
-剩	sheng	19810
-凯	kai	19790
-颗	ke	19760
-骂	ma	19730
-赏	shang	19700
+吓	xia	19800
+挺	ting	19780
+励	li	19750
+辞	ci	19720
+键	jian	19700
 一种	yi zhong	19700
-液	ye	19680
-番	fan	19650
-箱	xiang	19620
-贴	tie	19600
-漫	man	19570
+伍	wu	19670
+峰	feng	19640
+尺	chi	19620
+昨	zuo	19590
+黎	li	19560
 一者	yi zhe	19550
-酸	suan	19540
-腰	yao	19510
-舒	shu	19490
+辈	bei	19540
+贯	guan	19510
+侦	zhen	19490
 一致	yi zhi	19480
 一般	yi ban	19470
-眉	mei	19460
-忧	you	19430
+滑	hua	19460
+券	quan	19430
 一行	yi xing	19420
-浮	fu	19410
-辛	xin	19380
+崇	chong	19410
+扰	rao	19380
 一觉	yi jiao	19370
 一角	yi jiao	19360
-恋	lian	19350
-餐	can	19330
-吓	xia	19300
-挺	ting	19270
-励	li	19240
+宪	xian	19350
+绕	rao	19330
+趋	qu	19300
+慈	ci	19280
+乔	qiao	19250
 一贯	yi guan	19240
-辞	ci	19220
-键	jian	19190
-伍	wu	19160
-峰	feng	19140
-尺	chi	19110
+阅	yue	19220
+汗	han	19200
+枝	zhi	19170
+拖	tuo	19140
+墨	mo	19120
+胁	xie	19090
 一通	yi tong	19090
-昨	zuo	19080
-黎	li	19060
-辈	bei	19030
-贯	guan	19000
+插	cha	19070
+箭	jian	19040
+腊	la	19010
 一隅	yi yu	19000
-侦	zhen	18980
+粉	fen	18990
 一面	yi mian	18980
-滑	hua	18950
-券	quan	18920
+泥	ni	18960
+氏	shi	18940
+彭	peng	18910
 一齐	yi qi	18900
-崇	chong	18890
-扰	rao	18870
+拔	ba	18880
 丁丁	ding ding	18870
+骗	pian	18860
 丁丑	ding chou	18860
 丁东	ding dong	18860
 丁亥	ding hai	18850
-宪	xian	18840
 丁冬	ding dong	18840
+凤	feng	18830
 丁坝	ding ba	18830
 丁卯	ding mao	18830
 丁字	ding zi	18830
-绕	rao	18810
+慧	hui	18810
 丁宁	ding ning	18810
 丁当	ding dang	18800
 丁忧	ding you	18800
-趋	qu	18790
 丁未	ding wei	18790
+媒	mei	18780
 丁艰	ding jian	18780
 丁零	ding ling	18780
 丁香	ding xiang	18770
-慈	ci	18760
-乔	qiao	18730
+佩	pei	18750
+愤	fen	18730
 七大	qi da	18730
-阅	yue	18710
-汗	han	18680
-枝	zhi	18650
-拖	tuo	18630
-墨	mo	18600
+扑	pu	18700
+龄	ling	18670
+驱	qu	18650
+惜	xi	18620
+豪	hao	18600
 万万	wan wan	18600
 万一	wan yi	18600
 万丈	wan zhang	18590
-胁	xie	18570
+掩	yan	18570
 万世	wan shi	18560
-插	cha	18550
+兼	jian	18540
 万事	wan shi	18540
-箭	jian	18520
+跃	yue	18520
 一个劲	yi ge jin	18520
 万众	wan zhong	18500
-腊	la	18490
+尸	shi	18490
 万俟	mo qi	18490
 万全	wan quan	18480
-粉	fen	18470
+肃	su	18470
 万分	wan fen	18460
 万卷	wan juan	18450
 万千	wan qian	18450
-泥	ni	18440
+帕	pa	18440
+圈	juan	18440
 万历	wan li	18440
 万古	wan gu	18420
-氏	shi	18410
-拔	ba	18390
+驶	shi	18410
+堡	bao	18390
 万国	wan guo	18390
-骗	pian	18360
+届	jie	18360
 万安	wa nan	18360
+欣	xin	18340
 万岁	wan sui	18340
-凤	feng	18330
 万年	wan nian	18330
-慧	hui	18310
+惠	hui	18310
 万幸	wan xing	18310
 万恶	wa ne	18290
-佩	pei	18280
+册	ce	18280
 万方	wan fang	18270
+储	chu	18260
 万有	wan you	18260
-愤	fen	18250
 万机	wan ji	18250
 万死	wan si	18250
-扑	pu	18230
+飘	piao	18230
 万民	wan min	18230
 万物	wan wu	18220
+桑	sang	18210
 万状	wan zhuang	18210
-龄	ling	18200
 万端	wan duan	18190
 万福	wan fu	18190
-驱	qu	18170
+闲	xian	18180
 万籁	wan lai	18170
-惜	xi	18150
+惨	can	18160
 万能	wan neng	18140
+洁	jie	18130
 万般	wan ban	18130
-豪	hao	18120
 万象	wan xiang	18120
+踪	zong	18100
 万贯	wan guan	18100
-掩	yan	18090
+勃	bo	18080
 一令纸	yi ling zhi	18080
-兼	jian	18070
+宾	bin	18050
 万金	wan jin	18050
-跃	yue	18040
 万难	wan nan	18040
+频	pin	18030
 万顷	wan qing	18030
 一伙儿	yi huo er	18020
-尸	shi	18010
 丈量	zhang liang	18010
-圈	juan	18000
+仇	chou	18000
 一会儿	yi hui er	18000
-肃	su	17990
 三产	san chan	17980
-帕	pa	17960
-驶	shi	17930
+磨	mo	17970
 三分	san fen	17930
+邪	xie	17920
 三副	san fu	17920
-堡	bao	17910
 三北	san bei	17910
-届	jie	17880
+撞	zhuang	17900
+拟	ni	17870
 三台	san tai	17870
 一元化	yi yuan hua	17870
-欣	xin	17850
+滚	gun	17850
 三号	san hao	17850
 三合	san he	17850
 一元论	yi yuan lun	17850
-册	ce	17830
 一出戏	yi chu xi	17830
+奏	zou	17820
 一刀切	yi dao qie	17810
-储	chu	17800
-飘	piao	17770
+巡	xun	17790
+颜	yan	17770
 一分子	yi fen zi	17770
-桑	sang	17750
 三好	san hao	17750
 一分钟	yi fen zhong	17750
-闲	xian	17720
+剂	ji	17740
+绩	ji	17720
 一刹那	yi cha na	17720
-惨	can	17700
-洁	jie	17670
+贡	gong	17690
 三度	san du	17670
+疯	feng	17660
 三思	san si	17660
-踪	zong	17640
+坡	po	17640
 一匹马	yi pi ma	17630
-勃	bo	17620
 三教	san jiao	17620
+瞧	qiao	17610
 三更	san geng	17610
-宾	bin	17590
-频	pin	17560
-仇	chou	17540
-磨	mo	17510
+截	jie	17590
+燃	ran	17560
+焦	jiao	17540
+殿	dian	17510
 三相	san xiang	17500
 一口气	yi kou qi	17500
 一句话	yi ju hua	17490
-撞	zhuang	17460
+伪	wei	17480
+柳	liu	17460
 三节	san jie	17450
 三藏	san zang	17440
-拟	ni	17430
+锁	suo	17430
 三行	san xing	17430
 三角	san jiao	17420
-滚	gun	17400
-奏	zou	17380
+逼	bi	17410
+颇	po	17380
 一品红	yi pin hong	17370
-巡	xun	17350
+昏	hun	17360
 三重	san chong	17350
-颜	yan	17330
+劝	quan	17330
 三陪	san pei	17330
 三餐	san can	17320
 三鲜	san xian	17310
 上上	shang shang	17310
 一回儿	yi hui er	17310
-剂	ji	17300
+呈	cheng	17300
 上下	shang xia	17300
+搜	sou	17280
 一场梦	yi chang meng	17280
-绩	ji	17270
 一场空	yi chang kong	17270
 一场雨	yi chang yu	17270
-贡	gong	17250
+勤	qin	17250
 上世	shang shi	17250
 上乘	shang cheng	17240
 上举	shang ju	17240
 上书	shang shu	17240
+戒	jie	17230
 上交	shang jiao	17230
-疯	feng	17220
 上代	shang dai	17220
 上京	shang jing	17220
 上人	shang ren	17220
 上任	shang ren	17210
 上位	shang wei	17210
+驾	jia	17200
 上供	shang gong	17200
 上体	shang ti	17200
 上元	shang yuan	17200
-坡	po	17190
 上兵	shang bing	17190
 上光	shang guang	17190
 一多半	yi duo ban	17190
+漂	piao	17180
 上冻	shang dong	17180
 一夜情	yi ye qing	17180
-瞧	qiao	17170
 上劲	shang jin	17170
 上列	shang lie	17170
 上刑	shang xing	17170
 一大半	yi da ban	17170
 一大堆	yi da dui	17160
 一大批	yi da pi	17160
+饮	yin	17150
 上千	shang qian	17150
 上升	shang sheng	17150
 一大把	yi da ba	17150
-截	jie	17140
 一大早	yi da zao	17140
+曹	cao	17130
 上卷	shang juan	17120
-燃	ran	17110
 上口	shang kou	17110
 上去	shang qu	17110
+朵	duo	17100
 上古	shang gu	17100
 上台	shang tai	17100
 上叶	shang ye	17100
-焦	jiao	17090
 上吊	shang diao	17090
 上司	shang si	17090
 一头热	yi tou re	17090
 上告	shang gao	17080
+仔	zi	17070
 上唇	shang chun	17070
 上品	shang pin	17070
-殿	dian	17060
 上场	shang chang	17060
 上回	shang hui	17060
+柔	rou	17050
 上坟	shang fen	17050
 上坡	shang po	17050
-伪	wei	17040
 上士	shang shi	17040
 上堂	shang tang	17040
 上声	shang sheng	17030
 上夜	shang ye	17030
+俩	lia	17020
 上天	shang tian	17020
 上头	shang tou	17020
-柳	liu	17010
 上好	shang hao	17010
 上套	shang tao	17010
 上奏	shang zou	17010
+孟	meng	17000
 上官	shang guan	16990
 上客	shang ke	16990
 上学	shang xue	16990
-锁	suo	16980
 上宾	shang bin	16980
 上家	shang jia	16980
 上寿	shang shou	16980
+腐	fu	16970
 上将	shang jiang	16970
 上尉	shang wei	16970
-逼	bi	16960
+薄	bo	16960
 上层	shang ceng	16960
+幼	you	16950
 上届	shang jie	16950
 上山	shang shan	16950
 上岸	shan gan	16940
 一家人	yi jia ren	16940
 一家子	yi jia zi	16940
-颇	po	16930
 上峰	shang feng	16930
 上工	shang gong	16930
 上市	shang shi	16930
+践	jian	16920
 上帝	shang di	16920
 上年	shang nian	16920
 上床	shang chuang	16910
-昏	hun	16900
+籍	ji	16900
 上座	shang zuo	16900
 一小撮	yi xiao cuo	16900
 上当	shang dang	16890
 上弦	shang xian	16890
-劝	quan	16880
 上情	shang qing	16880
 上心	shang xin	16880
+牧	mu	16870
 上感	shang gan	16870
 上房	shang fang	16860
 上手	shang shou	16860
-呈	cheng	16850
 上报	shang bao	16850
+凉	liang	16840
 上操	shang cao	16840
 上文	shang wen	16840
-搜	sou	16830
 上方	shang fang	16830
+牲	sheng	16820
 上旬	shang xun	16820
 上映	shang ying	16820
 上月	shang yue	16810
-勤	qin	16800
 上朝	shang chao	16800
 上机	shang ji	16800
 上来	shang lai	16800
+佳	jia	16790
 上林	shang lin	16790
 上校	shang xiao	16790
 一席谈	yi xi tan	16790
 上梁	shang liang	16780
-戒	jie	16770
+娜	na	16770
 上次	shang ci	16760
 上款	shang kuan	16760
-驾	jia	16750
 上流	shang liu	16750
 上水	shang shui	16750
 上油	shang you	16750
 一年级	yi nian ji	16750
+浓	nong	16740
 上浮	shang fu	16740
 上游	shang you	16730
 上涨	shang zhang	16730
-漂	piao	16720
+芳	fang	16720
 上溯	shang su	16720
 上火	shang huo	16710
 上演	shang yan	16710
 上焦	shang jiao	16700
-饮	yin	16690
+稿	gao	16690
 上界	shang jie	16690
 上疏	shang shu	16690
 上瘾	shang yin	16690
 上空	shang kong	16680
 上税	shang shui	16680
 上相	shang xiang	16680
-朵	duo	16670
+竹	zhu	16670
 上端	shang duan	16670
+账	zhang	16660
 上等	shang deng	16660
 上策	shang ce	16650
 上算	shang suan	16650
-仔	zi	16640
+腹	fu	16640
 上簇	shang cu	16640
 上粪	shang fen	16640
 上篮	shang lan	16640
 上纲	shang gang	16630
 上级	shang ji	16630
 上紧	shang jin	16630
-柔	rou	16620
+跌	die	16620
 上缴	shang jiao	16620
 上肥	shang fei	16610
 上联	shang lian	16610
@@ -2817,7 +2883,7 @@ use_preset_vocabulary: false
 上膘	shang biao	16600
 上脸	shang lian	16600
 上膛	shang tang	16600
-俩	lia	16590
+逻	luo	16590
 上苍	shang cang	16590
 上色	shang se	16590
 上药	shang yao	16590
@@ -2825,7 +2891,7 @@ use_preset_vocabulary: false
 上蜡	shang la	16580
 上行	shang hang	16570
 一把子	yi ba zi	16570
-腐	fu	16560
+垂	chui	16560
 上街	shang jie	16560
 上衣	shang yi	16560
 上装	shang zhuang	16560
@@ -2833,7 +2899,7 @@ use_preset_vocabulary: false
 上访	shang fang	16550
 上计	shang ji	16550
 一把抓	yi ba zhua	16550
-幼	you	16540
+遵	zun	16540
 上调	shang diao	16540
 上课	shang ke	16540
 上诉	shang su	16540
@@ -2842,13 +2908,12 @@ use_preset_vocabulary: false
 上货	shang huo	16520
 上路	shang lu	16520
 上账	shang zhang	16520
-践	jian	16510
+脉	mai	16510
 上车	shang che	16510
 上身	shang shen	16510
 一掊土	yi pou tu	16510
 上辈	shang bei	16500
-薄	bo	16490
-籍	ji	16490
+貌	mao	16490
 上边	shang bian	16490
 上达	shang da	16490
 上进	shang jin	16490
@@ -2857,7 +2922,7 @@ use_preset_vocabulary: false
 上钩	shang gou	16470
 上铺	shang pu	16470
 上选	shang xuan	16470
-牧	mu	16460
+柏	bai	16460
 上门	shang men	16460
 上闩	shang shuan	16460
 上锁	shang suo	16460
@@ -2865,401 +2930,404 @@ use_preset_vocabulary: false
 上限	shang xian	16450
 上院	shang yuan	16450
 上阵	shang zhen	16450
+狱	yu	16440
 上集	shang ji	16440
-凉	liang	16430
 上面	shang mian	16430
 上鞋	shang xie	16430
 上颚	shan ge	16420
 上风	shang feng	16420
 上首	shang shou	16420
-牲	sheng	16410
+猜	cai	16410
 上马	shang ma	16410
 上香	shang xiang	16410
+怜	lian	16390
 下乘	xia sheng	16390
-佳	jia	16380
 下令	xia ling	16380
 下体	xia ti	16380
 下劲	xia jin	16370
+惑	huo	16360
 下卷	xia juan	16360
-浓	nong	16350
 下发	xia fa	16350
 下台	xia tai	16350
 下同	xia tong	16350
+陶	tao	16340
 下地	xia di	16340
 下咽	xia yan	16340
 一时间	yi shi jian	16340
-芳	fang	16330
 下场	xia chang	16330
 下塌	xia ta	16330
 一星儿	yi xing er	16330
 下处	xia chu	16320
+兽	shou	16310
 下头	xia tou	16310
-稿	gao	16300
 下家	xia jia	16300
 下属	xia shu	16300
 下床	xia chuang	16290
 下帖	xia tie	16290
-竹	zhu	16280
+帐	zhang	16280
 一服药	yi fu yao	16280
 下拨	xia bo	16270
 下毒	xia du	16270
+饰	shi	16260
 下潜	xia qian	16260
 下渗	xia shen	16260
 下泄	xia xie	16260
-腹	fu	16250
 下落	xia luo	16240
 下种	xia zhong	16240
+贷	dai	16230
 下行	xia xing	16230
-跌	die	16220
 下车	xia che	16220
 下调	xia tiao	16220
-逻	luo	16200
+昌	chang	16210
 下述	xia shu	16200
 一条龙	yi tiao long	16200
 一条心	yi tiao xin	16200
 下降	xia jiang	16190
 下铺	xia pu	16190
+叙	xu	16180
 下颌	xia he	16180
 下集	xia ji	16180
 下雨	xia yu	16180
-垂	chui	16170
 下风	xia feng	16170
 一枝香	yi zhi xiang	16170
+躺	tang	16160
 不一	bu yi	16160
-遵	zun	16150
+钢	gang	16130
 不下	bu xia	16130
 一次性	yi ci xing	16130
-脉	mai	16120
 不中	bu zhong	16120
+沟	gou	16110
 不丹	bu dan	16110
 一步步	yi bu bu	16110
-貌	mao	16090
 不久	bu jiu	16080
 不义	bu yi	16080
-柏	bai	16070
 不乏	bu fa	16070
+扶	fu	16060
 一沓纸	yi da zhi	16060
 不了	bu liao	16050
-狱	yu	16040
 不争	bu zheng	16040
+铺	pu	16030
 不二	bu er	16030
-猜	cai	16020
+邓	deng	16010
 不亦	bu yi	16010
 不仁	bu ren	16000
-怜	lian	15990
 不仅	bu jin	15990
 一溜儿	yi liu er	15990
+寿	shou	15980
 一溜烟	yi liu yan	15980
 一点钟	yi dian zhong	15970
 一溜风	yi liu feng	15970
-惑	huo	15960
+惧	ju	15960
 不会	bu hui	15950
 不休	bu xiu	15950
-陶	tao	15940
 不但	bu dan	15940
 不住	bu zhu	15940
+询	xun	15930
 不佳	bu jia	15930
 不佞	bu ning	15930
 不便	bu bian	15920
 不依	bu yi	15920
-兽	shou	15910
+汤	tang	15910
 不俗	bu su	15910
 不信	bu xin	15910
 不修	bu xiu	15900
-帐	zhang	15890
 不倦	bu juan	15890
+盗	dao	15880
 不值	bu zhi	15880
-饰	shi	15860
 不假	bu jia	15860
 一百亿	yi bai yi	15860
-叙	xu	15830
+肥	fei	15850
+尝	chang	15830
 不像	bu xiang	15830
 不光	bu guang	15820
 不克	bu ke	15820
 不免	bu mian	15820
 一直走	yi zhi zou	15820
-躺	tang	15810
 不公	bu gong	15810
+匆	cong	15800
 不关	bu guan	15800
 不具	bu ju	15790
 不兴	bu xing	15790
 不再	bu zai	15790
-钢	gang	15780
+辉	hui	15780
 不准	bu zhun	15780
 一码事	yi ma shi	15780
 不凡	bu fan	15770
 不减	bu jian	15770
 一神教	yi shen jiao	15770
-沟	gou	15760
 不分	bu fen	15760
+奈	nai	15750
 一窝风	yi wo feng	15750
-扶	fu	15710
+扣	kou	15730
 不到	bu dao	15710
 不利	bu li	15710
+廷	ting	15700
 一等奖	yi deng jiang	15700
 不力	bu li	15690
-铺	pu	15680
+澳	ao	15680
 一米线	yi mi xian	15670
 一系列	yi xi lie	15670
 不单	bu dan	15660
-寿	shou	15650
 不厌	bu yan	15650
 不及	bu ji	15640
 一而再	yi er zai	15640
-惧	ju	15630
+董	dong	15630
 一肚子	yi du zi	15630
 一股劲	yi gu jin	15630
 不变	bu bian	15620
 不可	bu ke	15610
 不只	bu zhi	15610
-询	xun	15600
-汤	tang	15580
+迁	qian	15600
+凝	ning	15580
 一般化	yi ban hua	15570
 一艘船	yi sou chuan	15560
-盗	dao	15550
+慰	wei	15550
+厌	yan	15530
 一行人	yi xing ren	15530
-肥	fei	15520
-尝	chang	15500
-匆	cong	15470
-辉	hui	15450
+脏	zang	15500
+腾	teng	15480
+幽	you	15450
 不吃	bu chi	15450
 不合	bu he	15450
 不同	bu tong	15440
-奈	nai	15420
+怨	yuan	15430
 不吝	bu lin	15410
-扣	kou	15400
 不听	bu ting	15400
 不和	bu he	15390
 不周	bu zhou	15390
 一贯性	yi guan xing	15390
-嘛	ma	15370
+丢	diu	15380
 不啻	bu chi	15370
 不善	bu shan	15370
-址	zhi	15360
 不图	bu tu	15360
+埋	mai	15350
 不在	bu zai	15350
-董	dong	15340
 不均	bu jun	15340
 不堪	bu kan	15340
-迁	qian	15320
+泉	quan	15330
+址	zhi	15330
 一转眼	yi zhuan yan	15310
-凝	ning	15290
+涌	yong	15300
 不备	bu bei	15290
 不外	bu wai	15290
 一边倒	yi bian dao	15290
+辖	xia	15280
 不大	bu da	15280
 不够	bu gou	15280
-慰	wei	15270
+躲	duo	15250
 不好	bu hao	15250
-厌	yan	15240
 一锅粥	yi guo zhou	15240
+晋	jin	15230
 不如	bu ru	15230
 一长串	yi chang chuan	15230
 不妨	bu fang	15220
 不妙	bu miao	15220
 不妥	bu tuo	15220
-脏	zang	15210
 不孕	bu yun	15210
 一阵风	yi zhen feng	15210
+紫	zi	15200
 不孝	bu xiao	15200
-腾	teng	15190
 不宁	bu ning	15190
 一霎那	yi sha na	15190
+艰	jian	15180
 不安	bu an	15180
 不定	bu ding	15170
 一面倒	yi mian dao	15170
-怨	yuan	15160
 不实	bu shi	15160
 不宜	bu yi	15160
 一风吹	yi feng chui	15160
+魏	wei	15150
 不容	bu rong	15150
 一骨碌	yi gu lu	15140
 一驮粮	yi duo liang	15140
+吾	wu	15130
 不寐	bu mei	15130
 不对	bu dui	15120
-丢	diu	15110
+慌	huang	15100
 不尽	bu jin	15100
 不屈	bu qu	15100
-埋	mai	15090
 不屑	bu xie	15090
+祝	zhu	15080
 丁公藤	ding gong teng	15080
 不差	bu cha	15070
 不巧	bu qiao	15070
-泉	quan	15060
 丁字尺	ding zi chi	15060
+邮	you	15050
 不已	bu yi	15050
 丁字街	ding zi jie	15050
 丁字形	ding zi xing	15050
 不常	bu chang	15040
 不干	bu gan	15040
-涌	yong	15030
+吐	tu	15030
 不平	bu ping	15030
 丁点儿	ding dian er	15030
 不幸	bu xing	15020
-躲	duo	15010
 丁香花	ding xiang hua	15010
+狠	hen	15000
 不当	bu dang	15000
 不待	bu dai	14990
 七叶树	qi ye shu	14990
-紫	zi	14980
+鉴	jian	14980
 不得	bu de	14980
 七大洲	qi da zhou	14980
-艰	jian	14960
-吾	wu	14930
+曰	yue	14950
+械	xie	14930
 不必	bu bi	14930
 不忍	bu ren	14930
-慌	huang	14910
 不快	bu kuai	14910
+咬	yao	14900
 不忿	bu fen	14890
-祝	zhu	14880
+邻	lin	14880
 不怕	bu pa	14880
 不恤	bu xu	14880
 不恭	bu gong	14870
 不息	bu xi	14870
 不悦	bu yue	14860
-邮	you	14850
+赤	chi	14850
 不惑	bu huo	14850
 不惜	bu xi	14850
 不惟	bu wei	14840
 不想	bu xiang	14840
-吐	tu	14830
+挤	ji	14830
 不愧	bu kui	14830
 不意	bu yi	14830
 不慎	bu shen	14810
 万人坑	wan ren keng	14810
 万事通	wan shi tong	14810
-狠	hen	14800
+弯	wan	14800
 不成	bu cheng	14800
 不懈	bu xie	14800
-鉴	jian	14780
+椅	yi	14780
 不才	bu cai	14770
 不扬	bu yang	14760
-曰	yue	14750
+陪	pei	14750
 不报	bu bao	14740
-械	xie	14730
+割	ge	14730
 不拘	bu ju	14730
-咬	yao	14700
+揭	jie	14700
 不振	bu zhen	14700
-邻	lin	14680
+韦	wei	14680
 不支	bu zhi	14680
 不敌	bu di	14670
 不敏	bu min	14660
 万年历	wan nian li	14660
-赤	chi	14650
+悟	wu	14650
 不敢	bu gan	14650
 万年青	wan nian qing	14650
 万应锭	wan ying ding	14640
-挤	ji	14620
+聪	cong	14630
 万户侯	wan hu hou	14620
 不敬	bu jing	14610
 不文	bu wen	14610
-弯	wan	14600
+雾	wu	14600
 不断	bu duan	14600
 不料	bu liao	14600
 不无	bu wu	14590
+锋	feng	14580
 不日	bu ri	14580
 不时	bu shi	14580
-椅	yi	14570
 不明	bu ming	14570
 不易	bu yi	14560
-陪	pei	14550
+梯	ti	14550
 不是	bu shi	14550
 不智	bu zhi	14540
+猫	mao	14530
 不曾	bu ceng	14530
 不暇	bu xia	14530
-割	ge	14520
 不服	bu fu	14520
 不期	bu qi	14510
 万能胶	wan neng jiao	14510
-揭	jie	14500
+祥	xiang	14500
 万花筒	wan hua tong	14500
 不枉	bu wang	14490
 不朽	bu xiu	14490
+阔	kuo	14480
 不果	bu guo	14480
-悟	wu	14470
 不检	bu jian	14470
-聪	cong	14450
+誉	yu	14450
 不正	bu zheng	14450
 不止	bu zhi	14450
+筹	chou	14430
 不比	bu bi	14430
 万金油	wan jin you	14430
-雾	wu	14420
 不毛	bu mao	14420
 不法	bu fa	14410
 不治	bu zhi	14410
+丛	cong	14400
 不洁	bu jie	14400
 三不管	san bu guan	14400
 三不知	san bu zhi	14400
-锋	feng	14390
 不测	bu ce	14390
+牵	qian	14380
 不济	bu ji	14380
-梯	ti	14370
 不灵	bu ling	14370
 不满	bu man	14370
 不消	bu xiao	14370
 不然	bu ran	14360
 不熟	bu shu	14360
+鸣	ming	14350
 不爽	bu shuang	14350
 三八节	san ba jie	14350
-猫	mao	14340
 不独	bu du	14340
 不犯	bu fan	14340
+沈	shen	14330
 不甘	bu gan	14330
 不理	bu li	14330
 三十儿	san shi er	14330
-祥	xiang	14320
 三十六	san shi liu	14320
 不甚	bu shen	14310
 三叉戟	san cha ji	14310
+阁	ge	14300
 不用	bu yong	14300
 三只手	san zhi shou	14300
-阔	kuo	14290
 不由	bu you	14290
 三叶虫	san ye chong	14290
+穆	mu	14280
 不畅	bu chang	14280
 三合会	san he hui	14280
-誉	yu	14270
 三合板	san he ban	14270
 三合房	san he fang	14270
 三合土	san he tu	14270
-筹	chou	14240
-丛	cong	14220
-牵	qian	14190
+屈	qu	14250
+旨	zhi	14230
+袖	xiu	14200
+猎	lie	14180
 三好生	san hao sheng	14180
 三家村	san jia cun	14170
-鸣	ming	14160
-穆	mu	14140
-屈	qu	14110
+臂	bi	14150
+蛇	she	14130
+贺	he	14110
 三折肱	san zhe gong	14110
-袖	xiu	14090
 不碍	bu ai	14090
 不确	bu que	14090
+柱	zhu	14080
 不祥	bu xiang	14080
 三月三	san yue san	14080
 不禁	bu jin	14070
-猎	lie	14060
+抛	pao	14060
 不稳	bu wen	14060
 三棱镜	san leng jing	14060
 不等	bu deng	14050
 不端	bu duan	14050
 不符	bu fu	14050
-臂	bi	14040
 不算	bu suan	14040
+鼠	shu	14030
 不管	bu guan	14030
 三点式	san dian shi	14030
 三班倒	san ban dao	14020
-蛇	she	14010
+瑟	se	14010
 不纯	bu chun	14010
-贺	he	13990
+仔	zai	14000
 三结合	san jie he	13990
+戈	ge	13980
 三联单	san lian dan	13980
 不羁	bu ji	13970
 三脚猫	san jiao mao	13970
 三色堇	san se jin	13970
-柱	zhu	13960
+牢	lao	13960
 不耐	bu nai	13950
-抛	pao	13940
 不耻	bu chi	13940
+逊	xun	13930
 不肖	bu xiao	13930
 三角学	san jiao xue	13930
 三角债	san jiao zhai	13930
@@ -3268,25 +3336,25 @@ use_preset_vocabulary: false
 不育	bu yu	13920
 三角板	san jiao ban	13920
 三角形	san jiao xing	13920
-鼠	shu	13910
+迈	mai	13910
 三角铁	san jiao tie	13910
 三角洲	san jiao zhou	13910
 不能	bu neng	13900
 三轮儿	san lun er	13900
 三轮车	san lun che	13890
-牢	lao	13880
+欺	qi	13880
 三部曲	san bu qu	13880
 三连冠	san lian guan	13880
 三重唱	san chong chang	13880
-逊	xun	13860
+吨	dun	13860
 不舍	bu she	13850
 不致	bu zhi	13850
 不良	bu liang	13840
-迈	mai	13830
+琴	qin	13830
 不苟	bu gou	13830
 不若	bu ruo	13830
 上下床	shang xia chuang	13820
-欺	qi	13810
+衰	shuai	13810
 上下级	shang xia ji	13810
 上下水	shang xia shui	13810
 上下文	shang xia wen	13810
@@ -3296,15 +3364,15 @@ use_preset_vocabulary: false
 上中农	shang zhong nong	13800
 不衰	bu shuai	13790
 不要	bu yao	13790
-吨	dun	13780
+瓶	ping	13780
 不见	bu jian	13780
-琴	qin	13760
+恼	nao	13760
 不觉	bu jue	13750
 上元节	shang yuan jie	13750
 不解	bu jie	13740
-衰	shuai	13730
+燕	yan	13730
 不计	bu ji	13720
-瓶	ping	13710
+仲	zhong	13710
 不讳	bu hui	13710
 不让	bu rang	13710
 上半晌	shang ban shang	13710
@@ -3313,104 +3381,105 @@ use_preset_vocabulary: false
 上半夜	shang ban ye	13710
 上半身	shang ban shen	13700
 上半月	shang ban yue	13700
+诱	you	13690
 不论	bu lun	13690
 不许	bu xu	13690
-恼	nao	13680
-燕	yan	13660
+狼	lang	13660
+池	chi	13640
 不该	bu gai	13640
 不详	bu xiang	13640
 上场门	shang chang men	13640
 上坡路	shang po lu	13640
-仲	zhong	13630
 不象	bu xiang	13630
-诱	you	13610
+疼	teng	13610
 不赖	bu lai	13600
 不起	bu qi	13600
+卢	lu	13590
 不足	bu zu	13590
-狼	lang	13580
-池	chi	13560
+仗	zhang	13560
 不轨	bu gui	13550
 上岁数	shang sui shu	13550
+冠	guan	13540
 不辍	bu chuo	13540
 不辞	bu ci	13540
-疼	teng	13530
 上年纪	shang nian ji	13530
 上座儿	shang zuo er	13520
 上座率	shang zuo lu	13520
+粒	li	13510
 不过	bu guo	13510
-卢	lu	13500
-仗	zhang	13480
+遥	yao	13490
 不迭	bu die	13480
 不适	bu shi	13480
 不通	bu tong	13470
 不逊	bu xun	13470
+吕	lu	13460
 不逞	bu cheng	13460
 上方剑	shang fang jian	13460
-冠	guan	13450
 不遑	bu huang	13450
 不遂	bu sui	13450
 不遇	bu yu	13450
-粒	li	13430
+玄	xuan	13440
 不避	bu bi	13420
 上档次	shang dang ci	13420
-遥	yao	13400
+尘	chen	13410
 不配	bu pei	13400
+冯	feng	13390
 不错	bu cuo	13390
 不问	bu wen	13390
-吕	lu	13380
+抚	fu	13370
 不雅	bu ya	13360
-尘	chen	13350
+浅	qian	13340
 不顾	bu gu	13340
 不韪	bu wei	13340
 不须	bu xu	13340
-冯	feng	13330
 上等兵	shang deng bing	13330
-抚	fu	13300
+敦	dun	13320
 不齿	bu chi	13300
 不齐	bu qi	13300
-浅	qian	13280
+纠	jiu	13290
+钻	zuan	13270
 与会	yu hui	13270
 与共	yu gong	13260
 与其	yu qi	13260
-纠	jiu	13250
+晶	jing	13240
 上西天	shang xi tian	13240
-钻	zuan	13230
+岂	qi	13220
 与门	yu men	13220
 与赛	yu sai	13220
 丑化	chou hua	13210
 与闻	yu wen	13210
-晶	jing	13200
 丑恶	chou e	13200
 丑星	chou xing	13200
 上辈子	shang bei zi	13200
 上轨道	shang gui dao	13200
+峡	xia	13190
 丑角	chou jue	13190
 丑相	chou xiang	13190
 丑行	chou xing	13190
 上进心	shang jin xin	13190
-岂	qi	13180
 专供	zhuan gong	13180
 专任	zhuan ren	13180
+苍	cang	13170
 专号	zhuan hao	13170
 专区	zhuan qu	13170
 专场	zhuan chang	13160
 专员	zhuan yuan	13160
-峡	xia	13150
 专差	zhuan chai	13150
 专家	zhuan jia	13150
 专座	zhuan zuo	13150
+喷	pen	13140
 专有	zhuan you	13140
 专指	zhuan zhi	13140
-苍	cang	13130
 专柜	zhuan gui	13130
 专横	zhuan heng	13130
+耗	hao	13120
 专版	zhuan ban	13120
 下不来	xia bu lai	13120
 专稿	zhuan gao	13110
 专论	zhuan lun	13110
 专著	zhuan zhu	13110
 下中农	xia zhong nong	13110
-喷	pen	13100
+凌	ling	13100
 专车	zhuan che	13100
 专长	zhuan chang	13100
 下功夫	xia gong fu	13100
@@ -3420,99 +3489,100 @@ use_preset_vocabulary: false
 下半场	xia ban chang	13090
 下半时	xia ban shi	13090
 下半月	xia ban yue	13090
-耗	hao	13080
 世亲	shi qin	13080
 世上	shi shang	13080
+敲	qiao	13070
 世伯	shi bo	13070
 世仇	shi chou	13070
 世传	shi chuan	13070
 世家	shi jia	13060
 下场门	xia chang men	13060
-凌	ling	13050
+菌	jun	13050
 世纪	shi ji	13040
 世间	shi jian	13040
 世系	shi xi	13040
 下巴颏	xia ba ke	13040
 下工夫	xia gong fu	13040
-敲	qiao	13030
 丙丁	bing ding	13030
 世风	shi feng	13030
+赔	pei	13020
 丙纶	bing lun	13020
 下意识	xia yi shi	13020
 业大	ye da	13010
 业内	ye nei	13010
-菌	jun	13000
+涂	tu	13000
 下狠心	xia hen xin	13000
 下礼拜	xia li bai	13000
 下眼皮	xia yan pi	13000
-赔	pei	12980
 东北	dong bei	12980
 东区	dong qu	12980
+粹	cui	12970
 东华	dong hua	12970
 东南	dong nan	12970
 下辈子	xia bei zi	12960
-涂	tu	12950
+扁	bian	12950
 东台	dong tai	12940
 东头	dong tou	12940
-粹	cui	12930
+亏	kui	12920
 东家	dong jia	12920
 不一定	bu yi ding	12920
 不一样	bu yi yang	12920
-扁	bian	12900
+寂	ji	12900
 不下于	bu xia yu	12900
 不中用	bu zhong yong	12890
-亏	kui	12870
-寂	ji	12850
+煤	mei	12880
+熊	xiong	12850
+恭	gong	12830
 东莞	dong guan	12830
 不争气	bu zheng qi	12830
-煤	mei	12820
 不二价	bu er jia	12820
-熊	xiong	12800
+湿	shi	12800
 不人道	bu ren dao	12800
 东阿	dong e	12790
 不介意	bu jie yi	12790
+循	xun	12780
 东风	dong feng	12780
-湿	shi	12770
-循	xun	12750
+暖	nuan	12750
 不作声	bu zuo sheng	12750
 丝棉	si mian	12740
+糖	tang	12730
 丞相	cheng xiang	12730
 丝织	si zhi	12730
-暖	nuan	12720
 不信邪	bu xin xie	12720
 不倒翁	bu dao weng	12710
-糖	tang	12700
+赋	fu	12700
 两便	liang bian	12700
 两侧	liang ce	12700
 两地	liang di	12690
 两可	liang ke	12690
+抑	yi	12680
 两头	liang tou	12680
-抑	yi	12670
 两广	liang guang	12670
 不做声	bu zuo sheng	12670
+秩	zhi	12660
 两当	liang dang	12660
 不像话	bu xiang hua	12660
-秩	zhi	12650
 两旁	liang pang	12650
 两栖	liang qi	12650
-帽	mao	12620
+帽	mao	12630
 不冻港	bu dong gang	12620
-哀	ai	12600
+哀	ai	12610
 两鬓	liang bin	12600
 两难	liang nan	12600
 一丁不识	yi ding bu shi	12600
+埋	man	12590
 严处	yan chu	12590
 严令	yan ling	12590
+宿	su	12580
 严查	yan cha	12580
 严正	yan zheng	12580
 不切题	bu qie ti	12580
-宿	su	12570
 严父	yan fu	12570
 严禁	yan jin	12570
+踏	ta	12560
 严苛	yan ke	12560
 严重	yan zhong	12560
 不到位	bu dao wei	12560
-踏	ta	12550
 丧乱	sang luan	12550
 丧事	sang shi	12550
 丧亡	sang wang	12550
@@ -3521,60 +3591,60 @@ use_preset_vocabulary: false
 丧偶	san gou	12540
 不动产	bu dong chan	12540
 一丁点儿	yi ding dian er	12540
+烂	lan	12530
 丧家	sang jia	12530
 丧失	sang shi	12530
-烂	lan	12520
+袁	yuan	12510
 丧服	sang fu	12510
 丧志	sang zhi	12510
-侯	hou	12500
 丧气	sang qi	12500
 丧权	sang quan	12500
 不及格	bu ji ge	12500
 一不小心	yi bu xiao xin	12500
+侯	hou	12490
 丧胆	sang dan	12490
 丧礼	sang li	12490
 丧生	sang sheng	12490
 丧葬	sang zang	12480
 一不扭众	yi bu niu zhong	12480
-抖	dou	12470
 丧身	sang shen	12470
 丧钟	sang zhong	12470
 不可分	bu ke fen	12470
+抖	dou	12460
 丧门	sang men	12460
 一专多能	yi zhuan duo neng	12460
-夹	jia	12450
 个个	ge ge	12450
 个中	ge zhong	12450
+夹	jia	12440
 个人	ge ren	12440
 一丘之貉	yi qiu zhi he	12440
 个体	ge ti	12430
 个位	ge wei	12430
-昆	kun	12420
 个别	ge bie	12420
 个儿	ge er	12420
 个头	ge tou	12420
 一丝不差	yi si bu cha	12420
+昆	kun	12410
 个性	ge xing	12410
 个子	ge zi	12410
-肝	gan	12400
 个案	ge an	12400
 个把	ge ba	12400
 个旧	ge jiu	12400
 一丝不挂	yi si bu gua	12400
+肝	gan	12390
 丫杈	ya cha	12390
 丫头	ya tou	12390
 一丝不紊	yi si bu wen	12390
 中产	zhong chan	12380
 中东	zhong dong	12380
-擦	ca	12370
-埋	man	12370
 中伏	zhong fu	12370
 中伤	zhong shang	12370
 一丝不苟	yi si bu gou	12370
+擦	ca	12360
 中保	zhong bao	12360
 中共	zhong gong	12360
-猪	zhu	12350
 中分	zhong fen	12350
+猪	zhu	12340
 中华	zhong hua	12340
 中卷	zhong juan	12330
 不名誉	bu ming yu	12330
@@ -3586,7 +3656,7 @@ use_preset_vocabulary: false
 不含糊	bu han hu	12320
 不周延	bu zhou yan	12310
 一个心眼	yi ge xin yan	12310
-恒	heng	12300
+恒	heng	12290
 不在乎	bu zai hu	12280
 不在意	bu zai yi	12280
 慎	shen	12270
@@ -3614,12 +3684,12 @@ use_preset_vocabulary: false
 中断	zhong duan	12210
 中方	zhong fang	12210
 中招	zhong zhao	12210
-纹	wen	12200
 中服	zhong fu	12200
 中极	zhong ji	12200
 中暑	zhong shu	12200
 不好惹	bu hao re	12200
 一了百了	yi liao bai liao	12200
+纹	wen	12190
 中标	zhong biao	12190
 中档	zhong dang	12190
 中段	zhong duan	12190
@@ -3698,7 +3768,7 @@ use_preset_vocabulary: false
 丰采	feng cai	12000
 不归路	bu gui lu	12000
 串供	chuan gong	11990
-串案	chuan an	11980
+串案	chua nan	11980
 串戏	chuan xi	11980
 临了	lin liao	11980
 不得不	bu de bu	11980
@@ -3800,6 +3870,7 @@ use_preset_vocabulary: false
 不服气	bu fu qi	11620
 不更事	bu geng shi	11620
 一叶障目	yi ye zhang mu	11620
+臂	bei	11610
 主调	zhu diao	11610
 主角	zhu jue	11610
 主语	zhu yu	11610
@@ -3831,7 +3902,6 @@ use_preset_vocabulary: false
 一团和气	yi tuan he qi	11530
 举行	ju xing	11520
 举要	ju yao	11520
-臂	bei	11510
 举重	ju zhong	11510
 一坐尽倾	yi zuo jin qing	11510
 久仰	jiu yang	11500
@@ -4269,10 +4339,10 @@ use_preset_vocabulary: false
 二重	er chong	10330
 一览无遗	yi lan wu yi	10330
 一视同仁	yi shi tong ren	10330
+宿	xiu	10320
 一触即发	yi chu ji fa	10320
 一触即溃	yi chu ji kui	10320
 一言一行	yi yan yi xing	10320
-宿	xiu	10310
 一言不发	yi yan bu fa	10310
 一言两语	yi yan liang yu	10310
 一言丧邦	yi yan sang bang	10310
@@ -4585,7 +4655,6 @@ use_preset_vocabulary: false
 万马齐喑	wan ma qi yin	9610
 丈八蛇矛	zhang ba she mao	9610
 丈二和尚	zhang er he shang	9610
-圳	zhen	9600
 交验	jiao yan	9600
 三不拗六	san bu niu liu	9600
 三个世界	san ge shi jie	9600
@@ -4596,12 +4665,14 @@ use_preset_vocabulary: false
 三个面向	san ge mian xiang	9590
 三亲六故	san qin liu gu	9590
 三亲六眷	san qin liu juan	9590
+圳	zhen	9580
 产期	chan qi	9580
 三从四德	san cong si de	9580
 三令五申	san ling wu shen	9580
 三亲四眷	san qin si juan	9580
 三人为众	san ren wei zhong	9580
 三位一体	san wei yi ti	9580
+杭	hang	9570
 产量	chan liang	9570
 产需	chan xu	9570
 亨通	heng tong	9570
@@ -4845,11 +4916,11 @@ use_preset_vocabulary: false
 仅有	jin you	9020
 仅只	jin zhi	9020
 乐天派	le tian pai	9020
+蔬	shu	9010
 仅此	jin ci	9010
 仅见	jin jian	9010
 仆人	pu ren	9010
 上当受骗	shang dang shou pian	9010
-蔬	shu	9000
 仆从	pu cong	9000
 仆妇	pu fu	9000
 上当学乖	shang dang xue guai	9000
@@ -5088,13 +5159,13 @@ use_preset_vocabulary: false
 不值一驳	bu zhi yi bo	8460
 不值一顾	bu zhi yi gu	8460
 不值一钱	bu zhi yi qian	8460
-厦	sha	8450
 了望台	liao wang tai	8450
 不偢不倸	bu chou bu cai	8450
 不假思索	bu jia si suo	8450
 不偏不党	bu pian bu dang	8450
 不偏不倚	bu pian bu yi	8450
 不做不休	bu zuo bu xiu	8450
+厦	sha	8440
 不僧不俗	bu seng bu su	8440
 不共戴天	bu gong dai tian	8430
 不关痛痒	bu guan tong yang	8430
@@ -5147,7 +5218,6 @@ use_preset_vocabulary: false
 不可企及	bu ke qi ji	8320
 不可乡迩	bu ke xiang er	8320
 不可一世	bu ke yi shi	8320
-歉	qian	8310
 仰天	yang tian	8310
 仰卧	yang wo	8310
 二传手	er chuan shou	8310
@@ -5166,6 +5236,7 @@ use_preset_vocabulary: false
 不可抗力	bu ke kang li	8300
 不可奈何	bu ke nai he	8300
 不可思议	bu ke si yi	8300
+歉	qian	8290
 仰脖	yang bo	8290
 仰给	yang ji	8290
 仰望	yang wang	8290
@@ -5255,7 +5326,6 @@ use_preset_vocabulary: false
 任意	ren yi	8190
 不因不由	bu yin bu you	8190
 不因人热	bu yin ren re	8190
-右	you	8180
 任课	ren ke	8180
 任脉	ren mai	8180
 任期	ren qi	8180
@@ -5277,6 +5347,7 @@ use_preset_vocabulary: false
 不声不响	bu sheng bu xiang	8160
 不壹而三	bu yi er san	8160
 不壹而足	bu yi er zu	8160
+右	you	8150
 份地	fen di	8150
 份儿	fen er	8150
 份子	fen zi	8150
@@ -5311,7 +5382,6 @@ use_preset_vocabulary: false
 不安于位	bu an yu wei	8100
 不宁唯是	bu ning wei shi	8100
 不学无识	bu xue wu shi	8100
-戚	qi	8090
 伏地	fu di	8090
 伏瘕	fu jia	8090
 伏帖	fu tie	8090
@@ -5321,6 +5391,7 @@ use_preset_vocabulary: false
 不容分说	bu rong fen shuo	8080
 不实之词	bu shi zhi ci	8080
 不宣而战	bu xuan er zhan	8080
+戚	qi	8070
 休会	xiu hui	8070
 休书	xiu shu	8070
 休业	xiu ye	8070
@@ -5341,6 +5412,7 @@ use_preset_vocabulary: false
 五一节	wu yi jie	8050
 不屈不挠	bu qu bu nao	8050
 不屑一读	bu xie yi du	8050
+浩	hao	8040
 休宁	xiu ning	8040
 休憩	xiu qi	8040
 休息	xiu xi	8040
@@ -5524,7 +5596,6 @@ use_preset_vocabulary: false
 不时之须	bu shi zhi xu	7770
 不时之需	bu shi zhi xu	7770
 不易一字	bu yi yi zi	7770
-姨	yi	7760
 会餐	hui can	7760
 会风	hui feng	7760
 会馆	hui guan	7760
@@ -5543,6 +5614,7 @@ use_preset_vocabulary: false
 交响乐	jiao xiang yue	7750
 交响曲	jiao xiang qu	7750
 交响诗	jiao xiang shi	7750
+姨	yi	7740
 传世	chuan shi	7740
 伟大	wei da	7740
 伟论	wei lun	7740
@@ -5605,7 +5677,6 @@ use_preset_vocabulary: false
 不测之祸	bu ce zhi huo	7670
 不测之忧	bu ce zhi you	7670
 不测之罪	bu ce zhi zui	7670
-秒	miao	7660
 传播	chuan bo	7660
 传抄	chuan chao	7660
 传技	chuan ji	7660
@@ -5618,6 +5689,7 @@ use_preset_vocabulary: false
 不牧之地	bu mu zhi di	7650
 不爽毫发	bu shuang hao fa	7650
 不爽累黍	bu shuang lei shu	7650
+秒	miao	7640
 传染	chuan ran	7640
 传热	chuan re	7640
 京片子	jing pian zi	7640
@@ -5896,7 +5968,6 @@ use_preset_vocabulary: false
 不识起倒	bu shi qi dao	7280
 不识时务	bu shi shi wu	7280
 不识泰山	bu shi tai shan	7280
-粘	zhan	7270
 住处	zhu chu	7270
 住地	zhu di	7270
 住家	zhu jia	7270
@@ -5914,7 +5985,7 @@ use_preset_vocabulary: false
 不负重望	bu fu zhong wang	7260
 不赏之功	bu shang zhi gong	7260
 不贪为宝	bu tan wei bao	7260
-聘	pin	7250
+粘	zhan	7250
 体会	ti hui	7250
 体例	ti li	7250
 体内	ti nei	7250
@@ -5925,6 +5996,7 @@ use_preset_vocabulary: false
 不越雷池	bu yue lei chi	7250
 不赞一词	bu zan yi ci	7250
 不足为凭	bu zu wei ping	7250
+聘	pin	7240
 体力	ti li	7240
 体味	ti wei	7240
 不足为法	bu zu wei fa	7240
@@ -5938,8 +6010,6 @@ use_preset_vocabulary: false
 不足挂齿	bu zu gua chi	7230
 不足介意	bu zu jie yi	7230
 不足轻重	bu zu qing zhong	7230
-删	shan	7220
-匙	shi	7220
 体察	ti cha	7220
 体尝	ti chang	7220
 体己	ti ji	7220
@@ -5950,6 +6020,8 @@ use_preset_vocabulary: false
 不轨之徒	bu gui zhi tu	7220
 不辟斧钺	bu bi fu yue	7220
 不轻然诺	bu qing ran nuo	7220
+删	shan	7210
+匙	shi	7210
 体念	ti nian	7210
 体态	ti tai	7210
 体形	ti xing	7210
@@ -6050,7 +6122,6 @@ use_preset_vocabulary: false
 不食周粟	bu shi zhou su	7100
 不饮盗泉	bu yin dao quan	7100
 一字长蛇阵	yi zi chang she zhen	7100
-钥	yao	7090
 何处	he chu	7090
 何况	he kuang	7090
 何如	he ru	7090
@@ -6060,6 +6131,7 @@ use_preset_vocabulary: false
 与世俯仰	yu shi fu yang	7090
 与世推移	yu shi tui yi	7090
 与世偃仰	yu shi yan yang	7090
+钥	yao	7080
 何必	he bi	7080
 何尝	he chang	7080
 何妨	he fang	7080
@@ -6123,9 +6195,9 @@ use_preset_vocabulary: false
 专科学校	zhuan ke xue xiao	7000
 专栏作家	zhuan lan zuo jia	7000
 专欲难成	zhuan yu nan cheng	7000
-裹	guo	6990
 佚文	yi wen	6990
 专精覃思	zhuan jing tan si	6990
+裹	guo	6980
 且食蛤蜊	qie shi ha li	6980
 且住为佳	qie zhu wei jia	6980
 世俗之见	shi su zhi jian	6970
@@ -6151,15 +6223,15 @@ use_preset_vocabulary: false
 东冲西撞	dong chong xi zhuang	6930
 东倒西歪	dong dao xi wai	6930
 东京大学	dong jing da xue	6930
-寸	cun	6920
 东劳西燕	dong lao xi yan	6920
 东南之宝	dong nan zhi bao	6920
 东南之秀	dong nan zhi xiu	6920
-链	lian	6910
+寸	cun	6910
 东南半壁	dong nan ban bi	6910
 东南雀飞	dong nan que fei	6910
 东南之美	dong nan zhi mei	6910
 东南竹箭	dong nan zhu jian	6910
+链	lian	6900
 东奔西窜	dong ben xi cuan	6900
 东奔西向	dong ben xi xiang	6900
 东奔西撞	dong ben xi zhuang	6900
@@ -6178,7 +6250,7 @@ use_preset_vocabulary: false
 作别	zuo bie	6880
 作呕	zuo ou	6880
 东扯西拉	dong che xi la	6880
-东扯西拽	dong che xi zhu ai	6880
+东扯西拽	dong che xi zhuai	6880
 东床姣婿	dong chuang jiao xu	6880
 东床择对	dong chuang ze dui	6880
 东扶西倒	dong fu xi dao	6880
@@ -6232,12 +6304,12 @@ use_preset_vocabulary: false
 东量西折	dong liang xi she	6820
 东零西落	dong ling xi luo	6820
 东零西散	dong ling xi san	6820
-屏	ping	6810
 东风浩荡	dong feng hao dang	6810
 东风化雨	dong feng hua yu	6810
 东风人面	dong feng ren mian	6810
 东风入律	dong feng ru lu	6810
 一时半会儿	yi shi ban hui er	6810
+屏	ping	6800
 佩服	pei fu	6800
 佣工	yong gong	6800
 佣金	yong jin	6800
@@ -6256,7 +6328,7 @@ use_preset_vocabulary: false
 佯作	yang zuo	6790
 丢三拉四	diu san la si	6790
 丢三落四	diu san la si	6790
-丝恩发怨	si e n fa yuan	6790
+丝恩发怨	si en fa yuan	6790
 佳节	jia jie	6780
 佳句	jia ju	6780
 佳期	jia qi	6780
@@ -6394,6 +6466,7 @@ use_preset_vocabulary: false
 侧影	ce ying	6550
 侧枝	ce zhi	6550
 任意球	ren yi qiu	6550
+驿	yi	6540
 侧根	ce gen	6540
 侧目	ce mu	6540
 侧歪	zhai wai	6540
@@ -6417,6 +6490,7 @@ use_preset_vocabulary: false
 份儿饭	fen er fan	6520
 中心摇摇	zhong xin yao yao	6520
 中庸之道	zhong yong zhi dao	6520
+迭	die	6510
 侧面	ce mian	6510
 侨领	qiao ling	6510
 侨商	qiao shang	6510
@@ -6625,6 +6699,7 @@ use_preset_vocabulary: false
 会计师	kuai ji shi	6240
 会议室	hui yi shi	6240
 主创人员	zhu chuang ren yuan	6240
+阖	he	6230
 信封	xin feng	6230
 信女	xin nu	6230
 信实	xin shi	6230
@@ -6743,7 +6818,7 @@ use_preset_vocabulary: false
 义正词严	yi zheng ci yan	6090
 义正辞严	yi zheng ci yan	6090
 义正辞约	yi zheng ci yue	6090
-义重恩深	yi zhong e n shen	6090
+义重恩深	yi zhong en shen	6090
 俯冲	fu chong	6080
 传记片	zhuan ji pian	6080
 乌合之众	wu he zhi zhong	6080
@@ -7010,7 +7085,7 @@ use_preset_vocabulary: false
 二次曲线	er ci qu xian	5530
 二十八宿	er shi ba xiu	5530
 二姓之好	er xing zhi hao	5530
-二竖为虐	er shu wei nv e	5520
+二竖为虐	er shu wei nve	5520
 二氧化硅	er yang hua gui	5520
 二氧化硫	er yang hua liu	5520
 二氧化锰	er yang hua meng	5520
@@ -7022,16 +7097,17 @@ use_preset_vocabulary: false
 于安思危	yuan si wei	5500
 于家为国	yu jia wei guo	5500
 于今为烈	yu jin wei lie	5500
-聊	liao	5490
 亏心短行	kui xin duan xing	5490
 于飞之乐	yu fei zhi le	5490
 于心何忍	yu xin he ren	5490
+聊	liao	5480
 云冈石窟	yun gang shi ku	5480
 云交雨合	yun jiao yu he	5480
 云净天空	yun jing tian kong	5480
 云兴霞蔚	yun xing xia wei	5480
 云中白鹤	yun zhong bai he	5480
 云中仙鹤	yun zhong xian he	5480
+莞	guan	5470
 云合景从	yun he jing cong	5470
 云合雾集	yun he wu ji	5470
 云合响应	yun he xiang ying	5470
@@ -7158,7 +7234,6 @@ use_preset_vocabulary: false
 五行俱下	wu xing ju xia	5300
 五行生克	wu xing sheng ke	5300
 五虚六耗	wu xu liu hao	5300
-锡	xi	5290
 五车腹笥	wu che fu si	5290
 五谷不分	wu gu bu fen	5290
 五谷不升	wu gu bu sheng	5290
@@ -7167,6 +7242,7 @@ use_preset_vocabulary: false
 五里雾中	wu li wu zhong	5290
 五言绝句	wu yan jue ju	5290
 五言长城	wu yan chang cheng	5290
+锡	xi	5280
 供销社	gong xiao she	5280
 五雷轰顶	wu lei hong ding	5280
 五陵年少	wu ling nian shao	5280
@@ -7516,6 +7592,7 @@ use_preset_vocabulary: false
 令人注目	ling ren zhu mu	4610
 令人作呕	ling ren zuo ou	4610
 一蟹不如一蟹	yi xie bu ru yi xie	4610
+馈	kui	4600
 令人齿冷	ling ren chi leng	4600
 令人莫测	ling ren mo ce	4600
 令人起敬	ling ren qi jing	4600
@@ -7534,6 +7611,7 @@ use_preset_vocabulary: false
 以书为御	yi shu wei yu	4570
 以为后图	yi wei hou tu	4570
 以一知万	yi yi zhi wan	4570
+浦	pu	4560
 以功补过	yi gong bu guo	4560
 以冠补履	yi guan bu lu	4560
 以假乱真	yi jia luan zhen	4560
@@ -7613,7 +7691,7 @@ use_preset_vocabulary: false
 以羊易牛	yi yang yi niu	4480
 以紫乱朱	yi zi luan zhu	4480
 以诚相待	yi cheng xiang dai	4470
-以讹传讹	yi e chuan e	4470
+以讹传讹	yi e chua ne	4470
 以身许国	yi shen xu guo	4470
 以誉进能	yi yu jin neng	4470
 以誉为赏	yi yu wei shang	4470
@@ -8047,6 +8125,7 @@ use_preset_vocabulary: false
 人心隔肚皮	ren xin ge du pi	3080
 人民大会堂	ren min da hui tang	3060
 一把钥匙开一把锁	yi ba yao shi kai yi ba suo	3060
+栖	qi	3050
 人生路不熟	ren sheng lu bu shu	3050
 人生面不熟	ren sheng mian bu shu	3050
 人生如朝露	ren sheng ru zhao lu	3050
@@ -8067,24 +8146,32 @@ use_preset_vocabulary: false
 叉	cha	2880
 愧	kui	2870
 轨	gui	2860
+撮	cuo	2820
 丹之所藏者赤	dan zhi suo cang zhe chi	2820
 一钱不落虚空地	yi qian bu luo xu kong di	2820
 疏	shu	2810
 为五斗米折腰	wei wu dou mi zhe yao	2810
+隅	yu	2790
 七次量衣一次裁	qi ci liang yi yi ci cai	2770
+鳞	lin	2760
 乞	qi	2760
 哄	hong	2750
 亭	ting	2750
 主观唯心主义	zhu guan wei xin zhu yi	2750
 万丈高楼平地起	wan zhang gao lou ping di qi	2750
+遑	huang	2740
+讳	hui	2740
+帖	tie	2700
 夕	xi	2700
 乌头白马生角	wu tou bai ma sheng jiao	2700
+屯	tun	2670
 三句话不离本行	san ju hua bu li ben hang	2650
 伐	fa	2640
 颠	dian	2630
 俏	qiao	2630
 耻	chi	2620
 眷	juan	2620
+鼎	ding	2580
 九鼎不足为重	jiu ding bu zu wei zhong	2570
 三过其门而不入	san guo qi men er bu ru	2570
 仓	cang	2530
@@ -8096,6 +8183,7 @@ use_preset_vocabulary: false
 上梁不正下梁歪	shang liang bu zheng xia liang wai	2480
 爪	zhao	2470
 匹	pi	2460
+渊	yuan	2460
 俭	jian	2450
 二者不可得兼	er zhe bu ke de jian	2450
 亟	ji	2440
@@ -8107,9 +8195,11 @@ use_preset_vocabulary: false
 侄	zhi	2400
 不为五斗米折腰	bu wei wu dou mi zhe yao	2390
 佞	ning	2380
+贤	xian	2380
 氧	yang	2380
 何乐而不为	he le er bu wei	2370
 不以一眚掩大德	bu yi yi sheng yan da de	2370
+歹	dai	2360
 倡	chang	2350
 陵	ling	2350
 肖	xiao	2350
@@ -8119,6 +8209,7 @@ use_preset_vocabulary: false
 不到黄河心不死	bu dao huang he xin bu si	2330
 不到长城非好汉	bu dao chang cheng fei hao han	2330
 柜	gui	2320
+恤	xu	2270
 你们自己的	ni men zi ji de	2270
 狐	hu	2260
 熏	xun	2260
@@ -8131,6 +8222,7 @@ use_preset_vocabulary: false
 供旅客休息	gong lu ke xiu xi	2220
 人不可以貌相	ren bu ke yi mao xiang	2220
 人不知鬼不觉	ren bu zhi gui bu jue	2220
+逞	cheng	2210
 愚	yu	2210
 人人得而诛之	ren ren de er zhu zhi	2210
 卑	bei	2200
@@ -8141,11 +8233,13 @@ use_preset_vocabulary: false
 供销合作社	gong xiao he zuo she	2200
 人民代表大会	ren min dai biao da hui	2180
 人民内部矛盾	ren min nei bu mao dun	2180
+蹴	cu	2170
 浆	jiang	2170
 侯门深似海	hou men shen si hai	2170
 不敢越雷池一步	bu gan yue lei chi yi bu	2170
 锅	guo	2160
 亨	heng	2160
+泻	xie	2160
 人造地球卫星	ren zao di qiu wei xing	2160
 不是冤家不聚头	bu shi yuan jia bu ju tou	2160
 扯	che	2150
@@ -8153,6 +8247,7 @@ use_preset_vocabulary: false
 卯	mao	2150
 爽	shuang	2150
 卧	wo	2150
+挠	nao	2130
 冻	dong	2120
 羁	ji	2120
 疆	jiang	2120
@@ -8166,6 +8261,7 @@ use_preset_vocabulary: false
 愁	chou	2080
 佃	dian	2080
 不管三七二十一	bu guan san qi er shi yi	2080
+擒	qin	2060
 信用合作社	xin yong he zuo she	2060
 不能登大雅之堂	bu neng deng da ya zhi tang	2060
 呵	he	2050
@@ -8174,8 +8270,10 @@ use_preset_vocabulary: false
 拾	shi	2040
 不见棺材不落泪	bu jian guan cai bu luo lei	2040
 不见棺材不下泪	bu jian guan cai bu xia lei	2040
+伽	ga	2030
 胶	jiao	2030
 不识人间有羞耻事	bu shi ren jian you xiu chi shi	2030
+辍	chuo	2020
 忿	fen	2020
 圭	gui	2020
 爪	zhua	2020
@@ -8186,8 +8284,12 @@ use_preset_vocabulary: false
 耕	geng	1980
 丫	ya	1980
 皂	zao	1980
+沓	da	1960
+踵	zhong	1960
 丑媳妇总得见公婆	chou xi fu zong de jian gong po	1960
 亥	hai	1950
+楷	kai	1950
+谕	yu	1950
 丸	wan	1940
 啻	chi	1930
 粪	fen	1930
@@ -8198,6 +8300,7 @@ use_preset_vocabulary: false
 东方不亮西方亮	dong fang bu liang xi fang liang	1910
 壶	hu	1900
 聋	long	1900
+黍	shu	1900
 筒	tong	1900
 喻	yu	1900
 揪	jiu	1880
@@ -8205,17 +8308,23 @@ use_preset_vocabulary: false
 妨	fang	1870
 乙	yi	1870
 帆	fan	1860
+貉	hao	1860
 蜡	la	1860
 枚	mei	1860
+俟	qi	1860
 祸	huo	1850
+棱	leng	1850
+暇	xia	1850
 奄	yan	1850
 怔	zheng	1850
 谅	liang	1840
 卵	luan	1840
+婿	xu	1840
 晃	huang	1830
 中华人民共和国	zhong hua ren min gong he guo	1830
 臭	chou	1820
 亢	kang	1820
+虞	yu	1820
 葬	zang	1820
 滋	zi	1820
 中国民主促进会	zhong guo min zhu cu jin hui	1820
@@ -8224,6 +8333,7 @@ use_preset_vocabulary: false
 中国国际广播电台	zhong guo guo ji guang bo dian tai	1820
 中国科学技术大学	zhong guo ke xue ji shu da xue	1820
 畜	chu	1810
+偻	lou	1810
 弦	xian	1810
 辨	bian	1800
 菽	shu	1800
@@ -8232,6 +8342,7 @@ use_preset_vocabulary: false
 传闻不如亲见	chuan wen bu ru qin jian	1790
 朽	xiu	1780
 痕	hen	1770
+蹶	jue	1770
 纶	lun	1770
 窍	qiao	1770
 丘	qiu	1770
@@ -8242,8 +8353,11 @@ use_preset_vocabulary: false
 伸手不见五指	shen shou bu jian wu zhi	1760
 缕	lu	1750
 辱	ru	1750
+讹	e	1730
 吭	keng	1730
 睽	kui	1720
+鹏	peng	1720
+迢	tiao	1720
 悠	you	1720
 缝	feng	1710
 添	tian	1710
@@ -8251,6 +8365,7 @@ use_preset_vocabulary: false
 肱	gong	1700
 饱	bao	1690
 肠	chang	1690
+沐	mu	1690
 硕	shuo	1690
 轴	zhou	1690
 缁	zi	1690
@@ -8263,54 +8378,75 @@ use_preset_vocabulary: false
 钞	chao	1670
 唇	chun	1670
 吊	diao	1670
+渎	du	1670
 坟	fen	1670
 棋	qi	1670
 侨	qiao	1670
 矢	shi	1670
+谄	chan	1660
 苛	ke	1660
 梢	shao	1660
+尉	wei	1660
 篮	lan	1650
+溯	su	1650
+瘾	yin	1650
 涨	zhang	1650
 膘	biao	1640
 揣	chuai	1640
 簇	cu	1640
 肚	du	1640
 钩	gou	1640
+鹤	he	1640
 饥	ji	1640
+戟	ji	1640
 缴	jiao	1640
+履	lu	1640
+闩	shuan	1640
 膛	tang	1640
 拨	bo	1630
+颚	e	1630
 匡	kuang	1630
 咽	yan	1630
 乍	zha	1630
+颌	he	1620
 僧	seng	1620
 渗	shen	1620
 泄	xie	1620
 逢	feng	1610
 臼	jiu	1610
+爵	jue	1610
+弊	bi	1600
 咄	duo	1600
 乜	mie	1600
+挪	nuo	1600
 姿	zi	1600
 醉	zui	1600
 使出浑身解数	shi chu hun shen xie shu	1600
 使功不如使过	shi gong bu ru shi guo	1600
+迩	er	1590
 锦	jin	1590
 捉	zhuo	1590
 览	lan	1580
+乾	qian	1570
 躯	qu	1570
 碳	tan	1570
 妥	tuo	1570
+孝	xiao	1570
 壹	yi	1570
+孕	yun	1570
 竿	gan	1560
 厘	li	1560
+寐	mei	1560
 刹	sha	1560
 僮	tong	1560
 佯	yang	1560
+逸	yi	1560
 昧	mei	1550
 惟	wei	1550
 悦	yue	1550
 窜	cuan	1540
 劫	jie	1540
+懈	xie	1540
 二万五千里长征	er wan wu qian li chang zheng	1540
 睬	cai	1530
 枉	wang	1530
@@ -8320,23 +8456,32 @@ use_preset_vocabulary: false
 亘	gen	1510
 伞	san	1510
 蛙	wa	1510
+渝	yu	1510
+掊	pou	1500
 祧	tiao	1500
 羞	xiu	1500
 倚	yi	1500
 榜	bang	1490
+杓	biao	1490
 畜	xu	1490
+蔓	man	1490
 仕	shi	1490
 摊	tan	1490
 五一国际劳动节	wu yi guo ji lao dong jie	1490
 蒸	zheng	1480
 斧	fu	1470
 拳	quan	1470
+遂	sui	1470
 窝	wo	1470
+瑕	xia	1470
 泳	yong	1470
+钺	yue	1470
 拱	gong	1460
 佝	gou	1460
 瞽	gu	1460
 艘	sou	1460
+韪	wei	1460
+蟹	xie	1460
 霎	sha	1440
 驮	tuo	1440
 霞	xia	1440
@@ -8346,14 +8491,23 @@ use_preset_vocabulary: false
 豆	dou	1420
 睹	du	1420
 棉	mian	1420
+鬓	bin	1410
 锭	ding	1410
+杈	cha	1400
+藉	ji	1400
+璧	bi	1390
 稻	dao	1390
+幡	fan	1390
+牟	mou	1390
 扭	niu	1390
 暑	shu	1390
+靶	ba	1380
 绰	chuo	1380
 肌	ji	1380
+堇	jin	1380
 翩	pian	1380
 紊	wen	1380
+赠	zeng	1380
 啥	sha	1370
 人心不足蛇吞象	ren xin bu zu she tun xiang	1370
 晌	shang	1360
@@ -8362,6 +8516,7 @@ use_preset_vocabulary: false
 祭	ji	1350
 冤	yuan	1350
 蛤	ha	1340
+钧	jun	1340
 俚	li	1340
 囊	nang	1340
 喏	nuo	1340
@@ -8371,31 +8526,46 @@ use_preset_vocabulary: false
 咽	ye	1340
 舟	zhou	1340
 笺	jian	1330
+颏	ke	1330
 夔	kui	1330
 俎	zu	1330
 今朝有酒今朝醉	jin zhao you jiu jin zhao zui	1330
 今日有酒今日醉	jin ri you jiu jin ri zui	1330
 扮	ban	1320
+谱	pu	1320
+赦	she	1320
 毅	yi	1320
 佬	lao	1310
+幂	mi	1310
+痴	chi	1300
 醋	cu	1300
+抔	pou	1300
 舌	she	1300
 掷	zhi	1300
 芥	jie	1290
+柯	ke	1290
 糜	mi	1290
+暝	ming	1290
+曝	pu	1290
+寺	si	1290
 诵	song	1290
+榻	ta	1290
 胥	xu	1290
+涯	ya	1290
 垠	yin	1290
 晕	yun	1290
 枕	zhen	1290
+诛	zhu	1290
 饼	bing	1280
 吵	chao	1280
 吼	hou	1280
 呕	ou	1280
 惹	re	1280
 刹	cha	1280
+昙	tan	1280
 汪	wang	1280
 艳	yan	1280
+掖	ye	1280
 莸	you	1280
 傍	bang	1270
 秉	bing	1270
@@ -8406,6 +8576,7 @@ use_preset_vocabulary: false
 煞	sha	1270
 哑	ya	1270
 砖	zhuan	1270
+飙	biao	1260
 雌	ci	1260
 悔	hui	1260
 溃	kui	1260
@@ -8415,76 +8586,131 @@ use_preset_vocabulary: false
 侏	zhu	1260
 肤	fu	1250
 芒	mang	1250
+祇	qi	1250
+邱	qiu	1250
 瓣	ban	1240
 啷	lang	1240
 翘	qiao	1240
 凿	zao	1240
 蟆	ma	1230
 禽	qin	1230
+裘	qiu	1230
+渫	xie	1230
 炭	tan	1220
 睚	ya	1220
 猿	yuan	1220
 眦	zi	1220
+拗	ao	1210
 亩	mu	1210
+烷	wan	1210
 喑	yin	1210
+岔	cha	1200
 膏	gao	1200
 嫁	jia	1200
 聆	ling	1200
+昵	ni	1200
 妾	qie	1200
 怯	qie	1200
+亹	wei	1200
 吻	wen	1200
+徙	xi	1200
 亵	xie	1200
 槽	cao	1190
+衩	cha	1190
 梗	geng	1190
 缄	jian	1190
 裤	ku	1190
+愆	qian	1190
 携	xie	1190
 锈	xiu	1190
 蚁	yi	1190
+菹	ju	1190
 众人拾柴火焰高	zhong ren shi chai huo yan gao	1190
+嫉	ji	1180
+嫚	man	1180
 卸	xie	1170
+溢	yi	1170
+烝	zheng	1170
+蹿	cuan	1160
+掇	duo	1160
 瓜	gua	1160
+戎	rong	1160
+诈	zha	1160
 棒	bang	1150
 酬	chou	1150
 棍	gun	1150
+蛟	jiao	1150
+颉	jie	1150
 叛	pan	1150
 泣	qi	1150
+嫒	ai	1140
 脾	pi	1140
 饶	rao	1140
 胃	wei	1140
+鲟	xun	1140
+媛	yuan	1140
 驳	bo	1130
 沸	fei	1130
 颈	jing	1130
 劣	lie	1130
 哂	shen	1130
 沃	wo	1130
+轩	xuan	1130
+畛	zhen	1130
+轾	zhi	1130
+赐	ci	1120
 棺	guan	1120
 哼	heng	1120
+诘	ji	1120
 咎	jiu	1120
+揆	kui	1120
 茹	ru	1120
 咸	xian	1120
+镒	yi	1120
+逾	yu	1120
+铢	zhu	1120
 脖	bo	1110
 哺	bu	1110
 寡	gua	1110
 喙	hui	1110
+栗	li	1110
 慕	mu	1110
 仳	pi	1110
 渠	qu	1110
 夷	yi	1110
+韵	yun	1110
+尬	ga	1100
+尴	gan	1100
+诲	hui	1100
 伎	ji	1100
+瘕	jia	1100
+蓍	shi	1100
+徇	xun	1100
+忮	zhi	1100
+悱	fei	1090
 掠	lve	1090
 眠	mian	1090
 攀	pan	1090
+憩	qi	1090
+骛	wu	1090
+怍	zuo	1090
+徽	hui	1080
 剿	jiao	1080
 纱	sha	1080
 偎	wei	1080
+晤	wu	1080
+栉	zhi	1080
 柄	bing	1070
 瞅	chou	1070
 厝	cuo	1070
 唤	huan	1070
 寞	mo	1070
+寝	qin	1070
+瘟	wen	1070
 伛	yu	1070
 遮	zhe	1070
+褒	bao	1060
+贬	bian	1060
 簿	bu	1060
 抄	chao	1060
 闺	gui	1060
@@ -8494,6 +8720,7 @@ use_preset_vocabulary: false
 磷	lin	1060
 穑	se	1060
 習	xi	1060
+霄	xiao	1060
 莠	you	1060
 盏	zhan	1060
 兆	zhao	1060
@@ -8508,55 +8735,84 @@ use_preset_vocabulary: false
 卜	bo	1040
 萝	luo	1040
 庙	miao	1040
+螟	ming	1040
 辟	pi	1040
 贪	tan	1040
+忤	wu	1030
 偕	xie	1030
 偃	yan	1030
 佑	you	1030
 躁	zao	1030
 佐	zuo	1030
+跋	ba	1020
 糕	gao	1020
+扈	hu	1020
 峻	jun	1020
 栏	lan	1020
+蜊	li	1020
 廉	lian	1020
 腔	qiang	1020
+覃	tan	1020
 癣	xuan	1020
 挨	ai	1010
-浩	hao	1010
+橱	chu	1010
 姣	jiao	1010
+颦	pin	1010
 泊	po	1010
+觑	qu	1010
+朔	shuo	1010
+踅	xue	1010
+殃	yang	1010
+拽	zhuai	1010
+撙	zun	1010
 惩	cheng	1000
+殆	dai	1000
 饿	e	1000
+龛	kan	1000
+肋	le	1000
 隶	li	1000
+陀	tuo	1000
 穴	xue	1000
 坊	fang	990
 佼	jiao	990
+褥	ru	990
 佻	tiao	990
 砥	di	980
 侗	dong	980
+痪	huan	980
+楫	ji	980
 侉	kua	980
+瘫	tan	980
 冶	ye	980
 庸	yong	980
 豫	yu	980
+蔀	bu	970
 缉	ji	970
 侥	jiao	970
 捐	juan	970
 篑	kui	970
 铅	qian	970
+慑	she	970
+潼	tong	970
 崖	ya	970
 铸	zhu	970
+嬖	bi	960
 伥	chang	960
 摧	cui	960
 傅	fu	960
+虺	hui	960
 箕	ji	960
 捷	jie	960
+悛	quan	960
 桶	tong	960
 芽	ya	960
 轧	ya	960
 宴	yan	960
+蜮	yu	960
 俘	fu	950
 俊	jun	950
 俐	li	950
+溺	ni	950
 葩	pa	950
 盆	pen	950
 裙	qun	950
@@ -8564,9 +8820,12 @@ use_preset_vocabulary: false
 芜	wu	950
 悬	xuan	950
 膺	ying	950
+藻	zao	950
 浊	zhuo	950
+仡	ge	940
 嗟	jie	940
 疲	pi	940
+蜀	shu	940
 俞	yu	940
 捣	dao	930
 蹈	dao	930
@@ -8575,11 +8834,18 @@ use_preset_vocabulary: false
 笠	li	930
 谬	miu	930
 僻	pi	930
+巇	xi	930
+淫	yin	930
+札	zha	930
 妆	zhuang	930
 缠	chan	920
 垓	gai	920
 跨	kua	920
+鸾	luan	920
 朴	pu	920
+埏	shan	920
+焉	yan	920
+椟	du	910
 砍	kan	910
 坤	kun	910
 滥	lan	910
@@ -8590,54 +8856,96 @@ use_preset_vocabulary: false
 硅	gui	900
 斤	jin	900
 硫	liu	900
+锰	meng	900
+虐	nve	900
 妍	yan	900
 赴	fu	890
 覆	fu	890
 冈	gang	890
 槛	kan	890
 窟	ku	890
+暮	mu	890
+洽	qia	890
+轫	ren	890
+蔚	wei	890
+鹜	wu	890
 罩	zhao	890
 绑	bang	880
 剥	bo	880
+疮	chuang	880
+焚	fen	880
 腑	fu	880
 羖	gu	880
 脊	ji	880
+诿	wei	880
+巫	wu	880
+鹢	yi	880
 蕴	yun	880
 烛	zhu	880
 叠	die	870
+跬	kui	870
 笥	si	870
 虾	xia	870
 墟	xu	870
+镞	zu	870
 嘉	jia	860
 眚	sheng	860
+豕	shi	860
 兹	zi	860
 旱	han	850
 贱	jian	850
 辟	bi	850
 旺	wang	850
+卬	ang	840
+瘁	cui	840
+涣	huan	840
+骥	ji	840
+骐	qi	840
+阙	que	840
 狮	shi	840
 纬	wei	840
 宅	zhai	840
 泊	bo	830
 嘶	si	830
 畏	wei	830
+昔	xi	830
 纤	xian	830
 蝉	chan	820
+柑	gan	820
+谏	jian	820
 壳	ke	820
+靡	mi	820
+蜕	tui	820
+犊	du	810
 葛	ge	810
+炬	ju	810
 捧	peng	810
+琼	qiong	810
 瞩	zhu	810
 蛾	e	800
 岗	gang	800
+阍	hun	800
 奸	jian	800
 侃	kan	800
 渴	ke	800
 沫	mo	800
 筌	quan	800
+濡	ru	800
+酲	cheng	790
 睫	jie	790
+蠡	li	790
+庐	lu	790
 弥	mi	790
+郄	qie	790
 窃	qie	790
+韶	shao	790
+螳	tang	790
+瑱	zhen	790
 唾	tuo	790
+驭	yu	790
+锥	zhui	790
+徨	huang	780
+髓	sui	780
 揉	rou	770
 纭	yun	770
 啄	zhuo	770
@@ -8645,6 +8953,7 @@ use_preset_vocabulary: false
 帚	zhou	760
 堵	du	750
 扇	shan	750
+檄	xi	750
 篪	chi	740
 筋	jin	740
 漆	qi	740
@@ -8655,105 +8964,200 @@ use_preset_vocabulary: false
 搭	da	730
 媳	xi	730
 吟	yin	730
+雍	yong	730
+饔	yong	730
+斟	zhen	730
+酌	zhuo	730
 胀	zhang	720
 禅	chan	710
+馥	fu	710
 秽	hui	710
+贾	jia	710
 绮	qi	710
 哉	zai	710
+赘	zhui	710
 裳	shang	700
+闳	hong	690
 巾	jin	690
 侔	mou	690
 衍	yan	690
 翠	cui	680
 壳	qiao	680
+樽	zun	670
+拈	nian	660
 誓	shi	660
+豚	tun	660
 鸦	ya	660
 缰	jiang	650
 俨	yan	650
 吞	tun	630
 吖	ya	600
-啊	a	600
+锕	a	600
 哎	ai	600
+锿	ai	600
 皑	ai	600
 癌	ai	600
+毐	ai	600
+欸	ai	600
+嗳	ai	600
 矮	ai	600
 蔼	ai	600
 藹	ai	600
+霭	ai	600
 砹	ai	600
 隘	ai	600
+嗌	ai	600
 愛	ai	600
 叆	ai	600
+暧	ai	600
+瑷	ai	600
 礙	ai	600
 垵	an	600
+桉	an	600
 氨	an	600
+庵	an	600
+谙	an	600
 鹌	an	600
+鞍	an	600
 盦	an	600
 鵪	an	600
 俺	an	600
 唵	an	600
 埯	an	600
+铵	an	600
+犴	an	600
 胺	an	600
 黯	an	600
 肮	ang	600
 昂	ang	600
 盎	ang	600
+敖	ao	600
 嗷	ao	600
+嶅	ao	600
+廒	ao	600
+遨	ao	600
 熬	ao	600
+獒	ao	600
+璈	ao	600
 翱	ao	600
 聱	ao	600
+螯	ao	600
+鳌	ao	600
+鏖	ao	600
 袄	ao	600
+媪	ao	600
 襖	ao	600
+岙	ao	600
 坳	ao	600
 傲	ao	600
 奡	ao	600
+骜	ao	600
+隩	ao	600
+懊	ao	600
+薁	yu	600
+鏊	ao	600
 叭	ba	600
 扒	ba	600
+朳	ba	600
+岜	ba	600
 芭	ba	600
+疤	ba	600
+捌	ba	600
 笆	ba	600
 粑	ba	600
 羓	ba	600
+蚆	ba	600
+鲃	ba	600
 妭	ba	600
 胈	ba	600
 菝	ba	600
+魃	ba	600
+钯	ba	600
+鲅	ba	600
 罷	ba	600
 霸	ba	600
 壩	ba	600
+灞	ba	600
 掰	bai	600
 佰	bai	600
+捭	bai	600
 擺	bai	600
 敗	bai	600
 稗	bai	600
 扳	ban	600
+攽	ban	600
 颁	ban	600
+斑	ban	600
 頒	ban	600
+瘢	ban	600
+癍	ban	600
+阪	ban	600
 坂	ban	600
+昄	ban	600
+钣	ban	600
 拌	ban	600
 绊	ban	600
+柈	ban	600
+湴	ban	600
+靽	ban	600
 辦	ban	600
 梆	bang	600
+浜	bang	600
 幫	bang	600
 綁	bang	600
 膀	bang	600
+玤	bang	600
+蚌	bang	600
+谤	bang	600
 塝	bang	600
+搒	bang	600
 蒡	bang	600
 磅	bang	600
+镑	bang	600
+孢	bao	600
 苞	bao	600
+枹	bao	600
+煲	bao	600
+龅	bao	600
 雹	bao	600
+鸨	bao	600
 葆	bao	600
 飽	bao	600
+褓	bao	600
 寶	bao	600
 豹	bao	600
+趵	bao	600
 報	bao	600
+鲍	bao	600
+椑	bei	600
+鹎	bei	600
+孛	bei	600
 狈	bei	600
 貝	bei	600
+邶	bei	600
+钡	bei	600
+悖	bei	600
 狽	bei	600
 備	bei	600
+惫	bei	600
+棓	bang	600
+焙	bei	600
+琲	bei	600
 碚	bei	600
+蓓	bei	600
+褙	bei	600
+鞁	bei	600
 輩	bei	600
 糒	bei	600
-呗	bei	600
+鞴	bei	600
+鐾	bei	600
 唄	bei	600
+贲	ben	600
+栟	ben	600
+犇	ben	600
+锛	ben	600
 苯	ben	600
+畚	ben	600
 坋	ben	600
 坌	ben	600
 倴	ben	600
@@ -8762,12 +9166,20 @@ use_preset_vocabulary: false
 绷	beng	600
 嘣	beng	600
 甭	beng	600
+琫	beng	600
 繃	beng	600
 泵	beng	600
+迸	beng	600
+甏	beng	600
+镚	beng	600
 蹦	beng	600
+鲾	bi	600
 荸	bi	600
 匕	bi	600
+吡	bi	600
 妣	bi	600
+沘	bi	600
+芘	pi	600
 秕	bi	600
 俾	bi	600
 舭	bi	600
@@ -8775,140 +9187,298 @@ use_preset_vocabulary: false
 鄙	bi	600
 佖	bi	600
 坒	bi	600
+庇	bi	600
+诐	bi	600
+邲	bi	600
+咇	bie	600
+畀	bi	600
 苾	bi	600
 哔	bi	600
+毖	bi	600
+珌	bi	600
 荜	bi	600
+陛	bi	600
 毙	bi	600
+狴	bi	600
 畢	bi	600
+铋	bi	600
+婢	bi	600
+庳	bi	600
+敝	bi	600
 萆	bi	600
 閉	bi	600
+弼	bi	600
+愎	bi	600
 皕	bi	600
 筚	bi	600
+赑	bi	600
+滗	bi	600
 痹	bi	600
 痺	bi	600
+蓖	bi	600
+裨	bi	600
+跸	bi	600
 幣	bi	600
 箅	bi	600
 蔽	bi	600
+馝	bi	600
 篦	bi	600
+薜	bi	600
+觱	bi	600
 斃	bi	600
+濞	bi	600
+髀	bi	600
+襞	bi	600
 砭	bian	600
 笾	bian	600
+萹	bian	600
+煸	bian	600
 編	bian	600
 蝙	bian	600
+鳊	bian	600
 邊	bian	600
 匾	bian	600
 碥	bian	600
+褊	bian	600
 卞	bian	600
+弁	bian	600
+忭	bian	600
+抃	bian	600
+汴	bian	600
 苄	bian	600
+昪	bian	600
 辫	bian	600
 辮	bian	600
 辯	bian	600
 變	bian	600
+飑	biao	600
+骉	biao	600
+彪	biao	600
+幖	biao	600
+骠	biao	600
 標	biao	600
+熛	biao	600
+瘭	biao	600
+镖	biao	600
 儦	biao	600
+瀌	biao	600
+藨	biao	600
+镳	biao	600
+婊	biao	600
 脿	biao	600
+裱	biao	600
 俵	biao	600
+摽	biao	600
+鳔	biao	600
 憋	bie	600
+鳖	bie	600
 癿	qie	600
 別	bie	600
+蹩	bie	600
 瘪	bie	600
 癟	bie	600
+邠	bin	600
+玢	bin	600
+彬	bin	600
 傧	bin	600
+斌	bin	600
 滨	bin	600
 缤	bin	600
+槟	bin	600
 賓	bin	600
+镔	bin	600
+濒	bin	600
 濱	bin	600
+豳	bin	600
+摈	bin	600
+殡	bin	600
 膑	bin	600
+髌	bin	600
+邴	bing	600
+昺	bing	600
+炳	bing	600
+蛃	bing	600
 禀	bing	600
 餅	bing	600
+摒	bing	600
 剝	bo	600
+哱	bo	600
 砵	bo	600
+钵	bo	600
+饽	bo	600
 菠	bo	600
+嶓	bo	600
 撥	bo	600
+蕃	fan	600
+帛	bo	600
 亳	bo	600
+浡	bo	600
+袯	bo	600
+钹	bo	600
+铂	bo	600
 舶	bo	600
+渤	bo	600
+鹁	bo	600
 搏	bo	600
+鲌	ba	600
 僰	bo	600
 箔	bo	600
 膊	bo	600
 駁	bo	600
+踣	bo	600
+镈	bo	600
+馞	bo	600
+欂	bo	600
 礴	bo	600
 跛	bo	600
 簸	bo	600
+擘	bai	600
+檗	bo	600
+啵	bo	600
+逋	bu	600
+晡	bu	600
+醭	bu	600
 卟	bu	600
 補	bu	600
 怖	bu	600
+钚	bu	600
 埔	pu	600
 埗	bu	600
 埠	bu	600
+瓿	bu	600
 嚓	ca	600
 偲	cai	600
 財	cai	600
 踩	cai	600
+蔡	cai	600
 參	can	600
+骖	can	600
 蚕	can	600
 惭	can	600
 殘	can	600
 慚	can	600
 蠶	can	600
+䅟	can	600
 慘	can	600
+黪	can	600
 灿	can	600
 粲	can	600
 燦	can	600
+璨	can	600
+沧	cang	600
+鸧	cang	600
 倉	cang	600
 舱	cang	600
 蒼	cang	600
 艙	cang	600
 糙	cao	600
 嘈	cao	600
+漕	cao	600
 艚	cao	600
+螬	cao	600
 冊	ce	600
 厕	ce	600
+恻	ce	600
 側	ce	600
 廁	ce	600
 測	ce	600
+岑	cen	600
+涔	cen	600
 噌	ceng	600
 層	ceng	600
+嶒	ceng	600
 蹭	ceng	600
+馇	cha	600
+锸	cha	600
 垞	cha	600
+嵖	cha	600
+搽	cha	600
+猹	cha	600
+槎	cha	600
 碴	cha	600
+檫	cha	600
+蹅	cha	600
+镲	cha	600
+汊	cha	600
 侘	cha	600
 诧	cha	600
 姹	cha	600
 詫	cha	600
 拆	chai	600
+钗	chai	600
 侪	chai	600
 柴	chai	600
 豺	chai	600
 茝	chai	600
+虿	chai	600
+瘥	chai	600
+辿	chan	600
+觇	chan	600
+梴	chan	600
+掺	can	600
 搀	chan	600
+襜	chan	600
 攙	chan	600
+婵	chan	600
+谗	chan	600
+孱	can	600
 馋	chan	600
+廛	chan	600
+潺	chan	600
+澶	chan	600
+镡	chan	600
+瀍	chan	600
 蟬	chan	600
 儳	chan	600
+蟾	chan	600
+巉	chan	600
 纏	chan	600
+躔	chan	600
+镵	chan	600
 饞	chan	600
+旵	chan	600
+浐	chan	600
+啴	chan	600
 產	chan	600
 铲	chan	600
 阐	chan	600
 蒇	chan	600
+骣	chan	600
 冁	chan	600
 鏟	chan	600
 闡	chan	600
+忏	chan	600
 刬	chan	600
 颤	chan	600
 羼	chan	600
+韂	chan	600
 顫	chan	600
+娼	chang	600
+猖	chang	600
 菖	chang	600
+阊	chang	600
+鲳	chang	600
 苌	chang	600
+徜	chang	600
 腸	chang	600
 嘗	chang	600
+嫦	chang	600
 償	chang	600
+鲿	chang	600
+昶	chang	600
+惝	chang	600
 場	chang	600
 敞	chang	600
 廠	chang	600
+氅	chang	600
+怅	chang	600
+鬯	chang	600
 暢	chang	600
+弨	chao	600
+怊	chao	600
+焯	chao	600
 鈔	chao	600
+晁	chao	600
 巢	chao	600
 嘲	chao	600
 炒	chao	600
@@ -8916,163 +9486,347 @@ use_preset_vocabulary: false
 車	che	600
 砗	che	600
 坼	che	600
+掣	che	600
 徹	che	600
+澈	che	600
+㬚	che	600
+抻	chen	600
+郴	chen	600
+琛	chen	600
 嗔	chen	600
 瞋	chen	600
 忱	chen	600
+辰	chen	600
+宸	chen	600
 陳	chen	600
+梣	cen	600
+谌	chen	600
+煁	chen	600
 塵	chen	600
 碜	chen	600
 衬	chen	600
+疢	chen	600
+龀	chen	600
 趁	chen	600
+榇	chen	600
+谶	chen	600
 襯	chen	600
+柽	cheng	600
+琤	cheng	600
 偁	cheng	600
+蛏	cheng	600
+赪	cheng	600
 稱	cheng	600
 撐	cheng	600
 撑	cheng	600
 瞠	cheng	600
+枨	cheng	600
+宬	cheng	600
 埕	cheng	600
+晟	cheng	600
+珹	cheng	600
+珵	cheng	600
+铖	cheng	600
+裎	cheng	600
 塍	cheng	600
 誠	cheng	600
+憕	cheng	600
+澂	cheng	600
+澄	cheng	600
+橙	cheng	600
 懲	cheng	600
+骋	cheng	600
+庱	cheng	600
 秤	cheng	600
+牚	cheng	600
 哧	chi	600
 蚩	chi	600
+鸱	chi	600
+瓻	chi	600
 眵	chi	600
 笞	chi	600
 嗤	chi	600
+媸	chi	600
+摛	chi	600
+螭	chi	600
+魑	chi	600
+弛	chi	600
 驰	chi	600
 茌	chi	600
 馳	chi	600
 墀	chi	600
+漦	chi	600
+踟	chi	600
 遲	chi	600
 胣	chi	600
 恥	chi	600
+豉	shi	600
+褫	chi	600
 齒	chi	600
+彳	chi	600
 叱	chi	600
 斥	chi	600
+饬	chi	600
+炽	chi	600
 翅	chi	600
+敕	chi	600
+痓	chi	600
 傺	chi	600
+瘛	chi	600
+忡	chong	600
 沖	chong	600
+㳘	chong	600
 茺	chong	600
+珫	chong	600
 翀	chong	600
 舂	chong	600
+摏	chong	600
 憧	chong	600
 艟	chong	600
+漴	zhuang	600
+宠	chong	600
+铳	chong	600
+瘳	chou	600
+犨	chou	600
 俦	chou	600
+帱	chou	600
+惆	chou	600
 绸	chou	600
+椆	chou	600
+畴	chou	600
 稠	chou	600
 綢	chou	600
 踌	chou	600
+雠	chou	600
 躊	chou	600
+杻	chou	600
+侴	chou	600
+䢺	chu	600
+䝙	chu	600
+摴	chu	600
+樗	chu	600
 刍	chu	600
 厨	chu	600
+滁	chu	600
 锄	chu	600
+蜍	chu	600
+雏	chu	600
 廚	chu	600
 鋤	chu	600
 躇	chu	600
+蹰	chu	600
+杵	chu	600
+楮	chu	600
+褚	chu	600
+濋	chu	600
 儲	chu	600
 礎	chu	600
 亍	chu	600
+怵	chu	600
 绌	chu	600
 俶	chu	600
 處	chu	600
+琡	chu	600
+搐	chu	600
+憷	chu	600
+斶	chu	600
+黜	chu	600
 觸	chu	600
 矗	chu	600
+搋	chuai	600
+啜	chuai	600
+踹	chuai	600
+氚	chuan	600
+遄	chuan	600
 傳	chuan	600
+椽	chuan	600
 舛	chuan	600
 喘	chuan	600
+钏	chuan	600
 噇	chuang	600
+幢	chuang	600
 闯	chuang	600
 闖	chuang	600
+怆	chuang	600
 創	chuang	600
 炊	chui	600
 倕	chui	600
+陲	chui	600
 捶	chui	600
 圌	chuan	600
+棰	chui	600
+槌	chui	600
 锤	chui	600
 錘	chui	600
+堾	chun	600
+椿	chun	600
+瑃	chun	600
+蝽	chun	600
+䲠	chun	600
 純	chun	600
 莼	chun	600
 淳	chun	600
 鹑	chun	600
+醇	chun	600
 鶉	chun	600
+蠢	chun	600
+逴	chuo	600
+踔	chuo	600
+戳	chuo	600
+惙	chuo	600
+龊	chuo	600
+呲	ci	600
+疵	ci	600
+跐	ci	600
 祠	ci	600
+茈	ci	600
 茨	ci	600
 瓷	ci	600
 詞	ci	600
+鹚	ci	600
 糍	ci	600
 辭	ci	600
+泚	ci	600
+玼	ci	600
 佽	ci	600
 莿	ci	600
 囪	cong	600
 囱	cong	600
 苁	cong	600
+枞	cong	600
 葱	cong	600
 蔥	cong	600
+骢	cong	600
+熜	cong	600
+璁	cong	600
 聰	cong	600
 從	cong	600
+悰	cong	600
+淙	cong	600
+琮	cong	600
 叢	cong	600
 凑	cou	600
 湊	cou	600
 腠	cou	600
+辏	cou	600
+徂	cu	600
+殂	cu	600
+猝	cu	600
+蔟	cu	600
+蹙	cu	600
+汆	cuan	600
+撺	cuan	600
+镩	cuan	600
 篡	cuan	600
 竄	cuan	600
+爨	cuan	600
+崔	cui	600
 催	cui	600
 缞	cui	600
+榱	cui	600
+漼	cui	600
+璀	cui	600
 脆	cui	600
 啐	cui	600
+悴	cui	600
+淬	cui	600
 萃	cui	600
+毳	cui	600
+邨	cun	600
 皴	cun	600
+忖	cun	600
 搓	cuo	600
+瑳	cuo	600
 磋	cuo	600
+蹉	cuo	600
+嵯	cuo	600
+痤	cuo	600
 矬	cuo	600
+鹾	cuo	600
 脞	cuo	600
 挫	cuo	600
 莝	cuo	600
+棤	cuo	600
+锉	cuo	600
 錯	cuo	600
+哒	da	600
+嗒	da	600
+褡	da	600
 妲	da	600
+怛	da	600
+炟	da	600
 荙	da	600
 笪	da	600
+溚	ta	600
 達	da	600
+靼	da	600
+鞑	da	600
+垯	da	600
+跶	da	600
 瘩	da	600
 呔	dai	600
 逮	dai	600
 傣	dai	600
+轪	dai	600
 垈	dai	600
+岱	dai	600
 绐	dai	600
+迨	dai	600
+骀	dai	600
+怠	dai	600
+玳	dai	600
 埭	dai	600
 帶	dai	600
 叇	dai	600
+黛	dai	600
 眈	dan	600
 耽	dan	600
+郸	dan	600
 聃	dan	600
 單	dan	600
+殚	dan	600
+瘅	dan	600
 箪	dan	600
 儋	dan	600
 擔	dan	600
+疸	dan	600
+掸	dan	600
+赕	dan	600
 亶	dan	600
 膽	dan	600
 诞	dan	600
+疍	dan	600
 啖	dan	600
+惮	dan	600
 萏	dan	600
 氮	dan	600
 誕	dan	600
 彈	dan	600
+憺	dan	600
+澹	dan	600
+珰	dang	600
+裆	dang	600
 铛	dang	600
 筜	dang	600
 當	dang	600
 鐺	dang	600
 挡	dang	600
+谠	dang	600
 擋	dang	600
 黨	dang	600
 凼	dang	600
+宕	dang	600
 砀	dang	600
 垱	dang	600
 菪	dang	600
 蕩	dang	600
 檔	dang	600
+叨	dao	600
+忉	dao	600
+氘	dao	600
 舠	dao	600
+鱽	dao	600
+捯	dao	600
 島	dao	600
 祷	dao	600
 搗	dao	600
@@ -9081,68 +9835,121 @@ use_preset_vocabulary: false
 盜	dao	600
 纛	dao	600
 嘚	de	600
+锝	de	600
+扽	den	600
 噔	deng	600
 燈	deng	600
+璒	deng	600
 蹬	deng	600
+戥	deng	600
 凳	deng	600
+嶝	deng	600
 瞪	deng	600
 磴	deng	600
+镫	deng	600
+氐	di	600
 羝	di	600
 堤	di	600
+䃅	di	600
 滴	di	600
+镝	di	600
+鞮	di	600
+狄	di	600
 籴	di	600
 涤	di	600
 荻	di	600
 笛	di	600
+觌	di	600
 滌	di	600
+髢	di	600
 嘀	di	600
+嫡	di	600
 翟	di	600
 敵	di	600
+蹢	di	600
+诋	di	600
+邸	di	600
+坻	chi	600
 茋	zhi	600
+柢	di	600
+骶	di	600
+杕	di	600
+玓	di	600
+娣	di	600
 菂	di	600
+谛	di	600
+媂	di	600
+棣	di	600
 睇	di	600
 缔	di	600
 禘	di	600
 遞	di	600
 碲	di	600
 締	di	600
+䗖	di	600
+踶	di	600
+嗲	die	600
+掂	dian	600
+滇	dian	600
+巅	dian	600
 顛	dian	600
 癫	dian	600
 碘	dian	600
 踮	dian	600
 點	dian	600
+阽	dian	600
 坫	dian	600
 垫	dian	600
+扂	dian	600
+玷	dian	600
+钿	dian	600
 惦	dian	600
 奠	dian	600
+琔	dian	600
 電	dian	600
 墊	dian	600
 澱	dian	600
+靛	dian	600
 癜	dian	600
 簟	dian	600
 刁	diao	600
 叼	diao	600
+汈	diao	600
 凋	diao	600
+貂	diao	600
 碉	diao	600
 雕	diao	600
+鲷	diao	600
 钓	diao	600
 窎	diao	600
 釣	diao	600
+铞	diao	600
+铫	diao	600
 調	diao	600
 爹	die	600
 垤	die	600
+昳	die	600
 绖	die	600
+瓞	die	600
+谍	die	600
 喋	die	600
 堞	die	600
 耋	die	600
+楪	ye	600
+牒	die	600
 碟	die	600
 蝶	die	600
+蹀	die	600
+鲽	die	600
 疊	die	600
 仃	ding	600
 叮	ding	600
+玎	ding	600
+疔	ding	600
 盯	ding	600
 钉	ding	600
 耵	ding	600
+酊	ding	600
 釘	ding	600
 頂	ding	600
 訂	ding	600
@@ -9152,24 +9959,38 @@ use_preset_vocabulary: false
 碇	ding	600
 錠	ding	600
 丟	diu	600
+铥	diu	600
 咚	dong	600
+岽	dong	600
 東	dong	600
+氡	dong	600
+鸫	dong	600
 垌	dong	600
+峒	dong	600
+恫	dong	600
+栋	dong	600
 胨	dong	600
 凍	dong	600
 胴	dong	600
 動	dong	600
 硐	dong	600
 兜	dou	600
+蔸	dou	600
 篼	dou	600
+钭	tou	600
 陡	dou	600
 蚪	dou	600
 逗	dou	600
+痘	dou	600
 窦	dou	600
 厾	du	600
+阇	du	600
 嘟	du	600
+牍	du	600
 獨	du	600
+黩	du	600
 讀	du	600
+髑	du	600
 笃	du	600
 赌	du	600
 賭	du	600
@@ -9177,9 +9998,13 @@ use_preset_vocabulary: false
 妒	du	600
 镀	du	600
 鍍	du	600
+蠹	du	600
 耑	duan	600
 塅	duan	600
 缎	duan	600
+椴	duan	600
+煅	duan	600
+瑖	duan	600
 锻	duan	600
 緞	duan	600
 簖	duan	600
@@ -9187,64 +10012,122 @@ use_preset_vocabulary: false
 斷	duan	600
 兑	dui	600
 祋	dui	600
+怼	dui	600
 隊	dui	600
 碓	dui	600
 對	dui	600
+惇	dun	600
 墩	dun	600
 噸	dun	600
 礅	dun	600
+镦	dui	600
 蹲	dun	600
+蹾	dun	600
 盹	dun	600
+趸	dun	600
 囤	dun	600
+沌	dun	600
+炖	dun	600
 砘	dun	600
+钝	dun	600
+遁	dun	600
+楯	dun	600
 頓	dun	600
 哆	duo	600
 剟	duo	600
+㙍	duo	600
+裰	duo	600
+铎	duo	600
 奪	duo	600
 踱	duo	600
 哚	duo	600
 埵	duo	600
 亸	duo	600
 剁	duo	600
+饳	duo	600
 堕	duo	600
+惰	duo	600
 跺	duo	600
+婀	e	600
+屙	e	600
+娥	e	600
 峨	e	600
+涐	e	600
 莪	e	600
+锇	e	600
 鹅	e	600
 額	e	600
 鵝	e	600
 厄	e	600
 呃	e	600
+扼	e	600
 苊	e	600
+轭	e	600
 垩	e	600
 姶	e	600
+谔	e	600
+鄂	e	600
+堨	ye	600
+崿	e	600
 惡	e	600
 愕	e	600
 萼	e	600
+遏	e	600
 腭	e	600
+锷	e	600
+鹗	e	600
 餓	e	600
 噩	e	600
 鳄	e	600
 鱷	e	600
 诶	ei	600
 誒	ei	600
+蒽	en	600
+摁	en	600
 兒	r	600
+陑	er	600
+鸸	er	600
+鲕	er	600
+洱	er	600
+饵	er	600
+珥	er	600
+铒	er	600
 爾	er	600
 咡	er	600
+贰	er	600
 發	fa	600
 垡	fa	600
 阀	fa	600
 筏	fa	600
 罰	fa	600
 閥	fa	600
+砝	fa	600
+珐	fa	600
+藩	fan	600
+氾	fan	600
 矾	fan	600
+钒	fan	600
 煩	fan	600
 墦	fan	600
+樊	fan	600
+燔	fan	600
+璠	fan	600
+蹯	fan	600
+蘩	fan	600
 贩	fan	600
+畈	fan	600
+梵	fan	600
 販	fan	600
 飯	fan	600
+邡	fang	600
+枋	fang	600
+牥	fang	600
+钫	fang	600
+蚄	fang	600
 肪	fang	600
+鲂	fang	600
 纺	fang	600
+昉	fang	600
 紡	fang	600
 舫	fang	600
 訪	fang	600
@@ -9252,95 +10135,179 @@ use_preset_vocabulary: false
 飛	fei	600
 啡	fei	600
 绯	fei	600
+扉	fei	600
+蜚	fei	600
+霏	fei	600
+鲱	fei	600
+淝	fei	600
 腓	fei	600
+朏	fei	600
 匪	fei	600
+诽	fei	600
+斐	fei	600
+棐	fei	600
+榧	fei	600
 翡	fei	600
 篚	fei	600
 吠	fei	600
 芾	fei	600
+狒	fei	600
 肺	fei	600
 剕	fei	600
 費	fei	600
+痱	fei	600
+镄	fei	600
 廢	fei	600
 吩	fen	600
 芬	fen	600
 氛	fen	600
 紛	fen	600
 翂	fen	600
+棻	fen	600
+酚	fen	600
+汾	fen	600
+棼	fen	600
 墳	fen	600
+豮	fen	600
+鼢	fen	600
 偾	fen	600
 憤	fen	600
 奮	fen	600
 糞	fen	600
+鲼	fen	600
+瀵	fen	600
+沣	feng	600
+沨	feng	600
+枫	feng	600
 砜	feng	600
 風	feng	600
+烽	feng	600
+崶	feng	600
 葑	feng	600
 蜂	feng	600
 瘋	feng	600
 鋒	feng	600
+酆	feng	600
+浲	feng	600
 讽	feng	600
 唪	feng	600
 諷	feng	600
 俸	feng	600
+赗	feng	600
 鳳	feng	600
 縫	feng	600
 缶	fou	600
 呋	fu	600
+玞	fu	600
 砆	fu	600
+趺	fu	600
+麸	fu	600
 稃	fu	600
+跗	fu	600
+鄜	fu	600
 孵	fu	600
 敷	fu	600
 膚	fu	600
 凫	fu	600
+孚	fu	600
 芙	fu	600
 芣	fu	600
+怫	fu	600
+拂	fu	600
 绂	fu	600
 绋	fu	600
 苻	fu	600
 茀	fu	600
+氟	fu	600
+洑	fu	600
 祓	fu	600
 罘	fu	600
 茯	fu	600
+郛	fu	600
+韨	fu	600
+垺	fu	600
 莩	fu	600
+蚨	fu	600
 匐	fu	600
+桴	fu	600
+涪	fu	600
+琈	fu	600
 艴	fu	600
 菔	fu	600
 袱	fu	600
+蜉	fu	600
 辐	fu	600
 鳧	fu	600
+榑	fu	600
+幞	fu	600
 蝠	fu	600
 輻	fu	600
+黻	fu	600
+呒	wu	600
+㕮	fu	600
 甫	fu	600
+拊	fu	600
+釜	fu	600
 辅	fu	600
+滏	fu	600
 輔	fu	600
 撫	fu	600
 簠	fu	600
+黼	fu	600
+讣	fu	600
+㳇	fu	600
 咐	fu	600
+阜	fu	600
+驸	fu	600
 負	fu	600
 婦	fu	600
 缚	fu	600
+鲋	fu	600
 複	fu	600
+赙	fu	600
+蝮	fu	600
 縛	fu	600
+旮	ga	600
 嘎	ga	600
+钆	ga	600
+尜	ga	600
 噶	ga	600
+尕	ga	600
+陔	gai	600
 荄	gai	600
+晐	gai	600
+赅	gai	600
 該	gai	600
 丐	gai	600
 钙	gai	600
 溉	gai	600
 鈣	gai	600
+戤	gai	600
 蓋	gai	600
 杆	gan	600
+玕	gan	600
 坩	gan	600
+泔	gan	600
 矸	gan	600
 苷	gan	600
+疳	gan	600
+酐	gan	600
 秆	gan	600
 稈	gan	600
+澉	gan	600
 趕	gan	600
+橄	gan	600
+擀	gan	600
+鳡	gan	600
+旰	gan	600
 绀	gan	600
+淦	gan	600
+㽏	gan	600
+赣	gan	600
 冮	gang	600
 肛	gang	600
 岡	gang	600
+㭎	gang	600
 矼	gang	600
 缸	gang	600
 剛	gang	600
@@ -9349,265 +10316,558 @@ use_preset_vocabulary: false
 綱	gang	600
 鋼	gang	600
 崗	gang	600
+杠	gang	600
+鿍	gang	600
 筻	gang	600
+戆	gang	600
 皋	gao	600
 羔	gao	600
+槔	gao	600
 睾	gao	600
 篙	gao	600
+杲	gao	600
 缟	gao	600
+槁	gao	600
+镐	gao	600
+藁	gao	600
+诰	gao	600
+郜	gao	600
+锆	gao	600
 筶	gao	600
 圪	ge	600
 疙	ge	600
+咯	ge	600
 胳	ge	600
+袼	ge	600
 搁	ge	600
 擱	ge	600
 鴿	ge	600
+鬲	ge	600
 嗝	ge	600
 塥	ge	600
+滆	ge	600
 膈	ge	600
+镉	ge	600
 骼	ge	600
 哿	ge	600
 舸	ge	600
+虼	ge	600
 個	ge	600
+硌	ge	600
+铬	ge	600
 給	gei	600
 哏	gen	600
+艮	gen	600
 茛	gen	600
+庚	geng	600
+浭	geng	600
+赓	geng	600
+鹒	geng	600
 羹	geng	600
 哽	geng	600
 埂	geng	600
 绠	geng	600
 耿	geng	600
+鲠	geng	600
+暅	geng	600
 弓	gong	600
+䢼	gong	600
 宮	gong	600
 蚣	gong	600
+龚	gong	600
+觥	gong	600
 巩	gong	600
 汞	gong	600
+珙	gong	600
 鞏	gong	600
 貢	gong	600
 缑	gou	600
 溝	gou	600
 鉤	gou	600
 篝	gou	600
+鞲	gou	600
+岣	gou	600
+枸	gou	600
 耇	gou	600
 笱	gou	600
+诟	gou	600
 垢	gou	600
 姤	gou	600
 夠	gou	600
+媾	gou	600
+彀	gou	600
+遘	gou	600
+雊	gou	600
 構	gou	600
+觏	gou	600
 購	gou	600
+呱	gu	600
 咕	gu	600
+沽	gu	600
+轱	gu	600
+鸪	gu	600
 菇	gu	600
 菰	gu	600
+蛄	gu	600
+蓇	gu	600
+觚	gu	600
 辜	gu	600
+酤	gu	600
 箍	gu	600
+汩	gu	600
+诂	gu	600
+牯	gu	600
 罟	gu	600
 钴	gu	600
+蛊	gu	600
+馉	gu	600
+鹄	gu	600
+毂	gu	600
 鈷	gu	600
 嘏	gu	600
+榖	gu	600
+鹘	gu	600
 臌	gu	600
+瀔	gu	600
 堌	gu	600
+崮	gu	600
+梏	gu	600
+牿	gu	600
 雇	gu	600
+痼	gu	600
+锢	gu	600
 僱	gu	600
+鲴	gu	600
 顧	gu	600
 刮	gua	600
 胍	gua	600
+栝	gua	600
+鸹	gua	600
 剐	gua	600
 卦	gua	600
 坬	gua	600
+诖	gua	600
 掛	gua	600
 褂	gua	600
+掴	guai	600
 拐	guai	600
 夬	guai	600
 倌	guan	600
 蒄	guan	600
+鳏	guan	600
 關	guan	600
 觀	guan	600
+琯	guan	600
 筦	guan	600
 館	guan	600
+鳤	guan	600
+毌	guan	600
+掼	guan	600
+涫	guan	600
 貫	guan	600
 祼	guan	600
 慣	guan	600
 盥	guan	600
 灌	guan	600
+爟	guan	600
+瓘	guan	600
+鹳	guan	600
 罐	guan	600
 咣	guang	600
 垙	guang	600
+洸	guang	600
+桄	guang	600
+珖	guang	600
 胱	guang	600
+犷	guang	600
 廣	guang	600
 逛	guang	600
 妫	gui	600
+邽	gui	600
 皈	gui	600
+珪	gui	600
 規	gui	600
+瑰	gui	600
 閨	gui	600
+鲑	gui	600
 龜	gui	600
 歸	gui	600
+鬶	gui	600
+宄	gui	600
+庋	gui	600
 匦	gui	600
 诡	gui	600
 姽	gui	600
 癸	gui	600
 軌	gui	600
+晷	gui	600
 詭	gui	600
 簋	gui	600
 刽	gui	600
 刿	gui	600
+桂	gui	600
+桧	gui	600
 筀	gui	600
 貴	gui	600
 跪	gui	600
+鳜	gui	600
+衮	gun	600
 绲	gun	600
+辊	gun	600
 滾	gun	600
 磙	gun	600
+鲧	gun	600
+呙	guo	600
 埚	guo	600
+郭	guo	600
+崞	guo	600
+聒	gua	600
+蝈	guo	600
 鍋	guo	600
 國	guo	600
+帼	guo	600
 腘	guo	600
+虢	guo	600
+馘	guo	600
+馃	guo	600
+椁	guo	600
 粿	guo	600
+蜾	guo	600
 過	guo	600
+铪	ha	600
 咍	hai	600
 咳	hai	600
 嗨	hai	600
+骸	hai	600
 還	hai	600
 胲	hai	600
+醢	hai	600
+骇	hai	600
+氦	hai	600
 嗐	hai	600
+顸	han	600
+蚶	han	600
+酣	han	600
+憨	han	600
+鼾	han	600
+邗	han	600
+邯	han	600
+虷	han	600
+浛	han	600
+崡	han	600
+晗	han	600
+涵	han	600
+焓	han	600
+琀	han	600
+嵅	han	600
 罕	han	600
+蔊	han	600
+㘎	han	600
+扞	gan	600
 垾	han	600
+悍	han	600
 捍	han	600
 焊	han	600
 菡	han	600
+颔	han	600
+撖	han	600
 漢	han	600
+暵	han	600
 憾	han	600
 撼	han	600
 翰	han	600
 夯	hang	600
 绗	hang	600
+颃	hang	600
+沆	hang	600
+蒿	hao	600
 嚆	hao	600
+薅	hao	600
+蚝	hao	600
 嗥	hao	600
 嚎	hao	600
 壕	hao	600
+濠	hao	600
+郝	hao	600
+昊	hao	600
+淏	hao	600
 皓	hao	600
+鄗	hao	600
 號	hao	600
 皞	hao	600
+颢	hao	600
+灏	hao	600
+诃	he	600
 嗬	he	600
 禾	he	600
+纥	ge	600
 劾	he	600
+郃	he	600
+曷	he	600
+阂	he	600
+饸	he	600
 盉	he	600
 盍	he	600
+涸	he	600
 盒	he	600
 菏	he	600
+龁	he	600
+鹖	he	600
 翮	he	600
+鞨	he	600
+龢	he	600
 垎	he	600
+隺	hu	600
 賀	he	600
+熇	he	600
 褐	he	600
 翯	he	600
 嘿	hei	600
 姮	heng	600
 恆	heng	600
+桁	heng	600
+珩	hang	600
+鸻	heng	600
 橫	heng	600
+蘅	heng	600
+堼	heng	600
+吽	hong	600
+訇	hong	600
 烘	hong	600
+薨	hong	600
 轟	hong	600
+弘	hong	600
 宏	hong	600
+玒	hong	600
 纮	hong	600
+泓	hong	600
 竑	hong	600
 紅	hong	600
 荭	hong	600
+虹	hong	600
 翃	hong	600
 硔	hong	600
+鸿	hong	600
+谼	hong	600
+蕻	hong	600
+黉	hong	600
 唝	gong	600
+讧	hong	600
+齁	hou	600
 喉	hou	600
 猴	hou	600
+瘊	hou	600
 篌	hou	600
 糇	hou	600
+骺	hou	600
+郈	hou	600
 垕	hou	600
+逅	hou	600
 堠	hou	600
+鲎	hou	600
+鲘	hou	600
+昒	hu	600
+烀	hu	600
+轷	hu	600
 唿	hu	600
 惚	hu	600
+淴	hu	600
+滹	hu	600
 囫	hu	600
+弧	hu	600
+斛	hu	600
 壺	hu	600
+猢	hu	600
 葫	hu	600
+煳	hu	600
 瑚	hu	600
+鹕	hu	600
+槲	hu	600
 蝴	hu	600
 縠	hu	600
+醐	hu	600
+觳	hu	600
+浒	hu	600
 唬	hu	600
+琥	hu	600
 戶	hu	600
 冱	hu	600
+沪	hu	600
+岵	hu	600
+怙	hu	600
+戽	hu	600
+昈	hu	600
 祜	hu	600
 笏	hu	600
+瓠	hu	600
+鄠	hu	600
+嫭	hu	600
+鹱	hu	600
 護	hu	600
+鳠	hu	600
 哗	hua	600
+砉	huo	600
 嘩	hua	600
+骅	hua	600
 華	hua	600
+铧	hua	600
 猾	hua	600
 桦	hua	600
+婳	hua	600
 畫	hua	600
+觟	hua	600
 話	hua	600
 樺	hua	600
 徊	huai	600
+淮	huai	600
 槐	huai	600
+踝	huai	600
 懷	huai	600
 壞	huai	600
+獾	huan	600
 歡	huan	600
+郇	huan	600
+峘	huan	600
+洹	huan	600
 荁	huan	600
+桓	huan	600
 萑	huan	600
+貆	huan	600
+锾	huan	600
 圜	huan	600
+嬛	huan	600
+寰	huan	600
+澴	huan	600
 缳	huan	600
 環	huan	600
+镮	huan	600
+鹮	huan	600
+鬟	huan	600
+㬊	huan	600
 緩	huan	600
 奂	huan	600
+宦	huan	600
+浣	huan	600
+焕	huan	600
+逭	huan	600
 喚	huan	600
 換	huan	600
+豢	huan	600
+漶	huan	600
+鲩	huan	600
+擐	huan	600
 肓	huang	600
 凰	huang	600
+隍	huang	600
 喤	huang	600
+媓	huang	600
 惶	huang	600
+湟	huang	600
 黃	huang	600
 煌	huang	600
+瑝	huang	600
+潢	huang	600
+锽	huang	600
+璜	huang	600
 篁	huang	600
 艎	huang	600
 蝗	huang	600
+癀	huang	600
 磺	huang	600
 簧	huang	600
+蟥	huang	600
+鳇	huang	600
 恍	huang	600
 谎	huang	600
+幌	huang	600
 謊	huang	600
+㿠	huang	600
+滉	huang	600
+㧑	hui	600
+诙	hui	600
 咴	hui	600
+袆	hui	600
+晖	hui	600
 揮	hui	600
 翚	hui	600
 輝	hui	600
+麾	hui	600
+隳	hui	600
+洄	hui	600
 茴	hui	600
+烠	hui	600
+蛔	hui	600
 毀	hui	600
 卉	hui	600
+哕	hui	600
+浍	hui	600
 绘	hui	600
 荟	hui	600
+恚	hui	600
+烩	hui	600
+贿	hui	600
+彗	hui	600
+晦	hui	600
 硊	wei	600
 翙	hui	600
 匯	hui	600
 會	hui	600
+蕙	hui	600
+橞	hui	600
+蟪	hui	600
 繪	hui	600
 荤	hun	600
+惛	hun	600
 碈	min	600
 浑	hun	600
+珲	hui	600
+馄	hun	600
 渾	hun	600
+诨	hun	600
+溷	hun	600
 耠	huo	600
+锪	huo	600
 劐	huo	600
+嚄	huo	600
 豁	huo	600
+攉	huo	600
 佸	huo	600
+钬	huo	600
+漷	huo	600
 夥	huo	600
 貨	huo	600
 禍	huo	600
+濩	huo	600
 獲	huo	600
+镬	huo	600
 嚯	huo	600
+藿	huo	600
+蠖	huo	600
+㸌	huo	600
 讥	ji	600
 叽	ji	600
 乩	ji	600
 圾	ji	600
+玑	ji	600
 芨	ji	600
 矶	ji	600
+枅	ji	600
 剞	ji	600
 唧	ji	600
 姬	ji	600
+屐	ji	600
 笄	ji	600
 飢	ji	600
+嵇	ji	600
+犄	ji	600
+赍	ji	600
+畸	ji	600
 跡	ji	600
+跻	ji	600
+畿	ji	600
 稽	ji	600
+觭	ji	600
+齑	ji	600
 墼	ji	600
 機	ji	600
 積	ji	600
@@ -9616,68 +10876,144 @@ use_preset_vocabulary: false
 雞	ji	600
 譏	ji	600
 伋	ji	600
+岌	ji	600
+汲	ji	600
 佶	ji	600
 姞	ji	600
 笈	ji	600
 級	ji	600
+堲	ci	600
+戢	ji	600
+棘	ji	600
 極	ji	600
+殛	ji	600
+㴔	xi	600
+蒺	ji	600
 耤	ji	600
+瘠	ji	600
+蕺	ji	600
+鹡	ji	600
 輯	ji	600
+蹐	ji	600
+虮	ji	600
+掎	ji	600
+鱾	ji	600
 幾	ji	600
+嵴	ji	600
+麂	ji	600
 擠	ji	600
 妓	ji	600
+忌	ji	600
 芰	ji	600
 垍	ji	600
+洎	ji	600
 紀	ji	600
 荠	ji	600
 計	ji	600
+觊	ji	600
 記	ji	600
 偈	ji	600
+徛	ji	600
+悸	ji	600
+惎	ji	600
+蓟	ji	600
 際	ji	600
+暨	ji	600
+漈	ji	600
+跽	ji	600
+霁	ji	600
+鲚	ji	600
 稷	ji	600
+鲫	ji	600
 冀	ji	600
 劑	ji	600
 穄	ji	600
+髻	ji	600
 濟	ji	600
 罽	ji	600
+瀱	ji	600
 繼	ji	600
 夾	jia	600
+泇	jia	600
 茄	jia	600
+迦	jia	600
+枷	jia	600
+浃	jia	600
+珈	jia	600
+痂	jia	600
 笳	jia	600
+袈	jia	600
 葭	jia	600
+跏	jia	600
+镓	jia	600
+郏	jia	600
 荚	jia	600
+恝	jia	600
+戛	jia	600
+铗	jia	600
+蛱	jia	600
 颊	jia	600
 頰	jia	600
+岬	jia	600
 胛	jia	600
+钾	jia	600
+斝	jia	600
+槚	jia	600
 價	jia	600
 駕	jia	600
+戋	jian	600
 歼	jian	600
 堅	jian	600
 菅	jian	600
+湔	jian	600
+犍	jian	600
 間	jian	600
+搛	jian	600
 煎	jian	600
 缣	jian	600
+蒹	jian	600
 監	jian	600
+鲣	jian	600
+鹣	jian	600
+篯	jian	600
 艱	jian	600
+鞬	jian	600
+鞯	jian	600
+鳒	jian	600
 殲	jian	600
 拣	jian	600
+枧	jian	600
+柬	jian	600
 茧	jian	600
 捡	jian	600
 笕	jian	600
 剪	jian	600
+趼	jian	600
 揀	jian	600
 減	jian	600
 睑	jian	600
+裥	jian	600
+锏	jian	600
+暕	jian	600
+谫	jian	600
+戬	jian	600
 碱	jian	600
 儉	jian	600
 翦	jian	600
 撿	jian	600
 檢	jian	600
+謇	jian	600
+蹇	jian	600
 簡	jian	600
 繭	jian	600
 鹼	jian	600
 見	jian	600
+饯	jian	600
+牮	jian	600
 荐	jian	600
+涧	jian	600
+楗	jian	600
+毽	jian	600
 溅	jian	600
 腱	jian	600
 僭	jian	600
@@ -9685,15 +11021,18 @@ use_preset_vocabulary: false
 劍	jian	600
 賤	jian	600
 踐	jian	600
+踺	jian	600
 鍵	jian	600
 濺	jian	600
 艦	jian	600
 鑒	jian	600
 姜	jiang	600
 茳	jiang	600
+豇	jiang	600
 將	jiang	600
 僵	jiang	600
 漿	jiang	600
+鳉	jiang	600
 礓	jiang	600
 韁	jiang	600
 桨	jiang	600
@@ -9703,75 +11042,133 @@ use_preset_vocabulary: false
 膙	jiang	600
 講	jiang	600
 匠	jiang	600
+洚	jiang	600
 绛	jiang	600
+弶	jiang	600
 酱	jiang	600
+犟	jiang	600
 糨	jiang	600
 醬	jiang	600
 艽	jiao	600
 郊	jiao	600
 娇	jiao	600
+峧	jiao	600
 浇	jiao	600
 茭	jiao	600
 椒	jiao	600
+跤	jiao	600
 僬	jiao	600
+鲛	jiao	600
 嬌	jiao	600
 澆	jiao	600
 膠	jiao	600
 蕉	jiao	600
+燋	jiao	600
 礁	jiao	600
+䴔	jiao	600
+鹪	jiao	600
 驕	jiao	600
+恔	jiao	600
 狡	jiao	600
 绞	jiao	600
 饺	jiao	600
 皎	jiao	600
 矫	jiao	600
+铰	jiao	600
 搅	jiao	600
+湫	jiao	600
+敫	jiao	600
 腳	jiao	600
 餃	jiao	600
+璬	jiao	600
 皦	jiao	600
 繳	jiao	600
 攪	jiao	600
+峤	jiao	600
 轿	jiao	600
 窖	jiao	600
+滘	jiao	600
 較	jiao	600
+斠	jiao	600
+漖	jiao	600
 酵	jiao	600
 噍	jiao	600
+徼	jiao	600
+藠	jiao	600
 轎	jiao	600
+醮	jiao	600
 皭	jiao	600
+疖	jie	600
 秸	jie	600
 階	jie	600
 喈	jie	600
+湝	jie	600
+孑	jie	600
+讦	jie	600
+岊	jie	600
 劼	jie	600
+㛃	jie	600
+拮	jie	600
+桀	jie	600
 桔	ju	600
+婕	jie	600
 結	jie	600
+絜	jie	600
 節	jie	600
+蜐	jie	600
 碣	jie	600
 竭	jie	600
+鲒	jie	600
 潔	jie	600
 羯	jie	600
+檞	jie	600
 屆	jie	600
+玠	jie	600
+疥	jie	600
 诫	jie	600
+悈	jie	600
+蚧	jie	600
+骱	jie	600
 誡	jie	600
+褯	jie	600
+衿	jin	600
+珒	jin	600
 襟	jin	600
 卺	jin	600
 僅	jin	600
 谨	jin	600
+廑	jin	600
 盡	jin	600
 緊	jin	600
+馑	jin	600
+槿	jin	600
+瑾	jin	600
 錦	jin	600
 謹	jin	600
 妗	jin	600
 勁	jin	600
+浕	jin	600
 荩	jin	600
 浸	jin	600
+烬	jin	600
+赆	jin	600
+琎	jin	600
 祲	jin	600
 進	jin	600
+溍	jin	600
 缙	jin	600
+靳	jin	600
 墐	jin	600
+瑨	jin	600
+殣	jin	600
+觐	jin	600
 噤	jin	600
+泾	jing	600
 茎	jing	600
 荆	jing	600
 莖	jing	600
+旌	jing	600
+猄	jing	600
 菁	jing	600
 腈	jing	600
 粳	jing	600
@@ -9779,94 +11176,223 @@ use_preset_vocabulary: false
 兢	jing	600
 鲸	jing	600
 鯨	jing	600
+䴖	jing	600
+麖	jing	600
+鼱	jing	600
 驚	jing	600
+阱	jing	600
 刭	jing	600
+汫	jing	600
 肼	jing	600
 儆	jing	600
 憬	jing	600
+璟	jing	600
+璥	jing	600
 頸	jing	600
+迳	jing	600
+倞	jing	600
 徑	jing	600
+痉	jing	600
+婧	jing	600
 淨	jing	600
 竫	jing	600
+靓	jing	600
+靖	jing	600
+獍	jing	600
 靜	jing	600
 鏡	jing	600
 競	jing	600
 坰	jiong	600
+扃	jiong	600
 冏	jiong	600
+泂	jiong	600
+炅	jiong	600
+迥	jiong	600
 炯	jiong	600
+䌹	jiong	600
 窘	jiong	600
+颎	jiong	600
+鸠	jiu	600
 糾	jiu	600
+赳	jiu	600
+阄	jiu	600
 啾	jiu	600
+鬏	jiu	600
+氿	gui	600
+灸	jiu	600
+玖	jiu	600
+韭	jiu	600
+疚	jiu	600
+柩	jiu	600
+桕	jiu	600
 厩	jiu	600
 舅	jiu	600
 僦	jiu	600
+㠇	jiu	600
 舊	jiu	600
+鹫	jiu	600
+泃	ju	600
+狙	ju	600
 苴	ju	600
 驹	ju	600
+疽	ju	600
 砠	ju	600
+娵	ju	600
+崌	ju	600
+掬	ju	600
+椐	ju	600
+琚	ju	600
 腒	ju	600
+趄	ju	600
+锔	ju	600
+裾	ju	600
+雎	ju	600
 駒	ju	600
 鞠	ju	600
+鞫	ju	600
+焗	ju	600
 菊	ju	600
 橘	ju	600
+䴗	ju	600
 咀	ju	600
+弆	ju	600
+沮	ju	600
 矩	ju	600
 莒	ju	600
 筥	ju	600
+榉	ju	600
 蒟	ju	600
+龃	ju	600
 舉	ju	600
+踽	ju	600
+讵	ju	600
+岠	ju	600
 苣	ju	600
 秬	ju	600
+钜	ju	600
 倨	ju	600
+犋	ju	600
+飓	ju	600
 锯	ju	600
 窭	ju	600
 劇	ju	600
+屦	ju	600
+踞	ju	600
 據	ju	600
+澽	ju	600
+遽	ju	600
 鋸	ju	600
+醵	ju	600
 懼	ju	600
+娟	juan	600
+涓	juan	600
+焆	juan	600
 鹃	juan	600
+镌	juan	600
 鵑	juan	600
+蠲	juan	600
+锩	juan	600
+桊	juan	600
+狷	juan	600
 绢	juan	600
+隽	juan	600
+鄄	juan	600
 絹	juan	600
 噘	jue	600
 撅	jue	600
+孓	jue	600
+诀	jue	600
+抉	jue	600
 決	jue	600
+玦	jue	600
+珏	jue	600
 砄	jue	600
 倔	jue	600
+崛	jue	600
 掘	jue	600
+桷	jue	600
+觖	jue	600
+傕	jue	600
 厥	jue	600
 絕	jue	600
 劂	jue	600
+谲	jue	600
+㵐	jue	600
+獗	jue	600
+蕨	jue	600
+橛	jue	600
+镢	jue	600
 嚼	jue	600
 矍	jue	600
 覺	jue	600
+爝	jue	600
+攫	jue	600
+玃	jue	600
 軍	jun	600
 莙	jun	600
 皲	jun	600
+鲪	jun	600
+麇	jun	600
+郡	jun	600
+捃	jun	600
+浚	jun	600
+骏	jun	600
+晙	jun	600
+焌	jun	600
+珺	jun	600
+畯	jun	600
 竣	jun	600
+䐃	jun	600
+葰	sui	600
+咔	ka	600
 咖	ka	600
 喀	ka	600
 胩	ka	600
 揩	kai	600
+锎	kai	600
 開	kai	600
 剀	kai	600
 垲	kai	600
+恺	kai	600
+闿	kai	600
+铠	kai	600
 慨	kai	600
 蒈	kai	600
+锴	kai	600
+忾	kai	600
+炌	kai	600
 勘	kan	600
+嵁	kan	600
+戡	kan	600
 坎	kan	600
 莰	kan	600
 檻	kan	600
+衎	kan	600
+崁	kan	600
 墈	kan	600
+阚	han	600
 瞰	kan	600
 磡	kan	600
 慷	kang	600
 糠	kang	600
 扛	kang	600
 伉	kang	600
+闶	kang	600
 炕	kang	600
+钪	kang	600
+尻	kao	600
+拷	kao	600
+洘	kao	600
+栲	kao	600
 烤	kao	600
+铐	kao	600
+犒	kao	600
+㸆	kao	600
 匼	ke	600
+牁	ke	600
+珂	ke	600
+轲	ke	600
+疴	ke	600
 棵	ke	600
 嗑	ke	600
 稞	ke	600
@@ -9874,28 +11400,44 @@ use_preset_vocabulary: false
 磕	ke	600
 蝌	ke	600
 顆	ke	600
+髁	ke	600
 殼	ke	600
+坷	ke	600
+岢	ke	600
+炣	ke	600
+恪	ke	600
+氪	ke	600
+骒	ke	600
 缂	ke	600
+溘	ke	600
+锞	ke	600
 課	ke	600
+剋	ke	600
 垦	ken	600
 恳	ken	600
 啃	ken	600
 墾	ken	600
 懇	ken	600
+裉	ken	600
 硁	keng	600
+铿	keng	600
 埪	kong	600
+崆	kong	600
 硿	kong	600
 箜	kong	600
 倥	kong	600
+抠	kou	600
 芤	kou	600
 眍	kou	600
 叩	kou	600
 寇	kou	600
 筘	kou	600
+蔻	kou	600
 刳	ku	600
 矻	ku	600
 枯	ku	600
 圐	ku	600
+骷	ku	600
 绔	ku	600
 庫	ku	600
 喾	ku	600
@@ -9906,122 +11448,254 @@ use_preset_vocabulary: false
 垮	kua	600
 挎	kua	600
 胯	kua	600
+㧟	kuai	600
 蒯	kuai	600
 侩	kuai	600
+郐	kuai	600
 哙	kuai	600
+狯	kuai	600
 脍	kuai	600
 塊	kuai	600
 筷	kuai	600
+鲙	kuai	600
 寬	kuan	600
+髋	kuan	600
+诓	kuang	600
 哐	kuang	600
+洭	kuang	600
 筐	kuang	600
+诳	kuang	600
 夼	kuang	600
+邝	kuang	600
 圹	kuang	600
 纩	kuang	600
 旷	kuang	600
 況	kuang	600
+贶	kuang	600
 框	kuang	600
 眶	kuang	600
 曠	kuang	600
 礦	kuang	600
+岿	kui	600
+悝	kui	600
 盔	kui	600
 窥	kui	600
 虧	kui	600
 奎	kui	600
+逵	kui	600
+馗	kui	600
 喹	kui	600
 葵	kui	600
+骙	kui	600
+戣	kui	600
+暌	kui	600
+魁	kui	600
+蝰	kui	600
+櫆	kui	600
+傀	gui	600
+煃	kui	600
 匮	kui	600
 喟	kui	600
+愦	kui	600
 蒉	kui	600
 潰	kui	600
 聩	kui	600
 堃	kun	600
+婫	kun	600
+裈	kun	600
+焜	kun	600
+琨	kun	600
+锟	kun	600
+髡	kun	600
+鹍	kun	600
+醌	kun	600
+鲲	kun	600
+悃	kun	600
 捆	kun	600
+阃	kun	600
 壸	kun	600
+蛞	kuo	600
 廓	kuo	600
 擴	kuo	600
 闊	kuo	600
 垃	la	600
+邋	la	600
+旯	la	600
+砬	la	600
 喇	la	600
+剌	la	600
+瘌	la	600
 辣	la	600
+蝲	la	600
+镴	la	600
 蠟	la	600
+鞡	la	600
 來	lai	600
 俫	lai	600
+崃	lai	600
+徕	lai	600
+涞	lai	600
+梾	lai	600
+铼	lai	600
+赉	lai	600
 睐	lai	600
+濑	lai	600
 賴	lai	600
 癞	lai	600
+岚	lan	600
 拦	lan	600
+婪	lan	600
+阑	lan	600
+谰	lan	600
+澜	lan	600
+褴	lan	600
+斓	lan	600
 藍	lan	600
+襕	lan	600
+镧	lan	600
 攔	lan	600
 籃	lan	600
 欄	lan	600
+揽	lan	600
 缆	lan	600
+榄	lan	600
+漤	lan	600
 罱	lan	600
 懒	lan	600
 懶	lan	600
 覽	lan	600
 濫	lan	600
 爛	lan	600
+廊	lang	600
+桹	lang	600
+琅	lang	600
+榔	lang	600
+锒	lang	600
 筤	lang	600
+螂	lang	600
+烺	lang	600
 塱	lang	600
+蓢	lang	600
+㮾	lang	600
 埌	lang	600
+崀	lang	600
 莨	lang	600
+阆	lang	600
+㫰	lang	600
 蒗	lang	600
 捞	lao	600
 撈	lao	600
+唠	lao	600
+崂	lao	600
 勞	lao	600
+痨	lao	600
+铹	lao	600
+醪	lao	600
+姥	lao	600
 荖	lao	600
+栳	lao	600
+铑	lao	600
+涝	lao	600
+烙	lao	600
 耢	lao	600
+酪	lao	600
+嫪	lao	600
 仂	le	600
 叻	le	600
+泐	le	600
 樂	le	600
 簕	le	600
+鳓	le	600
+饹	le	600
+嫘	lei	600
 缧	lei	600
+擂	lei	600
+檑	lei	600
 礌	lei	600
+镭	lei	600
 羸	lei	600
 罍	lei	600
 耒	lei	600
+诔	lei	600
 垒	lei	600
 磊	lei	600
+蕾	lei	600
 儡	lei	600
 壘	lei	600
+癗	lei	600
+藟	lei	600
 淚	lei	600
+酹	lei	600
 類	lei	600
 嘞	lei	600
+崚	leng	600
 塄	leng	600
+楞	leng	600
 堎	leng	600
 愣	leng	600
 哩	li	600
 狸	li	600
+骊	li	600
 梨	li	600
 犁	li	600
 喱	li	600
 鹂	li	600
+漓	li	600
 缡	li	600
+蓠	li	600
+嫠	li	600
 璃	li	600
+鲡	li	600
 篱	li	600
 罹	li	600
+醨	li	600
+藜	li	600
 離	li	600
+㰀	li	600
+黧	li	600
 籬	li	600
 鸝	li	600
+娌	li	600
+浬	li	600
+逦	li	600
 裡	li	600
+锂	li	600
 鲤	li	600
+澧	li	600
 禮	li	600
 鯉	li	600
+醴	li	600
+鳢	li	600
+朸	li	600
 呖	li	600
 坜	li	600
 沥	li	600
 苈	li	600
+戾	li	600
+枥	li	600
+疠	li	600
 俪	li	600
+栎	li	600
+疬	li	600
 荔	li	600
+轹	li	600
+郦	li	600
+猁	li	600
+珕	li	600
 砺	li	600
 砾	li	600
 莅	li	600
 莉	li	600
 唳	li	600
 粝	li	600
+蛎	li	600
 傈	li	600
 凓	li	600
+痢	li	600
+詈	li	600
+跞	li	600
+雳	li	600
+溧	li	600
 厲	li	600
 勵	li	600
 歷	li	600
@@ -10033,313 +11707,631 @@ use_preset_vocabulary: false
 倆	lia	600
 奁	lian	600
 帘	lian	600
+涟	lian	600
 莲	lian	600
 連	lian	600
+梿	lian	600
+裢	lian	600
 憐	lian	600
 磏	lian	600
+鲢	lian	600
+濂	lian	600
 聯	lian	600
 镰	lian	600
+蠊	lian	600
 鐮	lian	600
+敛	lian	600
+琏	lian	600
+裣	lian	600
+蔹	lian	600
 臉	lian	600
+浰	lian	600
+殓	lian	600
+楝	lian	600
 煉	lian	600
+瑓	lian	600
+潋	lian	600
 練	lian	600
 鏈	lian	600
 戀	lian	600
 俍	liang	600
 涼	liang	600
+椋	liang	600
+辌	liang	600
 粱	liang	600
 墚	liang	600
 糧	liang	600
 兩	liang	600
+魉	liang	600
+悢	liang	600
 晾	liang	600
+踉	liang	600
 諒	liang	600
 輛	liang	600
 撩	liao	600
+蹽	liao	600
 辽	liao	600
 僚	liao	600
+寥	liao	600
+漻	liao	600
 嘹	liao	600
+嫽	liao	600
+寮	liao	600
+潦	lao	600
+獠	liao	600
 缭	liao	600
 遼	liao	600
+橑	lao	600
+燎	liao	600
 療	liao	600
+鹩	liao	600
 簝	liao	600
+髎	liao	600
+钌	liao	600
+蓼	liao	600
+憭	liao	600
+尥	liao	600
+廖	liao	600
 撂	liao	600
 瞭	liao	600
+镣	liao	600
 咧	lie	600
 冽	lie	600
+峛	li	600
+洌	lie	600
 埒	lie	600
+捩	lie	600
 脟	lie	600
+趔	lie	600
+䴕	lie	600
 獵	lie	600
+躐	lie	600
+鬣	lie	600
+拎	lin	600
+啉	lin	600
 淋	lin	600
+琳	lin	600
 箖	lin	600
 粼	lin	600
 鄰	lin	600
+嶙	lin	600
+潾	lin	600
+遴	lin	600
+璘	lin	600
+辚	lin	600
+霖	lin	600
 瞵	lin	600
 臨	lin	600
 翷	lin	600
+麟	lin	600
 凛	lin	600
+廪	lin	600
+懔	lin	600
+檩	lin	600
+赁	lin	600
+蔺	lin	600
 膦	lin	600
+躏	lin	600
 伶	ling	600
 囹	ling	600
 坽	ling	600
 姈	ling	600
+泠	ling	600
 苓	ling	600
+昤	ling	600
+柃	ling	600
 玲	ling	600
+瓴	ling	600
 铃	ling	600
+鸰	ling	600
+㥄	ling	600
+棂	ling	600
 绫	ling	600
 羚	ling	600
 翎	ling	600
 舲	ling	600
 菱	ling	600
+蛉	ling	600
 祾	ling	600
 鈴	ling	600
+澪	ling	600
+鲮	ling	600
+酃	ling	600
 齡	ling	600
 靈	ling	600
 領	ling	600
 嶺	ling	600
+呤	ling	600
+熘	liu	600
+浏	liu	600
+琉	liu	600
+旒	liu	600
+馏	liu	600
+骝	liu	600
 榴	liu	600
+飗	liu	600
+瑬	liu	600
+瘤	liu	600
+镏	liu	600
+鹠	liu	600
+疁	liu	600
+镠	liu	600
+鎏	liu	600
+珋	liu	600
 绺	liu	600
+锍	liu	600
 罶	liu	600
+遛	liu	600
+鹨	liu	600
 咙	long	600
+泷	long	600
 茏	long	600
+昽	long	600
+栊	long	600
 珑	long	600
 胧	long	600
 眬	long	600
 砻	long	600
 笼	long	600
+漋	long	600
+癃	long	600
 窿	long	600
 龍	long	600
 嚨	long	600
 朧	long	600
 瓏	long	600
 籠	long	600
+陇	long	600
 垄	long	600
 拢	long	600
 壟	long	600
 攏	long	600
 哢	long	600
+䁖	lou	600
 剅	lou	600
 娄	lou	600
 喽	lou	600
+溇	lou	600
 蒌	lou	600
 嘍	lou	600
 樓	lou	600
 耧	lou	600
+蝼	lou	600
+髅	lou	600
+嵝	lou	600
 搂	lou	600
 摟	lou	600
 篓	lou	600
 陋	lou	600
+瘘	lou	600
+镂	lou	600
 噜	lu	600
+撸	lu	600
 芦	lu	600
 垆	lu	600
+泸	lu	600
 炉	lu	600
+栌	lu	600
 胪	lu	600
+轳	lu	600
+鸬	lu	600
 舻	lu	600
+颅	lu	600
+鲈	lu	600
 蘆	lu	600
 爐	lu	600
 卤	lu	600
 虏	lu	600
+掳	lu	600
 虜	lu	600
+澛	lu	600
+橹	lu	600
+镥	lu	600
+甪	lu	600
+赂	lu	600
+辂	lu	600
 陸	lu	600
+渌	lu	600
 菉	lu	600
+逯	lu	600
+琭	lu	600
 禄	lu	600
 僇	lu	600
 勠	lu	600
 稑	lu	600
+漉	lu	600
 箓	lu	600
+戮	lu	600
+辘	lu	600
+潞	lu	600
+蕗	lu	600
 錄	lu	600
+璐	lu	600
 簏	lu	600
+鹭	lu	600
+麓	lu	600
+氇	lu	600
 驴	lu	600
+闾	lu	600
+榈	lu	600
 驢	lu	600
 侣	lu	600
+捋	lu	600
+梠	lu	600
 稆	lu	600
 铝	lu	600
+屡	lu	600
 膂	lu	600
+褛	lu	600
 鋁	lu	600
 縷	lu	600
 垏	lu	600
+氯	lu	600
 葎	lu	600
+滤	lu	600
 綠	lu	600
 慮	lu	600
 娈	luan	600
+孪	luan	600
 峦	luan	600
+挛	luan	600
+栾	luan	600
 脔	luan	600
+滦	luan	600
+銮	luan	600
 巒	luan	600
 亂	luan	600
+䂮	lve	600
+锊	lve	600
 圙	lve	600
 抡	lun	600
 掄	lun	600
 仑	lun	600
 囵	lun	600
+沦	lun	600
 綸	lun	600
 輪	lun	600
 論	lun	600
 啰	luo	600
+猡	luo	600
 脶	luo	600
+椤	luo	600
 锣	luo	600
 箩	luo	600
 骡	luo	600
+螺	luo	600
 騾	luo	600
 蘿	luo	600
 邏	luo	600
 籮	luo	600
 鑼	luo	600
 倮	luo	600
+蓏	luo	600
+裸	luo	600
+瘰	luo	600
+蠃	luo	600
+泺	luo	600
 荦	luo	600
 骆	luo	600
+珞	luo	600
 絡	luo	600
+摞	luo	600
+漯	luo	600
+雒	luo	600
 駱	luo	600
 呣	m	600
+孖	ma	600
 媽	ma	600
+犸	ma	600
 蚂	ma	600
 馬	ma	600
 碼	ma	600
 螞	ma	600
+杩	ma	600
 祃	ma	600
 罵	ma	600
 嗎	ma	600
+霾	mai	600
 荬	mai	600
 買	mai	600
 劢	mai	600
 唛	ma	600
 脈	mai	600
 麥	mai	600
+鿏	mai	600
 賣	mai	600
 邁	mai	600
+颟	man	600
+蛮	man	600
 馒	man	600
 瞒	man	600
 瞞	man	600
+鞔	man	600
 饅	man	600
+鳗	man	600
+鬘	man	600
 滿	man	600
+螨	man	600
+谩	man	600
 墁	man	600
+幔	man	600
 缦	man	600
+镘	man	600
+牤	mang	600
+邙	mang	600
+尨	mang	600
+杧	mang	600
 氓	mang	600
 盲	mang	600
+厖	pang	600
 茫	mang	600
+牻	mang	600
 硭	mang	600
 莽	mang	600
+漭	mang	600
+蟒	mang	600
 貓	mao	600
 牦	mao	600
 茅	mao	600
 茆	mao	600
+旄	mao	600
+锚	mao	600
 髦	mao	600
 犛	mao	600
+蝥	mao	600
+蟊	mao	600
+峁	mao	600
+泖	mao	600
+昴	mao	600
+铆	mao	600
+芼	mao	600
 茂	mao	600
 眊	mao	600
 耄	mao	600
+袤	mao	600
 貿	mao	600
+鄚	mao	600
+楙	mao	600
+瑁	mao	600
 瞀	mao	600
+懋	mao	600
 麼	me	600
 沒	mei	600
+玫	mei	600
 莓	mei	600
+郿	mei	600
+嵋	mei	600
+湄	mei	600
+楣	mei	600
+瑂	mei	600
 酶	mei	600
+镅	mei	600
+鹛	mei	600
 霉	mei	600
 黴	mei	600
+浼	mei	600
+媄	mei	600
+渼	mei	600
 镁	mei	600
 鎂	mei	600
+袂	mei	600
+媚	mei	600
+魅	mei	600
+扪	men	600
+钔	men	600
 門	men	600
 呇	qi	600
 闷	men	600
+焖	men	600
 悶	men	600
+懑	men	600
 們	men	600
+虻	meng	600
 萌	meng	600
+甍	meng	600
 瞢	meng	600
+㠓	meng	600
+幪	meng	600
 朦	meng	600
+檬	meng	600
 礞	meng	600
+鹲	meng	600
 艨	meng	600
 勐	meng	600
 艋	meng	600
+蜢	meng	600
+獴	meng	600
+懵	meng	600
+蠓	meng	600
 夢	meng	600
 咪	mi	600
 眯	mi	600
 瞇	mi	600
 祢	mi	600
+猕	mi	600
+谜	mi	600
+醚	mi	600
 彌	mi	600
 縻	mi	600
+麋	mi	600
+蘼	mi	600
+醾	mi	600
 芈	mi	600
+弭	mi	600
+洣	mi	600
+敉	mi	600
 脒	mi	600
+汨	mi	600
+宓	mi	600
 泌	mi	600
+觅	mi	600
 祕	mi	600
+谧	mi	600
 嘧	mi	600
 蜜	mi	600
 绵	mian	600
 綿	mian	600
 丏	mian	600
+沔	mian	600
 勉	mian	600
+娩	mian	600
 偭	mian	600
 冕	mian	600
 勔	mian	600
+渑	mian	600
+愐	mian	600
+湎	mian	600
 缅	mian	600
 腼	mian	600
 眄	mian	600
 喵	miao	600
 苗	miao	600
 瞄	miao	600
+鹋	miao	600
+杪	miao	600
 眇	miao	600
+淼	miao	600
 渺	miao	600
 缈	miao	600
+藐	miao	600
+邈	miao	600
 廟	miao	600
 咩	mie	600
 滅	mie	600
 蔑	mie	600
 篾	mie	600
+岷	min	600
+忞	min	600
+旻	min	600
 苠	min	600
+珉	min	600
 缗	min	600
 皿	min	600
+闵	min	600
 抿	min	600
+泯	min	600
+黾	min	600
+闽	min	600
+悯	min	600
+湣	min	600
+愍	min	600
+鳘	min	600
+洺	ming	600
 茗	ming	600
 冥	ming	600
+铭	ming	600
+溟	ming	600
+蓂	ming	600
 鳴	ming	600
+酩	ming	600
 謬	miu	600
+谟	mo	600
+嫫	mo	600
+馍	mo	600
+摹	mo	600
 膜	mo	600
+麽	mo	600
+嬷	ma	600
+藦	mo	600
 蘑	mo	600
+殁	mo	600
 茉	mo	600
 陌	mo	600
 秣	mo	600
 漠	mo	600
+蓦	mo	600
+貊	mo	600
+靺	mo	600
+瘼	mo	600
+镆	mo	600
+貘	mo	600
 耱	mo	600
 哞	mou	600
 眸	mou	600
+蛑	mou	600
 缪	mou	600
 謀	mou	600
+鍪	mou	600
+毪	mu	600
 牡	mu	600
 拇	mu	600
 畝	mu	600
 仫	mu	600
 苜	mu	600
+钼	mu	600
 募	mu	600
 墓	mu	600
+镎	na	600
 乸	na	600
 吶	ne	600
 呐	ne	600
 肭	na	600
+衲	na	600
+钠	na	600
 納	na	600
+捺	na	600
 艿	nai	600
+氖	nai	600
+迺	nai	600
 佴	er	600
+柰	nai	600
+耏	nai	600
 萘	nai	600
+鼐	nai	600
 囡	nan	600
 喃	nan	600
 萳	nan	600
+楠	nan	600
 難	nan	600
+赧	nan	600
 腩	nan	600
+蝻	nan	600
+婻	nan	600
 囔	nang	600
+馕	nang	600
+曩	nang	600
+攮	nang	600
+齉	nang	600
+孬	nao	600
 呶	nao	600
+峱	nao	600
 硇	nao	600
+铙	nao	600
+猱	nao	600
+蛲	nao	600
 垴	nao	600
 惱	nao	600
+瑙	nao	600
 腦	nao	600
+淖	nao	600
 鬧	nao	600
 臑	nao	600
+讷	ne	600
+馁	nei	600
 內	nei	600
+恁	nen	600
 嫩	nen	600
-嗯	n	600
 妮	ni	600
+伲	ni	600
 坭	ni	600
+怩	ni	600
+铌	ni	600
+猊	ni	600
+霓	ni	600
+鲵	ni	600
+麑	ni	600
+旎	ni	600
 擬	ni	600
+薿	ni	600
+逆	ni	600
 匿	ni	600
 睨	ni	600
 腻	ni	600
+蔫	nian	600
+鲇	nian	600
 黏	nian	600
 捻	nian	600
+辇	nian	600
 撵	nian	600
 碾	nian	600
 攆	nian	600
@@ -10348,23 +12340,41 @@ use_preset_vocabulary: false
 酿	niang	600
 釀	niang	600
 茑	niao	600
+袅	niao	600
 鳥	niao	600
 尿	niao	600
 脲	niao	600
 捏	nie	600
+陧	nie	600
+涅	nie	600
 聂	nie	600
 臬	nie	600
 啮	nie	600
 菍	nie	600
 嗫	nie	600
+嵲	nie	600
+镊	nie	600
+镍	nie	600
+颞	nie	600
+蹑	nie	600
+孽	nie	600
+蘖	nie	600
 糵	nie	600
 咛	ning	600
 拧	ning	600
+狞	ning	600
+苧	ning	600
+柠	ning	600
 聍	ning	600
+甯	ning	600
 寧	ning	600
 嚀	ning	600
 擰	ning	600
+泞	ning	600
 妞	niu	600
+忸	niu	600
+狃	niu	600
+钮	niu	600
 紐	niu	600
 侬	nong	600
 哝	nong	600
@@ -10373,36 +12383,68 @@ use_preset_vocabulary: false
 農	nong	600
 濃	nong	600
 耨	nou	600
+孥	nu	600
+驽	nu	600
 笯	nu	600
+弩	nu	600
 砮	nu	600
 胬	nu	600
 傉	nu	600
+钕	nu	600
+恧	nu	600
+衄	nu	600
+疟	nve	600
 傩	nuo	600
+搦	nuo	600
+锘	nuo	600
+懦	nuo	600
 糯	nuo	600
 喔	o	600
 噢	o	600
-哦	o	600
+讴	ou	600
+殴	ou	600
+瓯	ou	600
 鸥	ou	600
 歐	ou	600
 鷗	ou	600
 耦	ou	600
+藕	ou	600
+怄	ou	600
+沤	ou	600
 趴	pa	600
 舥	pa	600
 啪	pa	600
+杷	pa	600
+琶	pa	600
 筢	pa	600
+潖	pa	600
 俳	pai	600
 徘	pai	600
 簰	pai	600
 哌	pai	600
 湃	pai	600
 蒎	pai	600
+潘	pan	600
+爿	pan	600
+槃	pan	600
 盤	pan	600
 磐	pan	600
 磻	pan	600
+蹒	pan	600
+蟠	pan	600
+泮	pan	600
 盼	pan	600
 畔	pan	600
+袢	pan	600
+襻	pan	600
 乓	pang	600
+雱	pang	600
+滂	pang	600
+彷	pang	600
 庞	pang	600
+逄	pang	600
+螃	pang	600
+鳑	pang	600
 龐	pang	600
 耪	pang	600
 胖	pang	600
@@ -10410,72 +12452,148 @@ use_preset_vocabulary: false
 脬	pao	600
 刨	pao	600
 咆	pao	600
+庖	pao	600
+狍	pao	600
 袍	pao	600
 匏	pao	600
 泡	pao	600
+疱	pao	600
 呸	pei	600
 胚	pei	600
+衃	pei	600
+醅	pei	600
+锫	pei	600
+裴	pei	600
 賠	pei	600
 沛	pei	600
+帔	pei	600
+旆	pei	600
+辔	pei	600
+霈	pei	600
 噴	pen	600
+湓	pen	600
 怦	peng	600
+抨	peng	600
 砰	peng	600
+烹	peng	600
 嘭	peng	600
 芃	peng	600
 堋	peng	600
+弸	peng	600
+淜	ping	600
 棚	peng	600
 硼	peng	600
 蓬	peng	600
 澎	peng	600
 篷	peng	600
 膨	peng	600
+蟛	peng	600
+椪	peng	600
 丕	pi	600
 伾	pi	600
 纰	pi	600
+邳	pi	600
 坯	pi	600
 披	pi	600
+狉	pi	600
 砒	pi	600
 劈	pi	600
 噼	pi	600
+霹	pi	600
+陂	bei	600
+枇	pi	600
+毗	pi	600
+蚍	pi	600
+郫	pi	600
+铍	pi	600
+陴	pi	600
 啤	pi	600
 埤	pi	600
+琵	pi	600
+鲏	pi	600
 罴	pi	600
+蜱	pi	600
+貔	pi	600
+鼙	pi	600
 圮	pi	600
 苉	pi	600
+痞	pi	600
+癖	pi	600
 嚭	pi	600
 屁	pi	600
+淠	pi	600
+媲	pi	600
+睥	pi	600
+澼	pi	600
+甓	pi	600
 譬	pi	600
+䴙	pi	600
+犏	pian	600
+骈	pian	600
 胼	pian	600
+㛹	pian	600
+楩	pian	600
+蹁	pian	600
+谝	pian	600
 騙	pian	600
 剽	piao	600
+缥	piao	600
+螵	piao	600
 飄	piao	600
+嫖	piao	600
 瓢	piao	600
+薸	piao	600
+殍	piao	600
 瞟	piao	600
+嘌	piao	600
+蔈	biao	600
+氕	pie	600
+撇	pie	600
 瞥	pie	600
 苤	pie	600
 姘	pin	600
+玭	pin	600
 貧	pin	600
+嫔	pin	600
 頻	pin	600
+牝	pin	600
 乒	ping	600
 俜	ping	600
 娉	ping	600
+涄	ping	600
 坪	ping	600
+泙	ping	600
 苹	ping	600
+帡	ping	600
+枰	ping	600
+洴	ping	600
+玶	ping	600
 荓	ping	600
 萍	ping	600
+蚲	ping	600
 評	ping	600
+鲆	ping	600
 憑	ping	600
 蘋	ping	600
+钋	po	600
 泼	po	600
+酦	po	600
+䥽	po	600
 頗	po	600
 潑	po	600
+鄱	po	600
 皤	po	600
 叵	po	600
+钷	po	600
 笸	po	600
+珀	po	600
 粕	po	600
+桲	po	600
 剖	pou	600
+裒	pou	600
 噗	pu	600
 撲	pu	600
+潽	pu	600
 匍	pu	600
 莆	pu	600
 脯	pu	600
@@ -10483,56 +12601,115 @@ use_preset_vocabulary: false
 葡	pu	600
 蒱	pu	600
 蒲	pu	600
+酺	pu	600
 墣	pu	600
+璞	pu	600
+濮	pu	600
 穙	pu	600
+镤	pu	600
 圃	pu	600
+溥	pu	600
+氆	pu	600
+镨	pu	600
+蹼	pu	600
 鋪	pu	600
 瀑	pu	600
 沏	qi	600
+柒	qi	600
 凄	qi	600
+桤	qi	600
+郪	qi	600
 淒	qi	600
 萋	qi	600
+欹	yi	600
 嘁	qi	600
+蹊	qi	600
 亓	qi	600
 祁	qi	600
 圻	qi	600
+岐	qi	600
 芪	qi	600
+歧	qi	600
 祈	qi	600
 耆	qi	600
 脐	qi	600
+颀	qi	600
 埼	qi	600
 崎	qi	600
+淇	qi	600
+畦	qi	600
 萁	qi	600
+跂	qi	600
+琦	qi	600
+琪	qi	600
+䓫	qi	600
+蛴	qi	600
+愭	qi	600
+锜	qi	600
 綦	qi	600
+蜞	qi	600
 齊	qi	600
+蕲	qi	600
+鲯	qi	600
 騎	qi	600
+鳍	qi	600
+麒	qi	600
+屺	qi	600
 芑	qi	600
+杞	qi	600
+玘	qi	600
 豈	qi	600
+婍	qi	600
 啟	qi	600
+棨	qi	600
+讫	qi	600
+汔	qi	600
+迄	qi	600
+洓	se	600
 砌	qi	600
 氣	qi	600
 棄	qi	600
 葺	qi	600
 碛	qi	600
 碶	qi	600
+槭	qi	600
 磜	qi	600
 掐	qia	600
+袷	jia	600
 葜	qia	600
+拤	qia	600
+髂	qia	600
 仟	qian	600
+阡	qian	600
 圲	qian	600
+扦	qian	600
 芊	qian	600
 佥	qian	600
+岍	qian	600
+杄	qian	600
+汧	qian	600
+钎	qian	600
+悭	qian	600
 牽	qian	600
 谦	qian	600
 鉛	qian	600
+骞	qian	600
+鹐	qian	600
+搴	qian	600
 遷	qian	600
+褰	qian	600
 謙	qian	600
 簽	qian	600
+钤	qian	600
+虔	qian	600
 钳	qian	600
+掮	qian	600
+靬	qian	600
 鉗	qian	600
 墘	qian	600
 潛	qian	600
 錢	qian	600
+黔	qian	600
 肷	qian	600
 淺	qian	600
 遣	qian	600
@@ -10546,34 +12723,72 @@ use_preset_vocabulary: false
 倩	qian	600
 堑	qian	600
 嵌	qian	600
+椠	qian	600
+慊	qian	600
 蒨	qian	600
 呛	qiang	600
 羌	qiang	600
+戕	qiang	600
+戗	qiang	600
+玱	qiang	600
+蜣	qiang	600
+锖	qiang	600
 槍	qiang	600
+锵	qiang	600
+镪	qiang	600
 強	qiang	600
+嫱	qiang	600
+蔷	qiang	600
+樯	qiang	600
+蔃	qiang	600
 牆	qiang	600
 羟	qiang	600
 搶	qiang	600
+襁	qiang	600
+炝	qiang	600
+跄	qiang	600
 硗	qiao	600
+跷	qiao	600
 劁	qiao	600
 锹	qiao	600
+橇	qiao	600
 缲	qiao	600
 鍬	qiao	600
 荞	qiao	600
 硚	qiao	600
+谯	qiao	600
+憔	qiao	600
+鞒	qiao	600
+樵	qiao	600
 橋	qiao	600
+愀	qiao	600
+诮	qiao	600
 峭	qiao	600
+撬	qiao	600
+鞘	qiao	600
 翹	qiao	600
+挈	qie	600
+惬	qie	600
 箧	qie	600
+锲	qie	600
 竊	qie	600
 钦	qin	600
+衾	qin	600
+骎	qin	600
+嵚	qin	600
 欽	qin	600
 親	qin	600
 芩	qin	600
 芹	qin	600
 嗪	qin	600
+溱	qin	600
+慬	qin	600
 噙	qin	600
+檎	qin	600
+锓	qin	600
 吣	qin	600
+沁	qin	600
+揿	qin	600
 氢	qing	600
 卿	qing	600
 圊	qing	600
@@ -10581,62 +12796,136 @@ use_preset_vocabulary: false
 傾	qing	600
 蜻	qing	600
 輕	qing	600
+鲭	qing	600
 勍	qing	600
+氰	qing	600
+擎	qing	600
+檠	qing	600
+黥	qing	600
 苘	qing	600
+庼	qing	600
 頃	qing	600
 請	qing	600
 碃	qing	600
 箐	qing	600
+綮	qi	600
 慶	qing	600
 磬	qing	600
 罄	qing	600
+邛	qiong	600
 穹	qiong	600
 茕	qiong	600
 筇	qiong	600
+䓖	qiong	600
+蛩	qiong	600
+銎	qiong	600
 窮	qiong	600
 蚯	qiu	600
 萩	qiu	600
+楸	qiu	600
+鹙	qiu	600
+鳅	qiu	600
+鞧	qiu	600
 囚	qiu	600
+犰	qiu	600
+虬	qiu	600
+泅	qiu	600
 俅	qiu	600
+訄	qiu	600
+酋	qiu	600
+逑	qiu	600
+赇	qiu	600
+巯	qiu	600
+遒	qiu	600
+璆	qiu	600
+蝤	qiu	600
+鼽	qiu	600
 糗	qiu	600
 岖	qu	600
+诎	qu	600
 坥	qu	600
+岨	qu	600
+㭕	qu	600
 祛	qu	600
 胠	qu	600
+袪	qu	600
 區	qu	600
 蛆	qu	600
+䓛	qu	600
+蛐	qu	600
 嶇	qu	600
+麹	qu	600
 趨	qu	600
 軀	qu	600
+黢	qu	600
 驅	qu	600
 劬	qu	600
+朐	qu	600
+鸲	qu	600
+蕖	qu	600
 磲	qu	600
+璩	qu	600
 瞿	qu	600
+鼩	qu	600
+蘧	qu	600
+灈	qu	600
+氍	qu	600
 癯	qu	600
+衢	qu	600
+蠼	qu	600
 竘	qu	600
 娶	qu	600
+龋	qu	600
+阒	qu	600
+棬	quan	600
 佺	quan	600
+诠	quan	600
 荃	quan	600
+辁	quan	600
+婘	quan	600
+痊	quan	600
+铨	quan	600
+瑔	quan	600
+蜷	quan	600
+醛	quan	600
+鳈	quan	600
+鬈	quan	600
 權	quan	600
+颧	quan	600
+畎	quan	600
 绻	quan	600
 勸	quan	600
+炔	que	600
+瘸	que	600
 卻	que	600
 埆	que	600
+悫	que	600
+阕	que	600
 碏	que	600
 鹊	que	600
+榷	que	600
 確	que	600
 鵲	que	600
 囷	qun	600
+逡	qun	600
+蚺	ran	600
+髯	ran	600
 冉	ran	600
 苒	ran	600
+䎃	ran	600
 儴	rang	600
+瀼	rang	600
+蘘	rang	600
 禳	rang	600
+瓤	rang	600
 穰	rang	600
 嚷	rang	600
 壤	rang	600
+攘	rang	600
 讓	rang	600
 娆	rao	600
 荛	rao	600
+桡	rao	600
 饒	rao	600
 擾	rao	600
 繞	rao	600
@@ -10646,62 +12935,120 @@ use_preset_vocabulary: false
 稔	ren	600
 刃	ren	600
 仞	ren	600
+讱	ren	600
 纫	ren	600
 妊	ren	600
 纴	ren	600
 韧	ren	600
+饪	ren	600
+衽	ren	600
+葚	ren	600
 韌	ren	600
 認	ren	600
 扔	reng	600
+驲	ri	600
+狨	rong	600
 绒	rong	600
 茸	rong	600
+嵘	rong	600
 絨	rong	600
 溶	rong	600
+蓉	rong	600
 榕	rong	600
 榮	rong	600
 熔	rong	600
+瑢	rong	600
+蝾	rong	600
+镕	rong	600
 冗	rong	600
 糅	rou	600
+蹂	rou	600
+鞣	rou	600
+铷	ru	600
 嚅	ru	600
+嬬	ru	600
+孺	ru	600
+薷	ru	600
+襦	ru	600
 蠕	ru	600
+颥	ru	600
+汝	ru	600
+洳	ru	600
+溽	ru	600
 缛	ru	600
+蓐	ru	600
 堧	ruan	600
+阮	ruan	600
 軟	ruan	600
+媆	ruan	600
+瓀	ruan	600
+蕤	rui	600
+蕊	rui	600
+汭	rui	600
 芮	rui	600
+枘	rui	600
+蚋	rui	600
 锐	rui	600
 睿	rui	600
 銳	rui	600
+闰	run	600
 潤	run	600
 偌	ruo	600
+鄀	ruo	600
+婼	chuo	600
+蒻	ruo	600
 箬	ruo	600
+爇	ruo	600
 仨	sa	600
+挲	sa	600
 洒	sa	600
+靸	sa	600
+潵	sa	600
 卅	sa	600
+飒	sa	600
 脎	sa	600
 薩	sa	600
 腮	sai	600
 噻	sai	600
+鳃	sai	600
 賽	sai	600
 叁	san	600
+毵	san	600
 傘	san	600
 糁	san	600
+馓	san	600
 嗓	sang	600
+搡	sang	600
 磉	sang	600
+颡	sang	600
 喪	sang	600
 搔	sao	600
+溞	sao	600
+骚	sao	600
 缫	sao	600
 臊	sao	600
 掃	sao	600
 嫂	sao	600
 埽	sao	600
+瘙	sao	600
+涩	se	600
 啬	se	600
+铯	se	600
+璱	se	600
 剎	sha	600
 砂	sha	600
 殺	sha	600
 紗	sha	600
+莎	sha	600
+铩	sha	600
+痧	sha	600
+裟	sha	600
+鲨	sha	600
 傻	sha	600
 唼	sha	600
+嗄	a	600
 廈	sha	600
+歃	sha	600
 筛	shai	600
 篩	shai	600
 晒	shai	600
@@ -10709,69 +13056,142 @@ use_preset_vocabulary: false
 芟	shan	600
 姗	shan	600
 苫	shan	600
+钐	shan	600
 珊	shan	600
 舢	shan	600
+跚	shan	600
+煽	shan	600
+潸	shan	600
 膻	shan	600
+陕	shan	600
 閃	shan	600
+晱	shan	600
+讪	shan	600
+汕	shan	600
+疝	shan	600
+剡	shan	600
+骟	shan	600
+鄯	shan	600
 墡	shan	600
 缮	shan	600
+嬗	shan	600
+嶦	zhan	600
+擅	shan	600
 膳	shan	600
+赡	shan	600
+蟮	shan	600
+鳝	shan	600
+殇	shang	600
+觞	shang	600
 傷	shang	600
 墒	shang	600
+熵	shang	600
 垧	shang	600
 賞	shang	600
 绱	shang	600
 捎	shao	600
 筲	shao	600
 艄	shao	600
+蛸	shao	600
 燒	shao	600
 勺	shao	600
 芍	shao	600
+苕	shao	600
+柖	shao	600
+玿	shao	600
 劭	shao	600
+邵	shao	600
 哨	shao	600
 紹	shao	600
+睄	shao	600
+潲	shao	600
 奢	she	600
+猞	she	600
+赊	she	600
+畬	she	600
+畲	she	600
 佘	she	600
 厍	she	600
 設	she	600
+滠	she	600
+歙	she	600
 攝	she	600
+麝	she	600
+屾	shen	600
 侁	shen	600
 呻	shen	600
 绅	shen	600
+诜	shen	600
+珅	shen	600
+娠	shen	600
+甡	shen	600
 砷	shen	600
 莘	shen	600
 紳	shen	600
+棽	shen	600
+燊	shen	600
+鲹	shen	600
 矧	shen	600
+谂	shen	600
 婶	shen	600
 審	shen	600
 瞫	shen	600
 嬸	shen	600
 肾	shen	600
 胂	shen	600
+椹	shen	600
+瘆	shen	600
+蜃	shen	600
 滲	shen	600
+昇	sheng	600
+陞	sheng	600
 笙	sheng	600
+甥	sheng	600
 聲	sheng	600
 绳	sheng	600
 繩	sheng	600
 勝	sheng	600
+嵊	sheng	600
 聖	sheng	600
+虱	shi	600
+邿	shi	600
+鸤	shi	600
+浉	shi	600
 師	shi	600
 獅	shi	600
 詩	shi	600
+酾	shai	600
+䴓	shi	600
+鲺	shi	600
 濕	shi	600
+炻	shi	600
 祏	shi	600
 蚀	shi	600
 埘	shi	600
 時	shi	600
+莳	shi	600
+湜	shi	600
 實	shi	600
 蝕	shi	600
+鲥	shi	600
+鼫	shi	600
 識	shi	600
 屎	shi	600
 駛	shi	600
+恃	shi	600
 拭	shi	600
+柿	shi	600
+䏡	shi	600
+贳	shi	600
+栻	shi	600
 舐	shi	600
+轼	shi	600
 逝	shi	600
+铈	shi	600
 視	shi	600
+媞	shi	600
+弑	shi	600
+谥	shi	600
 勢	shi	600
 嗜	shi	600
 筮	shi	600
@@ -10780,28 +13200,49 @@ use_preset_vocabulary: false
 適	shi	600
 奭	shi	600
 噬	shi	600
+螫	shi	600
+襫	shi	600
 釋	shi	600
 艏	shou	600
+狩	shou	600
 绶	shou	600
 壽	shou	600
 瘦	shou	600
 獸	shou	600
+殳	shu	600
+抒	shu	600
 纾	shu	600
 枢	shu	600
+陎	shu	600
 姝	shu	600
 倏	shu	600
 書	shu	600
 梳	shu	600
+淑	shu	600
+鄃	shu	600
+摅	shu	600
+毹	shu	600
 樞	shu	600
 輸	shu	600
 秫	shu	600
+婌	shu	600
+孰	shu	600
+赎	shu	600
 塾	shu	600
 薯	shu	600
+曙	shu	600
 屬	shu	600
 朮	shu	600
+戍	shu	600
+沭	shu	600
+恕	shu	600
+庶	shu	600
+隃	shu	600
 腧	shu	600
 墅	shu	600
+漱	shu	600
 數	shu	600
+澍	shu	600
 豎	shu	600
 樹	shu	600
 刷	shua	600
@@ -10813,10 +13254,16 @@ use_preset_vocabulary: false
 帥	shuai	600
 蟀	shuai	600
 拴	shuan	600
+栓	shuan	600
+涮	shuan	600
 腨	shuan	600
 雙	shuang	600
+孀	shuang	600
+骦	shuang	600
 礵	shuang	600
+鹴	shuang	600
 誰	shui	600
+帨	shui	600
 稅	shui	600
 吮	shun	600
 舜	shun	600
@@ -10825,25 +13272,48 @@ use_preset_vocabulary: false
 說	shuo	600
 妁	shuo	600
 烁	shuo	600
+铄	shuo	600
+搠	shuo	600
 蒴	shuo	600
+槊	shuo	600
 爍	shuo	600
 咝	si	600
+㟃	si	600
+虒	si	600
+鸶	si	600
 絲	si	600
 缌	si	600
+蛳	si	600
+楒	si	600
+飔	si	600
 凘	si	600
 厮	si	600
+锶	si	600
 撕	si	600
+澌	si	600
+巳	si	600
+汜	si	600
 兕	si	600
 姒	si	600
 祀	si	600
+泗	si	600
 饲	si	600
+驷	si	600
+涘	si	600
 耜	si	600
 嗣	si	600
 肆	si	600
 飼	si	600
+忪	song	600
 娀	song	600
 凇	song	600
+崧	song	600
+淞	song	600
 菘	song	600
+嵩	song	600
+㧐	song	600
+怂	song	600
+悚	song	600
 耸	song	600
 竦	song	600
 聳	song	600
@@ -10852,51 +13322,109 @@ use_preset_vocabulary: false
 頌	song	600
 誦	song	600
 嗖	sou	600
+廋	sou	600
+溲	sou	600
 蒐	sou	600
+馊	sou	600
+飕	sou	600
+锼	sou	600
+螋	sou	600
 叟	sou	600
 嗾	sou	600
 瞍	sou	600
+擞	sou	600
+薮	sou	600
 嗽	sou	600
+甦	su	600
+酥	su	600
 稣	su	600
 窣	su	600
 蘇	su	600
 夙	su	600
+涑	su	600
+骕	su	600
 傃	su	600
 訴	su	600
+谡	su	600
 嗉	su	600
 塑	su	600
+愫	su	600
 肅	su	600
+鹔	su	600
 僳	su	600
+蔌	su	600
+觫	su	600
 簌	su	600
+蹜	su	600
+狻	suan	600
 蒜	suan	600
 荽	sui	600
+眭	sui	600
+睢	sui	600
+濉	sui	600
 雖	sui	600
 绥	sui	600
+隋	sui	600
 隨	sui	600
 祟	sui	600
+谇	sui	600
 歲	sui	600
 隧	sui	600
+燧	sui	600
+璲	sui	600
 穗	sui	600
 穟	sui	600
+襚	sui	600
+邃	sui	600
+旞	sui	600
+狲	sun	600
 荪	sun	600
 孫	sun	600
+飧	sun	600
 笋	sun	600
+隼	sun	600
 損	sun	600
+榫	sun	600
 唆	suo	600
+娑	suo	600
+桫	suo	600
+梭	suo	600
 睃	suo	600
 嗍	suo	600
 嗦	suo	600
 羧	suo	600
+蓑	suo	600
 縮	suo	600
 唢	suo	600
 琐	suo	600
+溹	suo	600
 瑣	suo	600
 鎖	suo	600
+趿	ta	600
+铊	ta	600
+溻	ta	600
+褟	ta	600
+鿎	ta	600
+獭	ta	600
+鳎	ta	600
+拓	tuo	600
+挞	ta	600
+闼	ta	600
+阘	da	600
 蹋	ta	600
+鞳	ta	600
+遢	ta	600
 胎	tai	600
+邰	tai	600
 苔	tai	600
+炱	tai	600
+跆	tai	600
+鲐	tai	600
+薹	tai	600
 汰	tai	600
 肽	tai	600
+钛	tai	600
+酞	tai	600
 態	tai	600
 坍	tan	600
 貪	tan	600
@@ -10904,108 +13432,240 @@ use_preset_vocabulary: false
 攤	tan	600
 灘	tan	600
 倓	tan	600
+郯	tan	600
+惔	tan	600
+榃	tan	600
 痰	tan	600
+锬	tan	600
+谭	tan	600
 潭	tan	600
 談	tan	600
+檀	tan	600
+磹	tan	600
+忐	tan	600
+袒	tan	600
+钽	tan	600
 菼	tan	600
 毯	tan	600
+璮	tan	600
 嘆	tan	600
+铴	tang	600
 湯	tang	600
 嘡	tang	600
+耥	tang	600
 羰	tang	600
+镗	tang	600
+蹚	tang	600
+棠	tang	600
+鄌	tang	600
 塘	tang	600
 搪	tang	600
+溏	tang	600
+瑭	tang	600
+䣘	tang	600
+樘	tang	600
+螗	tang	600
+帑	tang	600
 倘	tang	600
 埫	chong	600
 淌	tang	600
 傥	tang	600
+镋	tang	600
 烫	tang	600
 趟	tang	600
 燙	tang	600
+弢	tao	600
 涛	tao	600
 绦	tao	600
 掏	tao	600
+焘	dao	600
+慆	tao	600
 滔	tao	600
+韬	tao	600
 濤	tao	600
+饕	tao	600
+洮	tao	600
 桃	tao	600
 啕	tao	600
+梼	tao	600
 淘	tao	600
 绹	tao	600
 萄	tao	600
+鼗	tao	600
 討	tao	600
+忑	te	600
+忒	te	600
+铽	te	600
+慝	te	600
+熥	teng	600
+誊	teng	600
+滕	teng	600
 縢	teng	600
+螣	te	600
 騰	teng	600
+䲢	teng	600
 剔	ti	600
+䏲	die	600
+锑	ti	600
 踢	ti	600
+擿	ti	600
+䴘	ti	600
+荑	ti	600
 绨	ti	600
 啼	ti	600
 缇	ti	600
+遆	ti	600
+鹈	ti	600
+瑅	ti	600
 蹄	ti	600
+醍	ti	600
+鳀	ti	600
 題	ti	600
 體	ti	600
 屉	ti	600
 剃	ti	600
 倜	ti	600
+悌	ti	600
 涕	ti	600
+逖	ti	600
 屜	ti	600
 惕	ti	600
+裼	ti	600
 嚏	ti	600
+趯	ti	600
+黇	tian	600
+沺	tian	600
+恬	tian	600
+畋	tian	600
+盷	tian	600
 甜	tian	600
+湉	tian	600
+阗	tian	600
+忝	tian	600
+殄	tian	600
+淟	tian	600
+晪	tian	600
 舔	tian	600
+掭	tian	600
 條	tiao	600
 笤	tiao	600
+龆	tiao	600
+蜩	tiao	600
+髫	tiao	600
+鲦	tiao	600
+朓	tiao	600
 窕	tiao	600
+嬥	tiao	600
 眺	tiao	600
 粜	tiao	600
 糶	tiao	600
 萜	tie	600
 貼	tie	600
 鐵	tie	600
+餮	tie	600
+汀	ting	600
+烃	ting	600
+桯	ting	600
 聽	ting	600
 廳	ting	600
 莛	ting	600
+婷	ting	600
+渟	ting	600
 葶	ting	600
 蜓	ting	600
+霆	ting	600
+䗴	ting	600
 圢	ting	600
+町	ting	600
 侹	ting	600
+梃	ting	600
+烶	ting	600
+珽	ting	600
+铤	ding	600
+颋	ting	600
 嗵	tong	600
 仝	tong	600
 佟	tong	600
+彤	tong	600
+峂	tong	600
 哃	tong	600
 茼	tong	600
+桐	tong	600
+烔	tong	600
 砼	tong	600
+酮	tong	600
 銅	tong	600
+鲖	tong	600
+曈	tong	600
+橦	tong	600
 瞳	tong	600
+穜	zhong	600
+㛚	tong	600
+捅	tong	600
 統	tong	600
+恸	tong	600
+骰	tou	600
 頭	tou	600
 凸	tu	600
 禿	tu	600
 秃	tu	600
 葖	tu	600
+㻬	tu	600
 荼	tu	600
 屠	tu	600
+梌	tu	600
 稌	tu	600
 腯	tu	600
 圖	tu	600
+酴	tu	600
+钍	tu	600
 兔	tu	600
 堍	tu	600
+菟	tu	600
+湍	tuan	600
+猯	tuan	600
+煓	tuan	600
+抟	tuan	600
 團	tuan	600
+疃	tuan	600
+彖	tuan	600
+颓	tui	600
+魋	tui	600
+煺	tui	600
+褪	tui	600
+焞	tun	600
+暾	tun	600
 坉	tun	600
+忳	tun	600
+饨	tun	600
+鲀	tun	600
 臀	tun	600
 圫	yu	600
 侂	tuo	600
 脫	tuo	600
 佗	tuo	600
 坨	tuo	600
+沱	tuo	600
 驼	tuo	600
+柁	duo	600
 砣	tuo	600
+鸵	tuo	600
+跎	tuo	600
+酡	tuo	600
 馱	tuo	600
 駝	tuo	600
+橐	tuo	600
+鼍	tuo	600
+庹	tuo	600
 椭	tuo	600
 橢	tuo	600
+柝	tuo	600
 萚	tuo	600
 箨	tuo	600
 挖	wa	600
+洼	wa	600
+娲	wa	600
+畖	wa	600
 窊	wa	600
 娃	wa	600
 佤	wa	600
@@ -11013,8 +13673,11 @@ use_preset_vocabulary: false
 腽	wa	600
 襪	wa	600
 哇	wa	600
+崴	wai	600
 剜	wan	600
+婠	wan	600
 塆	wan	600
+蜿	wan	600
 豌	wan	600
 彎	wan	600
 灣	wan	600
@@ -11022,46 +13685,105 @@ use_preset_vocabulary: false
 芄	wan	600
 顽	wan	600
 頑	wan	600
+宛	wan	600
 挽	wan	600
+婉	wan	600
 惋	wan	600
 绾	wan	600
 脘	wan	600
 菀	wan	600
+椀	wan	600
+琬	wan	600
 皖	wan	600
+畹	wan	600
 碗	wan	600
 萬	wan	600
 腕	wan	600
+尢	you	600
+尪	wang	600
 罔	wang	600
+惘	wang	600
+辋	wang	600
 網	wang	600
+魍	wang	600
 妄	wang	600
+逶	wei	600
+隈	wei	600
 葳	wei	600
+溦	wei	600
+煨	wei	600
+薇	wei	600
+鳂	wei	600
 巍	wei	600
 圩	wei	600
+帏	wei	600
+沩	wei	600
+闱	wei	600
+峗	wei	600
+洈	wei	600
 桅	wei	600
+涠	wei	600
+帷	wei	600
 圍	wei	600
+嵬	wei	600
+琟	wei	600
 違	wei	600
+潍	wei	600
 維	wei	600
+炜	wei	600
+玮	wei	600
+洧	wei	600
+娓	wei	600
 偉	wei	600
 偽	wei	600
+萎	wei	600
+隗	kui	600
+廆	gui	600
+猥	wei	600
 葦	wei	600
+痿	wei	600
 艉	wei	600
+鲔	wei	600
 緯	wei	600
+薳	wei	600
 為	wei	600
 硙	wei	600
 喂	wei	600
+渭	wei	600
 猬	wei	600
+煟	wei	600
+碨	wei	600
 蝟	wei	600
 衛	wei	600
 謂	wei	600
+螱	wei	600
+霨	wei	600
+鳚	wei	600
+榅	wen	600
 溫	wen	600
+辒	wen	600
+蕰	wen	600
+鳁	wen	600
 芠	wen	600
+炆	wen	600
+玟	wen	600
 紋	wen	600
 蚊	wen	600
+阌	wen	600
+雯	wen	600
 聞	wen	600
 刎	wen	600
 穩	wen	600
+汶	wen	600
 問	wen	600
+璺	wen	600
 嗡	weng	600
+滃	weng	600
+鹟	weng	600
+蓊	weng	600
+瓮	weng	600
+蕹	weng	600
+挝	wo	600
 倭	wo	600
 涡	wo	600
 莴	wo	600
@@ -11069,35 +13791,78 @@ use_preset_vocabulary: false
 窩	wo	600
 蜗	wo	600
 蝸	wo	600
+踒	wo	600
 肟	wo	600
 臥	wo	600
 偓	wo	600
+涴	wo	600
+幄	wo	600
+渥	wo	600
 硪	wo	600
+斡	wo	600
+龌	wo	600
 圬	wu	600
+邬	wu	600
+洿	wu	600
 诬	wu	600
+钨	wu	600
 烏	wu	600
 嗚	wu	600
 誣	wu	600
+毋	wu	600
+郚	wu	600
+唔	wu	600
+峿	yu	600
+浯	wu	600
+梧	wu	600
+珸	wu	600
 無	wu	600
+铻	wu	600
+鹀	wu	600
 蜈	wu	600
+鼯	wu	600
 仵	wu	600
 妩	wu	600
+庑	wu	600
+怃	wu	600
+迕	wu	600
+旿	wu	600
 侮	wu	600
 捂	wu	600
+牾	wu	600
+珷	wu	600
+鹉	wu	600
 兀	wu	600
 勿	wu	600
+戊	wu	600
+屼	wu	600
 坞	wu	600
+杌	wu	600
 芴	wu	600
 務	wu	600
+焐	wu	600
+婺	wu	600
+痦	wu	600
+靰	wu	600
+寤	wu	600
 誤	wu	600
+鋈	wu	600
 霧	wu	600
 兮	xi	600
+汐	xi	600
 穸	xi	600
 肸	xi	600
 俙	xi	600
+恓	xi	600
+郗	xi	600
+饻	xi	600
 唏	xi	600
 奚	xi	600
+浠	xi	600
 牺	xi	600
+晞	xi	600
+淅	xi	600
+烯	xi	600
 硒	xi	600
 菥	xi	600
 傒	xi	600
@@ -11112,49 +13877,109 @@ use_preset_vocabulary: false
 皙	xi	600
 僖	xi	600
 熄	xi	600
+熙	xi	600
+蜥	xi	600
+豨	xi	600
 嘻	xi	600
+嬉	xi	600
+嶲	xi	600
 膝	xi	600
+暿	xi	600
+樨	xi	600
+熹	xi	600
+熻	xi	600
 窸	xi	600
 羲	xi	600
+螅	xi	600
 錫	xi	600
 蟋	xi	600
+谿	xi	600
+釐	li	600
+醯	xi	600
+曦	xi	600
+爔	xi	600
 犧	xi	600
+酅	xi	600
+鼷	xi	600
+觿	xi	600
+觋	xi	600
+嶍	xi	600
+隰	xi	600
+鳛	xi	600
 襲	xi	600
+枲	xi	600
+玺	xi	600
+铣	xi	600
 葸	xi	600
+屣	xi	600
+蓰	xi	600
+憙	xi	600
 禧	xi	600
+屃	xi	600
+饩	xi	600
+咥	xi	600
+郤	xi	600
 绤	xi	600
 細	xi	600
+阋	xi	600
 舄	xi	600
 禊	xi	600
+潟	xi	600
 戲	xi	600
+呷	ga	600
 瞎	xia	600
 蝦	xia	600
 匣	xia	600
+狎	xia	600
 叚	jia	600
+柙	xia	600
 狭	xia	600
 峽	xia	600
 狹	xia	600
 硖	xia	600
 翈	xia	600
+遐	xia	600
+黠	xia	600
 嚇	xia	600
 罅	xia	600
+忺	xian	600
+氙	xian	600
 祆	xian	600
 籼	xian	600
 莶	xian	600
 掀	xian	600
+跹	xian	600
+酰	xian	600
+锨	xian	600
+暹	xian	600
 鮮	xian	600
+孅	qian	600
 纖	xian	600
 伭	xian	600
+挦	xian	600
+涎	xian	600
+娴	xian	600
 舷	xian	600
 衔	xian	600
+痫	xian	600
 閑	xian	600
+鹇	xian	600
 嫌	xian	600
 銜	xian	600
 冼	xian	600
+狝	xian	600
+崄	xian	600
+猃	xian	600
+蚬	xian	600
 筅	xian	600
 禒	xian	600
+跣	xian	600
+㬎	xian	600
 險	xian	600
+藓	xian	600
+燹	xian	600
 顯	xian	600
+岘	xian	600
 苋	xian	600
 現	xian	600
 馅	xian	600
@@ -11167,209 +13992,473 @@ use_preset_vocabulary: false
 縣	xian	600
 餡	xian	600
 獻	xian	600
+霰	xian	600
 芗	xiang	600
 鄉	xiang	600
 廂	xiang	600
+湘	xiang	600
 缃	xiang	600
 葙	xiang	600
+襄	xiang	600
+骧	xiang	600
+瓖	xiang	600
 镶	xiang	600
 鑲	xiang	600
+庠	xiang	600
 翔	xiang	600
 詳	xiang	600
+饷	xiang	600
+飨	xiang	600
+鲞	xiang	600
 響	xiang	600
+珦	xiang	600
 項	xiang	600
 橡	xiang	600
+枭	xiao	600
 哓	xiao	600
+枵	xiao	600
+骁	xiao	600
 宵	xiao	600
 绡	xiao	600
+虓	xiao	600
+逍	xiao	600
+鸮	xiao	600
+猇	xiao	600
 萧	xiao	600
 硝	xiao	600
 翛	xiao	600
+潇	xiao	600
 箫	xiao	600
 銷	xiao	600
+魈	xiao	600
+蟏	xiao	600
 嚣	xiao	600
 簫	xiao	600
+洨	xiao	600
+崤	xiao	600
+淆	xiao	600
 筱	xiao	600
 皛	xiao	600
 曉	xiao	600
 哮	xiao	600
+涍	xiao	600
 啸	xiao	600
+敩	xiao	600
 嘯	xiao	600
+揳	xie	600
+楔	xie	600
 歇	xie	600
+蝎	xie	600
 協	xie	600
 挟	xie	600
 挾	xie	600
 脅	xie	600
+谐	xie	600
+㙦	xie	600
 勰	xie	600
+撷	xie	600
 缬	xie	600
 攜	xie	600
 寫	xie	600
 绁	xie	600
 偰	xie	600
+榍	xie	600
+榭	xie	600
+廨	xie	600
+澥	xie	600
+獬	xie	600
+薢	xie	600
+薤	xie	600
+邂	xie	600
+燮	xie	600
 謝	xie	600
+瀣	xie	600
+躞	xie	600
+忻	xin	600
 芯	xin	600
+昕	xin	600
+炘	xin	600
+䜣	xin	600
 锌	xin	600
+歆	xin	600
 鋅	xin	600
+馨	xin	600
+鑫	xin	600
 伈	xin	600
 囟	xin	600
 衅	xin	600
 舋	xin	600
+骍	xing	600
+惺	xing	600
 猩	xing	600
+煋	xing	600
+瑆	xing	600
 腥	xing	600
+邢	xing	600
+饧	tang	600
+陉	xing	600
 荥	xing	600
+钘	xing	600
 硎	xing	600
+铏	xing	600
+擤	xing	600
+杏	xing	600
 荇	xing	600
+婞	xing	600
+悻	xing	600
 興	xing	600
 匈	xiong	600
+芎	qiong	600
+讻	xiong	600
 汹	xiong	600
 洶	xiong	600
+诇	xiong	600
 夐	xiong	600
 咻	xiu	600
+庥	xiu	600
+鸺	xiu	600
+貅	xiu	600
+馐	xiu	600
+䗛	xiu	600
+髹	xiu	600
+滫	xiu	600
+岫	xiu	600
+珛	xiu	600
 绣	xiu	600
+琇	xiu	600
 嗅	xiu	600
+溴	xiu	600
 繡	xiu	600
 鏽	xiu	600
 吁	xu	600
+戌	xu	600
+旴	xu	600
 盱	xu	600
+顼	xu	600
+谞	xu	600
+媭	xu	600
+欻	chua	600
+湑	xu	600
 虛	xu	600
 須	xu	600
 嘘	xu	600
+魆	xu	600
 噓	xu	600
+诩	xu	600
+冔	xu	600
+栩	xu	600
+珝	xu	600
 許	xu	600
 糈	xu	600
+醑	xu	600
+旭	xu	600
+昫	xu	600
+洫	xu	600
+㳚	xu	600
 垿	xu	600
 勖	xu	600
 敘	xu	600
+酗	xu	600
+溆	xu	600
 絮	xu	600
+煦	xu	600
 蓄	xu	600
 緒	xu	600
 續	xu	600
+蓿	xu	600
+谖	xuan	600
 喧	xuan	600
+愃	xuan	600
 萱	xuan	600
 暄	xuan	600
+煊	xuan	600
+瑄	xuan	600
 儇	xuan	600
 禤	xuan	600
 翾	xuan	600
+玹	xuan	600
+痃	xuan	600
 漩	xuan	600
+暶	xuan	600
+璇	xuan	600
 懸	xuan	600
 咺	xuan	600
+晅	xuan	600
+烜	xuan	600
 選	xuan	600
+泫	xuan	600
+昡	xuan	600
+炫	xuan	600
 绚	xuan	600
 眩	xuan	600
+铉	xuan	600
+琄	xuan	600
+衒	xuan	600
+渲	xuan	600
 絢	xuan	600
+楦	xuan	600
 碹	xuan	600
 削	xue	600
 靴	xue	600
+薛	xue	600
+峃	xue	600
 茓	xue	600
 噱	jue	600
 學	xue	600
+鳕	xue	600
+谑	xue	600
 勋	xun	600
+獯	xun	600
+薰	xun	600
+曛	xun	600
+醺	xun	600
+峋	xun	600
+恂	xun	600
+洵	xun	600
+浔	xun	600
 荀	xun	600
+荨	xun	600
+栒	xun	600
+珣	xun	600
 尋	xun	600
 詢	xun	600
 汛	xun	600
+驯	xun	600
+殉	xun	600
 訊	xun	600
 訓	xun	600
+巽	xun	600
 遜	xun	600
 噀	xun	600
+蕈	xun	600
 押	ya	600
 垭	ya	600
+桠	ya	600
 鸭	ya	600
 鴉	ya	600
 鴨	ya	600
 壓	ya	600
 伢	ya	600
+岈	ya	600
+玡	ya	600
+琊	ya	600
 蚜	ya	600
 堐	ya	600
 衙	ya	600
 啞	ya	600
 讶	ya	600
+迓	ya	600
 亞	ya	600
 軋	ya	600
 娅	ya	600
 砑	ya	600
+氩	ya	600
 訝	ya	600
+揠	ya	600
+猰	ya	600
+恹	yan	600
 胭	yan	600
+崦	yan	600
 淹	yan	600
+阉	yan	600
+阏	e	600
+湮	yan	600
+腌	yan	600
 煙	yan	600
+鄢	yan	600
+嫣	yan	600
+漹	yan	600
+闫	yan	600
+芫	yan	600
+阎	yan	600
 筵	yan	600
+蜒	yan	600
+虤	yan	600
 檐	yan	600
 顏	yan	600
 嚴	yan	600
 鹽	yan	600
+沇	yan	600
 兖	yan	600
+弇	yan	600
+䶮	yan	600
 厣	yan	600
+郾	yan	600
+扊	yan	600
+棪	yan	600
+渰	yan	600
+琰	yan	600
 罨	yan	600
+戭	yan	600
+蝘	yan	600
+魇	yan	600
+黡	yan	600
+甗	yan	600
+鼹	yan	600
+觃	yan	600
+彦	yan	600
 砚	yan	600
 唁	yan	600
+晏	yan	600
+烻	yan	600
+掞	shan	600
+谚	yan	600
 堰	yan	600
 焰	yan	600
+焱	yan	600
+雁	yan	600
+滟	yan	600
 厭	yan	600
 墕	yan	600
+酽	yan	600
+谳	yan	600
+餍	yan	600
+赝	yan	600
+嬿	yan	600
 驗	yan	600
 艷	yan	600
+咉	yang	600
+泱	yang	600
 秧	yang	600
+鸯	yang	600
+鞅	yang	600
+旸	yang	600
+炀	yang	600
+玚	chang	600
+飏	yang	600
+疡	yang	600
+钖	yang	600
 垟	yang	600
+徉	yang	600
+烊	yang	600
 陽	yang	600
 揚	yang	600
+蛘	yang	600
 楊	yang	600
 養	yang	600
+怏	yang	600
+恙	yang	600
 羕	yang	600
 漾	yang	600
 樣	yang	600
+幺	yao	600
 夭	yao	600
 吆	yao	600
 妖	yao	600
+㙘	yao	600
+爻	yao	600
+尧	yao	600
 肴	yao	600
 垚	yao	600
 姚	yao	600
+峣	yao	600
+轺	yao	600
+珧	yao	600
 窑	yao	600
 谣	yao	600
+媱	yao	600
+徭	yao	600
 搖	yao	600
+滧	yao	600
+猺	yao	600
 遙	yao	600
+瑶	yao	600
 窯	yao	600
 繇	yao	600
 謠	yao	600
+鳐	yao	600
+杳	yao	600
 窅	yao	600
 窈	yao	600
 舀	yao	600
+崾	yao	600
+靿	yao	600
+鹞	yao	600
+曜	yao	600
 藥	yao	600
 耀	yao	600
 鑰	yao	600
 倻	ye	600
+椰	ye	600
 噎	ye	600
+揶	ye	600
+铘	ye	600
 爺	ye	600
+曳	ye	600
+邺	ye	600
 頁	ye	600
+晔	ye	600
+烨	ye	600
+谒	ye	600
 腋	ye	600
 葉	ye	600
 業	ye	600
+馌	ye	600
+靥	ye	600
 祎	yi	600
 咿	yi	600
+洢	yi	600
+猗	yi	600
+铱	yi	600
+揖	yi	600
+漪	yi	600
 噫	yi	600
 繄	yi	600
 醫	yi	600
+黟	yi	600
 匜	yi	600
 圯	yi	600
+沂	yi	600
+诒	yi	600
+怡	yi	600
+迤	yi	600
+饴	yi	600
 咦	yi	600
+贻	yi	600
+宧	yi	600
+扅	yi	600
 眙	yi	600
 胰	yi	600
+痍	yi	600
+椸	yi	600
+颐	yi	600
 儀	yi	600
 遺	yi	600
+嶷	yi	600
 簃	yi	600
+彝	yi	600
+钇	yi	600
 佁	yi	600
 矣	yi	600
 苡	yi	600
 舣	yi	600
+扆	yi	600
+酏	yi	600
+旖	yi	600
+踦	yi	600
 蟻	yi	600
 乂	yi	600
+弋	yi	600
 刈	yi	600
 屹	yi	600
 呓	yi	600
+杙	yi	600
+邑	yi	600
 佾	yi	600
+㑊	yi	600
+峄	yi	600
+怿	yi	600
+枍	yi	600
 绎	yi	600
+诣	yi	600
 奕	yi	600
+弈	yi	600
 疫	yi	600
 羿	yi	600
+轶	yi	600
+悒	yi	600
+挹	yi	600
+浥	yi	600
 谊	yi	600
 勚	yi	600
 埸	yi	600
@@ -11379,35 +14468,82 @@ use_preset_vocabulary: false
 缢	yi	600
 義	yi	600
 肄	yi	600
+裔	yi	600
+裛	yi	600
+嫕	yi	600
+廙	yi	600
+潩	yi	600
+瘗	yi	600
+蜴	yi	600
 億	yi	600
+熠	yi	600
 誼	yi	600
+鹝	yi	600
 劓	yi	600
 憶	yi	600
+殪	yi	600
+燚	yi	600
+薏	yi	600
+螠	yi	600
 翳	yi	600
 臆	yi	600
+癔	yi	600
 藝	yi	600
+镱	yi	600
 譯	yi	600
 議	yi	600
+懿	yi	600
 姻	yin	600
+洇	yin	600
 茵	yin	600
 荫	yin	600
+骃	yin	600
+殷	yin	600
+氤	yin	600
 陰	yin	600
+铟	yin	600
 堙	yin	600
+愔	yin	600
+歅	yin	600
+溵	yin	600
 禋	yin	600
+狺	yin	600
+珢	yin	600
+訚	yin	600
+寅	yin	600
+崟	yin	600
+硍	xian	600
+龂	yin	600
+鄞	yin	600
 夤	yin	600
 銀	yin	600
+龈	ken	600
 嚚	yin	600
+蟫	yin	600
+霪	yin	600
+尹	yin	600
 吲	yin	600
 蚓	yin	600
 飲	yin	600
 隱	yin	600
 茚	yin	600
 胤	yin	600
+窨	xun	600
+慭	yin	600
+䲟	yin	600
 莺	ying	600
 婴	ying	600
+媖	ying	600
+瑛	ying	600
+䓨	ying	600
+锳	ying	600
 嘤	ying	600
+撄	ying	600
 缨	ying	600
 罂	ying	600
+樱	ying	600
+璎	ying	600
+鹦	ying	600
 嬰	ying	600
 應	ying	600
 鹰	ying	600
@@ -11418,41 +14554,94 @@ use_preset_vocabulary: false
 莹	ying	600
 萤	ying	600
 萦	ying	600
+溁	ying	600
+楹	ying	600
+滢	ying	600
+蓥	ying	600
+潆	ying	600
 蝇	ying	600
 瑩	ying	600
+嬴	ying	600
 營	ying	600
 螢	ying	600
+赢	ying	600
+瀛	ying	600
 蠅	ying	600
+郢	ying	600
+颍	ying	600
 颖	ying	600
+瘿	ying	600
 穎	ying	600
+媵	ying	600
 哟	yo	600
 唷	yo	600
 喲	yo	600
+痈	yong	600
+邕	yong	600
+鄘	yong	600
 墉	yong	600
+慵	yong	600
 壅	yong	600
 擁	yong	600
+澭	yong	600
+镛	yong	600
 臃	yong	600
+鳙	yong	600
 喁	yong	600
+颙	yong	600
+甬	yong	600
 咏	yong	600
 俑	yong	600
+栐	yong	600
 埇	yong	600
+恿	yong	600
+蛹	yong	600
+踊	yong	600
+鲬	yong	600
+㶲	yong	600
+攸	you	600
 呦	you	600
+麀	you	600
 憂	you	600
 優	you	600
 耰	you	600
+疣	you	600
+浟	you	600
 莜	you	600
 郵	you	600
 铀	you	600
+蚰	you	600
 猶	you	600
+鱿	you	600
+猷	you	600
 鈾	you	600
+鲉	you	600
+蝣	you	600
 卣	you	600
+酉	you	600
 羑	you	600
+铕	you	600
+槱	you	600
+牖	you	600
+黝	you	600
 侑	you	600
 囿	you	600
+宥	you	600
+柚	you	600
 祐	you	600
+蚴	you	600
+釉	you	600
 誘	you	600
+鼬	you	600
 纡	yu	600
+迂	yu	600
+淤	yu	600
+瘀	yu	600
+邘	yu	600
 妤	yu	600
+欤	yu	600
+玙	yu	600
+於	yu	600
 盂	yu	600
 臾	yu	600
 禺	yu	600
@@ -11460,189 +14649,432 @@ use_preset_vocabulary: false
 舁	yu	600
 娛	yu	600
 娱	yu	600
+狳	yu	600
+谀	yu	600
 萸	yu	600
+雩	yu	600
 魚	yu	600
+嵎	yu	600
+嵛	yu	600
+揄	yu	600
 腴	yu	600
+榆	yu	600
+瑜	yu	600
 艅	yu	600
+觎	yu	600
 漁	yu	600
 窬	yu	600
+褕	yu	600
+蝓	yu	600
 輿	yu	600
+髃	yu	600
 屿	yu	600
 羽	yu	600
 俣	yu	600
 禹	yu	600
 圄	yu	600
 圉	yu	600
+庾	yu	600
+敔	yu	600
+鄅	yu	600
+㺄	yu	600
+瑀	yu	600
+瘐	yu	600
 與	yu	600
 語	yu	600
 窳	yu	600
+龉	yu	600
 嶼	yu	600
 聿	yu	600
 芋	yu	600
 妪	yu	600
+饫	yu	600
 郁	yu	600
+昱	yu	600
+峪	yu	600
+彧	yu	600
+浴	yu	600
+钰	yu	600
 堉	yu	600
+悆	yu	600
+淯	yu	600
+阈	yu	600
 寓	yu	600
+棫	yu	600
 矞	yu	600
 裕	yu	600
+鹆	yu	600
+滪	yu	600
+煜	yu	600
+蓣	yu	600
 預	yu	600
+毓	yu	600
 獄	yu	600
+潏	yu	600
+遹	yu	600
+燏	yu	600
+燠	yu	600
+鹬	yu	600
 譽	yu	600
+鬻	yu	600
+鸢	yuan	600
 眢	yuan	600
+鸳	yuan	600
+蜎	yuan	600
+箢	yuan	600
 妧	wan	600
+沅	yuan	600
 垣	yuan	600
+爰	yuan	600
 員	yuan	600
+湲	yuan	600
+鼋	yuan	600
 園	yuan	600
 圓	yuan	600
 塬	yuan	600
+嫄	yuan	600
+辕	yuan	600
 緣	yuan	600
+橼	yuan	600
 羱	yuan	600
+螈	yuan	600
 遠	yuan	600
 苑	yuan	600
 垸	yuan	600
+掾	yuan	600
+瑗	yuan	600
 約	yue	600
+彟	yue	600
 刖	yue	600
+岳	yue	600
+玥	yue	600
 悅	yue	600
 粤	yue	600
 閱	yue	600
+樾	yue	600
+龠	yue	600
+瀹	yue	600
+爚	yue	600
 躍	yue	600
 籥	yue	600
 暈	yun	600
+氲	yun	600
+煴	yun	600
+赟	yun	600
+馧	yun	600
 勻	yun	600
 匀	yun	600
 妘	yun	600
+沄	yun	600
 芸	yun	600
+昀	yun	600
+郧	yun	600
+涢	yun	600
 耘	yun	600
 筠	yun	600
 筼	yun	600
+鋆	yun	600
+狁	yun	600
+陨	yun	600
+殒	yun	600
+郓	yun	600
+恽	yun	600
+酝	yun	600
+愠	yun	600
+缊	yun	600
 運	yun	600
+韫	yun	600
+熨	yun	600
 蘊	yun	600
 匝	za	600
 咂	za	600
+拶	za	600
 臜	za	600
 砸	za	600
 雜	za	600
 咋	za	600
 災	zai	600
+甾	zai	600
 栽	zai	600
 崽	zai	600
 載	zai	600
 糌	zan	600
 簪	zan	600
+昝	zan	600
+寁	zan	600
 攢	zan	600
+趱	zan	600
 暫	zan	600
+錾	zan	600
+酂	cuo	600
 贊	zan	600
+瓒	zan	600
+牂	zang	600
+赃	zang	600
 臧	zang	600
+驵	zang	600
 奘	zang	600
 臟	zang	600
 鑿	zao	600
 枣	zao	600
+蚤	zao	600
 棗	zao	600
 澡	zao	600
+璪	zao	600
 灶	zao	600
 唣	zao	600
+慥	zao	600
 噪	zao	600
 簉	zao	600
 燥	zao	600
+迮	ze	600
 則	ze	600
 啧	ze	600
+帻	ze	600
+笮	ze	600
 舴	ze	600
 責	ze	600
 箦	ze	600
+赜	ze	600
 擇	ze	600
 仄	ze	600
+昃	ze	600
 贼	zei	600
 賊	zei	600
+鲗	zei	600
+谮	zen	600
+鄫	zeng	600
+憎	zeng	600
 缯	zeng	600
 矰	zeng	600
 罾	zeng	600
+䎖	zeng	600
+锃	zeng	600
+甑	zeng	600
+吒	zha	600
+奓	zha	600
+挓	zha	600
 哳	zha	600
 喳	zha	600
+揸	zha	600
 渣	zha	600
+楂	zha	600
+齇	zha	600
 闸	zha	600
+铡	zha	600
 閘	zha	600
 劄	zha	600
+拃	zha	600
 眨	zha	600
 砟	zha	600
+鲊	zha	600
+鲝	zha	600
 咤	zha	600
+柞	zha	600
+栅	zha	600
+痄	zha	600
+蚱	zha	600
+溠	zha	600
+榨	zha	600
+䃎	zha	600
+霅	zha	600
+斋	zhai	600
 摘	zhai	600
 窄	zhai	600
 債	zhai	600
+寨	zhai	600
+瘵	zhai	600
 沾	zhan	600
 毡	zhan	600
+旃	zhan	600
+栴	zhan	600
+詹	zhan	600
+谵	zhan	600
 氈	zhan	600
 瞻	zhan	600
+鹯	zhan	600
+鳣	zhan	600
+斩	zhan	600
+飐	zhan	600
 崭	zhan	600
+搌	zhan	600
 盞	zhan	600
 嶄	zhan	600
+辗	nian	600
+栈	zhan	600
 偡	zhan	600
 绽	zhan	600
+湛	zhan	600
 戰	zhan	600
 蘸	zhan	600
 張	zhang	600
+鄣	zhang	600
+嫜	zhang	600
+彰	zhang	600
+漳	zhang	600
+獐	zhang	600
+暲	zhang	600
 樟	zhang	600
+璋	zhang	600
+蟑	zhang	600
 仉	zhang	600
 長	zhang	600
 漲	zhang	600
+杖	zhang	600
 帳	zhang	600
 脹	zhang	600
+嶂	zhang	600
+幛	zhang	600
+瘴	zhang	600
+钊	zhao	600
+昭	zhao	600
+啁	zhao	600
+沼	zhao	600
+诏	zhao	600
 笊	zhao	600
+旐	zhao	600
+棹	zhao	600
 肇	zhao	600
+曌	zhao	600
+蜇	zhe	600
+晢	zhe	600
+辄	zhe	600
 喆	zhe	600
+蛰	zhe	600
+詟	zhe	600
+谪	zhe	600
 磔	zhe	600
+辙	zhe	600
 啫	zhe	600
+锗	zhe	600
+赭	zhe	600
+褶	zhe	600
+柘	zhe	600
+浙	zhe	600
 這	zhe	600
 蔗	zhe	600
+鹧	zhe	600
+䗪	zhe	600
+贞	zhen	600
+帧	zhen	600
+浈	zhen	600
 胗	zhen	600
+桢	zhen	600
 砧	zhen	600
 祯	zhen	600
 針	zhen	600
 偵	zhen	600
 葴	zhen	600
+甄	zhen	600
+蓁	zhen	600
+榛	zhen	600
+瑧	zhen	600
 禛	zhen	600
 箴	zhen	600
 臻	zhen	600
+昣	zhen	600
+轸	zhen	600
+疹	zhen	600
+袗	zhen	600
 診	zhen	600
 缜	zhen	600
 稹	zhen	600
+鬒	zhen	600
 纼	zhen	600
 陣	zhen	600
+鸩	zhen	600
+朕	zhen	600
+赈	zhen	600
+揕	zhen	600
 鎮	zhen	600
 爭	zheng	600
+峥	zheng	600
 挣	zheng	600
+狰	zheng	600
+钲	zheng	600
 掙	zheng	600
 睁	zheng	600
+铮	zheng	600
 筝	zheng	600
 睜	zheng	600
+拯	zheng	600
+诤	zheng	600
 証	zheng	600
 鄭	zheng	600
 卮	zhi	600
 汁	zhi	600
 芝	zhi	600
 吱	zhi	600
+泜	zhi	600
+栀	zhi	600
 祗	zhi	600
 胝	zhi	600
 脂	zhi	600
+禔	zhi	600
 稙	zhi	600
+榰	zhi	600
 蜘	zhi	600
 織	zhi	600
 埴	zhi	600
 執	zhi	600
 絷	zhi	600
+跖	zhi	600
+摭	zhi	600
+踯	zhi	600
 職	zhi	600
+扺	zhi	600
+沚	zhi	600
 芷	zhi	600
 祉	zhi	600
 咫	zhi	600
+枳	zhi	600
+轵	zhi	600
 紙	zhi	600
+趾	zhi	600
+黹	zhi	600
+酯	zhi	600
+徵	zheng	600
+豸	zhi	600
+帙	zhi	600
 帜	zhi	600
+炙	zhi	600
+郅	zhi	600
+峙	zhi	600
+庤	zhi	600
+陟	zhi	600
+挚	zhi	600
+晊	zhi	600
+桎	zhi	600
+贽	zhi	600
+梽	zhi	600
+畤	zhi	600
+痔	zhi	600
 窒	zhi	600
+铚	zhi	600
+鸷	zhi	600
+彘	zhi	600
+滞	zhi	600
+痣	zhi	600
+蛭	zhi	600
+骘	zhi	600
+滍	zhi	600
 稚	zhi	600
+跱	zhi	600
+锧	zhi	600
+雉	zhi	600
+疐	zhi	600
 幟	zhi	600
+觯	zhi	600
 質	zhi	600
+踬	zhi	600
 擲	zhi	600
+柊	zhong	600
 盅	zhong	600
 舯	zhong	600
+衷	zhong	600
 終	zhong	600
+锺	zhong	600
+螽	zhong	600
 鐘	zhong	600
 肿	zhong	600
 冢	zhong	600
@@ -11650,47 +15082,77 @@ use_preset_vocabulary: false
 種	zhong	600
 茽	zhong	600
 眾	zhong	600
+诌	zhou	600
+辀	zhou	600
+婤	chou	600
+鸼	zhou	600
+赒	zhou	600
 妯	zhou	600
 軸	zhou	600
+碡	du	600
 肘	zhou	600
 纣	zhou	600
+㑇	zhou	600
 咒	zhou	600
+㤘	zhou	600
 绉	zhou	600
 胄	zhou	600
 荮	zhou	600
 皱	zhou	600
+酎	zhou	600
 晝	zhou	600
 皺	zhou	600
 骤	zhou	600
 籀	zhou	600
 驟	zhou	600
+邾	zhu	600
+洙	zhu	600
 茱	zhu	600
 株	zhu	600
 蛛	zhu	600
+槠	zhu	600
+潴	zhu	600
+橥	zhu	600
 諸	zhu	600
 豬	zhu	600
 竺	zhu	600
 舳	zhu	600
+瘃	zhu	600
 燭	zhu	600
+蠋	zhu	600
+躅	zhu	600
 拄	zhu	600
+渚	zhu	600
 煮	zhu	600
+麈	zhu	600
 囑	zhu	600
 伫	zhu	600
 纻	zhu	600
 苎	zhu	600
+杼	zhu	600
+贮	zhu	600
+柷	chu	600
+炷	zhu	600
+疰	zhu	600
 砫	zhu	600
 蛀	zhu	600
 箸	zhu	600
 翥	zhu	600
 駐	zhu	600
 鑄	zhu	600
+髽	zhua	600
+䏝	zhuan	600
 專	zhuan	600
+颛	zhuan	600
 磚	zhuan	600
 轉	zhuan	600
 啭	zhuan	600
+瑑	zhuan	600
 僎	zhuan	600
 赚	zhuan	600
+撰	zhuan	600
 篆	zhuan	600
+馔	zhuan	600
 賺	zhuan	600
 桩	zhuang	600
 莊	zhuang	600
@@ -11698,47 +15160,113 @@ use_preset_vocabulary: false
 樁	zhuang	600
 壯	zhuang	600
 狀	zhuang	600
+隹	zhui	600
+骓	zhui	600
+椎	chui	600
 坠	zhui	600
 缀	zhui	600
+惴	zhui	600
 缒	zhui	600
 墜	zhui	600
 綴	zhui	600
 肫	zhun	600
 窀	zhun	600
+谆	zhun	600
+衠	zhun	600
+拙	zhuo	600
 倬	zhuo	600
+棁	zhuo	600
+涿	zhuo	600
+䦃	zhuo	600
+汋	zhuo	600
+灼	zhuo	600
 卓	zhuo	600
 叕	zhuo	600
 茁	zhuo	600
+斫	zhuo	600
+浞	zhuo	600
+诼	zhuo	600
+晫	zhuo	600
+椓	zhuo	600
+䓬	zhuo	600
 禚	zhuo	600
 濁	zhuo	600
+擢	zhuo	600
+濯	zhuo	600
+镯	zhuo	600
+孜	zi	600
 咨	zi	600
+赀	zi	600
+淄	zi	600
 嗞	zi	600
+孳	zi	600
+嵫	zi	600
 粢	zi	600
+辎	zi	600
+鄑	zi	600
+觜	zi	600
 資	zi	600
+趑	zi	600
+锱	zi	600
+镃	zi	600
+龇	zi	600
+鼒	zi	600
+髭	zi	600
+鲻	zi	600
 姊	zi	600
 秭	zi	600
 籽	zi	600
 耔	zi	600
+虸	zi	600
 笫	zi	600
+梓	zi	600
+滓	zi	600
+訾	zi	600
+恣	zi	600
+渍	zi	600
 倧	zong	600
+棕	zong	600
 腙	zong	600
 綜	zong	600
 蹤	zong	600
+鬃	zong	600
+鬷	zong	600
 偬	zong	600
 總	zong	600
+疭	zong	600
 粽	zong	600
 縱	zong	600
+邹	zou	600
+驺	zou	600
+诹	zou	600
+陬	zou	600
+鄹	zou	600
+鲰	zou	600
 揍	zou	600
+崒	zu	600
+诅	zu	600
+珇	zu	600
 組	zu	600
+躜	zuan	600
 鑽	zuan	600
 缵	zuan	600
 纂	zuan	600
 攥	zuan	600
+槜	zui	600
+蕞	zui	600
+嶟	zun	600
+鳟	zun	600
 僔	zun	600
+噂	zun	600
+嘬	chuai	600
+捽	zuo	600
 琢	zuo	600
+阼	zuo	600
+岞	zuo	600
 祚	zuo	600
 胙	zuo	600
 唑	zuo	600
+酢	cu	600
 參	shen	490
 稱	chen	490
 傳	zhuan	490
@@ -11757,8 +15285,6 @@ use_preset_vocabulary: false
 沒	mo	490
 吶	na	490
 呐	na	490
-嗯	ng	490
-哦	e	490
 剎	cha	490
 吁	yu	490
 削	xiao	490

@@ -36,7 +36,8 @@ function normalizePinyin(raw) {
 function parseCharReadings(text) {
   const map = new Map();
   for (const line of text.split(/\r?\n/)) {
-    const m = line.match(/^U\+([0-9A-Fa-f]+):\s*([^#]+?)\s*(?:#\s*(\S+))?$/);
+    // kMandarin 的多音字会在注释里追加 “-> 又音”，这里只取第一个读音字段。
+    const m = line.match(/^U\+([0-9A-Fa-f]+):\s*([^#]+?)\s*(?:#\s*(\S+).*)?\s*$/);
     if (!m) continue;
     const ch = String.fromCodePoint(parseInt(m[1], 16));
     if (!/[\u3400-\u9fff]/.test(ch)) continue;
